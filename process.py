@@ -3,8 +3,8 @@ import re
 from urllib.parse import urlparse
 from collections import defaultdict
 
-# Sports keywords to filter out (case-insensitive)
-sports_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf"]
+# Keywords to filter out (case-insensitive)
+filter_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
 
 # EPG URL
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
@@ -37,8 +37,8 @@ for url in urls:
                         if title_match:
                             title = title_match.group(1).strip()
                             title_lower = title.lower()
-                            # Skip if sports keyword in title
-                            if any(kw in title_lower for kw in sports_keywords):
+                            # Skip if keyword in title
+                            if any(kw in title_lower for kw in filter_keywords):
                                 i += 2
                                 continue
                             # Clean: Ensure valid URL
