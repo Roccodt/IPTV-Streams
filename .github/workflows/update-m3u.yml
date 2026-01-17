@@ -2,7 +2,7 @@ name: Update Cleaned M3U
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'  # Every 3 days at midnight UTC
+    - cron: '0 0 */2 * *'  # Every 2 days at midnight UTC
   workflow_dispatch:  # Manual trigger via GitHub UI
 
 jobs:
@@ -22,6 +22,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          git pull origin main --rebase  # Pull and rebase to integrate latest changes
           git add cleaned.m3u channels.txt
           git commit -m "Auto-update cleaned M3U and channels list" || echo "No changes"
-          git push
+          git push2
