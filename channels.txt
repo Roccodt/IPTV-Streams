@@ -1,0 +1,921 @@
+.CA.us" tvg-name="FOX" tvg-logo="https://i.ibb.co/QSHZDzQ/FOX.png" group-title="US Channels",FOX
+.Rays,.Heat).us" tvg-name="FDSN Sun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61084_dark_360w_270h.png" group-title="TV",FDSN Sun
+24/7 Horror Movies
+24/7 WABC ABC 7 NY
+24/7 WPVI ABC 6 NEWS PA
+4Seven FHD
+5 STARMAX
+80'S SITCOM FLASHBACK
+A&E
+A&E HD
+A&E SD
+A&E TV
+ABC
+ABC (KMIZ) MO
+ABC (KTVO) MO
+ABC NEWS 24/7
+ABC News Live
+ACC NETWORK
+ACC Network
+ACC Network HD
+ACC Network SD
+ACCUWEATHER NOW
+ACL CORNHOLE TV
+AMC
+AMC HD
+AMC SD
+AMC THRILLERS
+AMERICAN HEROS CHANNEL
+ANGER MANAGEMNT
+ANIMAL PLANET
+ANTENNA
+ASPIRE
+AT THE MOVIES
+Adult Swim
+American Heroes Channel HD
+American Heroes Channel SD
+Animal Planet
+Animal Planet FHD
+Animal Planet HD
+Animal Planet SD
+Aqua Teen Hunger Force
+Aspire
+Astro Grandstand
+Astro Premier League
+Astro Premier League 2
+BASSMASTER
+BBC AMERICA
+BBC America
+BBC America HD
+BBC America SD
+BBC EARTH
+BBC News FHD
+BBC One FHD
+BBC Three / CBBC FHD
+BBC Two FHD
+BBC WORLD NEWS
+BBC World News
+BBC World News HD HD
+BBC World News HD SD
+BET
+BET GOSPEL
+BET HD
+BET HER
+BET Her HD
+BET Her SD
+BET JAMS
+BET SD
+BET SOUL
+BIG TEN NETWORK
+BILLIARD TV
+BIZARRE FOODS WITH ANDREW ZIMMERN
+BLAZE (LIVE)
+BLOOMBERG
+BOOMERANG
+BOUNCE
+BOUNCE XL
+BRAVO
+BUZZR
+Big Ten Network
+Big Ten Network HD
+Big Ten Network SD
+Black Jesus
+Bloomberg TV
+Bloomberg TV HD
+Bloomberg TV SD
+Bloomberg TV UHD
+Boomerang
+Boomerang HD
+Boomerang SD
+Bounce TV
+Bravo HD
+Bravo SD
+Bravo TV
+Buzzr
+C-SPAN
+CA TSN 1 (E)
+CA TSN 1 (R)
+CA TSN 2 (R)
+CA TSN 2 HD
+CA TSN 3 HD
+CA TSN 4
+CA TSN 4 (B)
+CA TSN 4 HD
+CA TSN 5
+CA TSN 5 HD
+CA: Golf Channel HD
+CA: World Fishing Network
+CAR CHASE
+CARBON TV
+CARTOON NETWORK
+CBC News Network
+CBS
+CBS (KRCG) MO
+CBS (KSMO)MO
+CBS (KTVO) MO
+CBS NEWS
+CBS NEWS 24/7
+CBS News 24/7
+CELEBRITY NAME GAME
+CINEBOX: ANIMATION
+CINEBOX: BLOCKBUSTERS
+CINEBOX: CLASSIC
+CINEBOX: COMEDY
+CINEBOX: CULT
+CINEBOX: FAMILY
+CINEBOX: GREATS
+CINEBOX: GREATS TWO
+CINEBOX: HISTORICAL
+CINEBOX: HITS
+CINEBOX: MUSICAL
+CINEBOX: MYSTERY
+CINEBOX: PREMIERE
+CINEBOX: ROMANCE
+CINEBOX: SCI-FI
+CINEBOX: THRILLER
+CINEBOX: WESTERN
+CINEMAX
+CINEMAX MOREMAX
+CLEO TV
+CMT
+CMT HD
+CMT SD
+CNBC
+CNBC HD
+CNBC SD
+CNBC WORLD (Offline)
+CNN
+CNN HD
+CNN INTERNATIONAL
+CNN SD
+CNN UK FHD
+COMEDY CENTRAL
+COMEDY TV
+COMET
+COOKING CHANNEL
+COURT TV (Offline)
+COWBOY CHANNEL
+COZI TV
+CP24
+CRAVE 1
+CRAVE 1 HD
+CRAVE 2
+CRAVE 2 HD
+CRAVE 3
+CRAVE 3 HD
+CRAVE 4
+CRAVE 4 HD
+CRIME+INVESTIGATION
+CSPAN 2 HD
+CSPAN 2 SD
+CSPAN HD
+CSPAN SD
+CTV 2
+CTV NATURE
+CTV News
+CW
+CW (KCWE) MO
+CW (KOMU) MO
+CW (KYOU) IA
+CW (WCCB) NC
+CW (WPIX) NY
+CW FOREVER
+CW GOLD
+Cartoon Network
+Cartoon Network FHD
+Cartoon Network HD
+Cartoon Network SD
+Cartoon Network UK FHD
+Channel 4 FHD
+Channel 5
+Channel 5 FHD
+Charge
+Cinemax HD
+Cinemax SD
+Comedy Central
+Comedy Central FHD
+Comedy Central HD
+Comedy Central SD
+Comedy TV
+Comet TV
+Cooking Channel
+Cooking Channel HD
+Cooking Channel SD
+Court TV
+Cozi TV
+Crime & Investigation HD HD
+Crime & Investigation HD SD
+Crime & Investigation Network
+DARCIZZLE OFFSHORE
+DESTINATION AMERICA
+DISCOVERY CHANNEL
+DISCOVERY FAMILY CHANNEL
+DISCOVERY LIFE
+DISCOVERY SCIENCE
+DISNEY CHANNEL
+DISNEY JR
+DISNEY XD
+Destination America HD
+Destination America SD
+Discovery Channel
+Discovery Channel FHD
+Discovery Family Channel
+Discovery Family Channel HD
+Discovery Family Channel SD
+Discovery HD
+Discovery Life
+Discovery Life HD
+Discovery Life SD
+Discovery SD
+Discovery Science
+Disney
+Disney Channel
+Disney Channel (East) HD
+Disney Channel (East) SD
+Disney Junior
+Disney Junior HD
+Disney Junior SD
+Disney XD
+Disney XD HD
+Disney XD SD
+Dream Corp LLC
+E ENTERTAINMENT
+E! Entertainment
+E! HD
+E! SD
+E4 FHD
+EPIX
+EPIX 2
+EPIX DRIVE-IN
+EPIX HITS
+FAMILY FEUD
+FAMILY FEUD CLASSIC
+FANDUEL TV
+FDSN Detroit
+FDSN Florida
+FDSN Midwest
+FDSN North
+FDSN Ohio
+FDSN Oklahoma
+FDSN SoCal
+FDSN Southeast
+FDSN Southwest
+FDSN West
+FDSN Wisconsin
+FIFA+ TV
+FOOD NETWORK
+FOX (KYOU) IA
+FOX (WDAF) MO
+FOX (WNYW) NY
+FOX (WTFX) PA
+FOX NEWS CHANNEL
+FOX News Channel HD
+FOX News Channel SD
+FOX SOUL
+FOX WEATHER
+FOX(KQFX) MO
+FREE MOVIES PLUS
+FREEBIE TV
+FREEFORM 1
+FREEFORM 2
+FS1
+FS1 HD
+FS2 (Offline)
+FS2 HD
+FUSE
+FX
+FX (SP/EN)
+FX HD
+FX Movie Channel
+FX Movie HD
+FX Movie SD
+FX SD
+FXM
+FXX
+FXX HD
+FXX SD
+FYI FHD
+FYI HD
+FYI SD
+FYI TV
+FanDuel TV
+Fashion TV UHD
+Film4 FHD
+Food Network
+Food Network HD
+Food Network SD
+Fox
+Fox Business
+Fox Business Network HD
+Fox Business Network SD
+Fox News
+Freeform HD
+Freeform SD
+Freeform TV
+Fuse HD HD
+Fuse HD SD
+GAME AND FISH TV
+GAME SHOW CENTRAL
+GB News FHD
+GET TV
+GREAT AMERICAN FAMILY
+GRIT TV
+Game Show Network
+Global News
+Golf Channel
+Golf Channel HD
+Golf Channel SD
+Golf Channel USA FHD
+Grit TV
+HALLMARK FAMILY
+HALLMARK MYSTERIES
+HALMARK CHANNEL
+HBO
+HBO 2
+HBO 2 East HD
+HBO 2 East SD
+HBO Comedy
+HBO Comedy FHD
+HBO Comedy HD HD
+HBO Comedy HD SD
+HBO East HD
+HBO East SD
+HBO FAMILY
+HBO Family
+HBO Family East HD
+HBO Family East SD
+HBO Signature HD
+HBO Signature SD
+HBO ZONE
+HBO Zone
+HBO Zone HD HD
+HBO Zone HD SD
+HBO2
+HERSPHERE BY LOINSGATE
+HGTV
+HGTV (NZ)
+HGTV HD
+HGTV SD
+HISTORY
+HISTORY HIT
+HIT SITCOMS
+HLN
+HLN HD
+HLN SD
+HLN TV
+HOME 4K
+HORROR BY ALTER
+HSN
+HUNT FISH TV
+Hallmark Channel
+Hallmark Drama HD HD
+Hallmark Drama HD SD
+Hallmark Family
+Hallmark HD
+Hallmark Movies & Mysteries HD HD
+Hallmark Movies & Mysteries HD SD
+Hallmark Mystery
+Hallmark SD
+History Channel
+History HD
+History SD
+Hub Premier 1 FHD
+Hub Premier 2 FHD
+Hub Premier 3 FHD
+Hub Premier 4 FHD
+ID CHANNEL
+IFC
+IFC FILMS PICKS
+IFC HD
+IFC SD
+INSP TV
+ION
+ION PLUS
+ION TV
+ION Television East HD HD
+ION Television East HD SD
+IRIB UHD
+In the Garage
+InfoWars Network
+InfoWars The Alex Jones Show
+InfoWars The American Journal
+InfoWars War Room With Owen Shroyer
+Infomercials
+Investigation Discovery
+Investigation Discovery HD
+Investigation Discovery SD
+KALOOPY MUSIC
+LAFF MORE
+LAFF TV
+LIFETIME
+LIFETIME MOVIE NETWORK
+LIVENOW FOX 24/7
+LMN HD
+LMN SD
+LOONEY TUNES
+LOVE NATURE
+Last Stream on the Left
+Lifetime
+Lifetime HD
+Lifetime Movie Network
+Lifetime SD
+Live Event 1
+Live Event 2
+Live Event 3
+Live Event 4
+Live Event 5
+Live Event 6
+Live Event 7
+Live Event 8
+Logo HD
+Logo SD
+Loupe 4K
+Love Nature 4K
+M4: Action
+M4: Adam Sandler
+M4: Adventure
+M4: Al Pacino
+M4: Alicia Vikander
+M4: Alien
+M4: Amy Adams
+M4: Angelina Jolie
+M4: Animation
+M4: Anne Hathaway
+M4: Arnold Schwarzenegger
+M4: Avengers
+M4: Batman
+M4: Benedict Cumberbatch
+M4: Biography
+M4: Blade
+M4: Blade Runner
+M4: Brad Pitt
+M4: Bradley Cooper
+M4: Brie Larson
+M4: Bruce Willis
+M4: Cameron Diaz
+M4: Cate Blanchett
+M4: Catherine Zeta-Jones
+M4: Charlize Theron
+M4: Christian Bale
+M4: Cillian Murphy
+M4: Comedy
+M4: Creature
+M4: Crime
+M4: Daniel Craig
+M4: Deadpool
+M4: Denzel Washington
+M4: Die Hard
+M4: Drama
+M4: Drew Barrymore
+M4: Dwayne Johnson
+M4: Edward Norton
+M4: Emma Stone
+M4: Emma Watson
+M4: Epic
+M4: Eva Green
+M4: Family
+M4: Fantasy
+M4: Fast and the Furious
+M4: Final Destination
+M4: Gerard Butler
+M4: Ghostbusters
+M4: Halle Berry
+M4: Hangover
+M4: Harry Potter
+M4: Helen Mirren
+M4: History
+M4: Horror
+M4: Hugh Jackman
+M4: Ice Age
+M4: Indiana Jones
+M4: Jack Nicholson
+M4: Jackie Chan
+M4: Jake Gyllenhaal
+M4: James Bond (007)
+M4: Jamie Foxx
+M4: Jason Statham
+M4: Jeff Bridges
+M4: Jennifer Aniston
+M4: Jennifer Lawrence
+M4: Jessica Alba
+M4: Jim Carrey
+M4: John Wick
+M4: Johnny Depp
+M4: Julia Roberts
+M4: Julianne Moore
+M4: Jurassic Park
+M4: Kate Winslet
+M4: Keanu Reeves
+M4: Keira Knightley
+M4: Kevin Hart
+M4: Kingsman
+M4: Kristen Stewart
+M4: Legendary
+M4: Leonardo DiCaprio
+M4: Liam Neeson
+M4: Lucy Liu
+M4: Lupita Nyong` o
+M4: Mad Max
+M4: Margot Robbie
+M4: Mark Wahlberg
+M4: Matt Damon
+M4: Maze Runner
+M4: Megan Fox
+M4: Melissa McCarthy
+M4: Men in Black
+M4: Meryl Streep
+M4: Micheal Caine
+M4: Michelle Pfeiffer
+M4: Mila Kunis
+M4: Mission Impossible
+M4: Morgan Freeman
+M4: Musical
+M4: Mystery
+M4: Mythological
+M4: Natalie Portman
+M4: Nicole Kidman
+M4: Oceans Eleven
+M4: Orlando Bloom
+M4: Penope Cruz
+M4: Pirates of the Caribbean
+M4: Planet of Apes
+M4: Post-Apocalyptic
+M4: Rachel McAdams
+M4: Reese Witherspoon
+M4: Resident Evil
+M4: Robert Downey Jr
+M4: Robot
+M4: Rocky
+M4: Romantic
+M4: Russell Crowe
+M4: Ryan Reynolds
+M4: Salma Hayek
+M4: Samuel L. Jakson
+M4: Sandra Bullock
+M4: Saoirse Ronan
+M4: Saw
+M4: Scarlett Johansson
+M4: Science Fiction
+M4: Sherlock Holmes
+M4: Shrek
+M4: Sigourney Weaver
+M4: Space
+M4: Spiderman
+M4: Spy
+M4: Star Wars
+M4: Superhero
+M4: Survival
+M4: Sylvester Stallone
+M4: The Bourne
+M4: The Conjuring
+M4: The Expendables
+M4: The Godfather
+M4: The Hobbit
+M4: The Hunger Games
+M4: The Karete Kid
+M4: The Lord of The Rings
+M4: The Matrix
+M4: The Mummy
+M4: The Purge
+M4: The Terminator
+M4: Three Flavours Cornetto
+M4: Thriller
+M4: Tom Cruise
+M4: Tom Hanks
+M4: Tom Hardy
+M4: Toy Story
+M4: Transformers
+M4: Twilight Saga
+M4: Vin Diesel
+M4: Viola Davis
+M4: War
+M4: Western
+M4: Will Smith
+M4: X-Men
+M4: Zombie
+MAGNOLIA NETWORK
+METV
+MILITARY HISTORY
+MLB NETWORK
+MLB Network
+MLB Network HD
+MLB Network SD
+MLB Strike Zone
+MOTORTREND
+MS NOW
+MSG
+MSG FHD
+MSG_PLUS FHD
+MSNBC
+MSNBC HD
+MSNBC SD
+MTV
+MTV CLASSIC
+MTV FHD
+MTV HD
+MTV LIVE
+MTV SD
+MTV2
+MTVU
+MUCH
+MUSEUM TV 4K
+MeTV Toons HD
+MeTV Toons SD
+Metalocalypse
+More4 FHD
+MoreMAX HD
+MoreMAX SD
+MotorTrend HD HD
+MotorTrend HD SD
+MotorTrend TV
+MovieMAX HD
+MovieMAX SD
+Mr. Pickles
+MyZen 4K (Multi Audio)
+NATIONAL GEOGRAPHIC CHANNEL
+NATIONAL GEOGRAPHIC WILD
+NBC
+NBC (KOMU) MO
+NBC (KSHB) MO
+NBC (KYOU) IA
+NBC (WCAU) PA
+NBC GOLF
+NBC NEWS 24/7
+NBC News NOW
+NESN
+NESN FHD
+NESN UHD
+NEWSNATION
+NHL 01:
+NHL 02:
+NHL 03:
+NHL 04:
+NHL NETWORK
+NHL Network
+NHL Network HD
+NHL Network SD
+NICKELODEON
+NICKJR
+NICKMUSIC
+NICKTOONS
+NITRO CIRCUS
+Nat Geo WILD HD
+Nat Geo WILD SD
+National Geographic
+National Geographic HD
+National Geographic SD
+News 12 ("Connecticut" Norwalk CT)
+News 12 ("Hudson Valley" West Nyack NY)
+News 12 ("New Jersey" Edison NJ)
+News 12 ("Westchester" Yonkers NY)
+News 12 (Bronx NY)
+News 12 (Brooklyn NY)
+News 12 (Long Island NY)
+News 12 (New York NY)
+News 12+ ("Connecticut" Norwalk CT)
+News 12+ ("New Jersey" Edison NJ)
+News 12+ ("Westchester" Yonkers NY)
+News 12+ (Bronx NY)
+News 12+ (Long Island NY)
+NewsMax
+NewsNation
+Newsmax TV HD
+Newsmax TV SD
+Nick Jr. FHD
+Nick Jr. HD
+Nick Jr. SD
+Nick Jr. UK FHD
+Nickelodeon
+Nickelodeon East HD
+Nickelodeon East SD
+Nickelodeon FHD
+Nickelodeon UK FHD
+Nicktoon UK
+Nicktoons
+Nicktoons HD
+Nicktoons SD
+OUTDOOR CHANNEL
+OUTSIDE TV
+OVATION
+OWN
+OWN HD
+OWN SD
+OXYGEN TRUE CRIME
+Off The Air / Smalls
+Outdoor Channel
+Outdoor Channel HD
+Outdoor Channel SD
+Ovation
+Oxygen
+Oxygen True Crime HD
+Oxygen True Crime SD
+PARAMOUNT MOVIE CHANNEL
+PARAMOUNT NETWORK
+PARAMOUNT+ PICKS
+PBS 13 (WNET) New York HD
+PBS 13 (WNET) New York SD
+PURSUIT CHANNEL
+Paramount Network
+Peacock Premier League TV
+Pop TV
+QVC
+RACER
+REDBULL
+REELZ CHANNEL
+REVOLT
+Reelz Channel
+ReelzChannel HD
+ReelzChannel SD
+Rick and Morty
+Robot Chicken
+SCARES BY SHUDDER
+SEC NETWORK
+SEC Network
+SEC Network HD
+SEC Network SD
+SG: Hub Premier 2 UHD
+SHOWTIME
+SHOWTIME 2
+SHOWTIME 2 HD
+SHOWTIME 2 SD
+SHOWTIME EXTREME You have to timeshift it to west coast time zone.
+SHOWTIME NEXT
+SHOWTIME WOMEN
+SMITHSONIAN CHANNEL
+SNL VAULT
+SONY MOVIE CHANNEL
+SOUTH PARK
+SOUTH PARK: CARTMAN COLLECTION
+SOUTH PARK: KENNY COLLECTION
+SOUTH PARK: KYLE COLLECTION
+SOUTH PARK: STAN COLLECTION
+STADIUM CHANNEL
+STARS COMEDY
+STARS EDGE (WEST)  You ave to timeshift it to west coast time zone.
+STARS ENCORE
+STARS ENCORE ACTION
+STARS ENCORE WESTERNS
+START TV
+STARZ (EAST)
+STARZ (WEST)
+STARZ ENCORE CLASSIC
+STARZ East HD
+STARZ East SD
+SUNDANCE
+SYFY
+SYFY HD
+SYFY SD
+Samurai Jack
+Science HD
+Science SD
+Showtime
+Showtime (E) HD
+Showtime (E) SD
+Sky Atlantic FHD
+Sky Cinema Action FHD
+Sky Cinema Comedy FHD
+Sky Cinema Family FHD
+Sky Cinema Hits FHD
+Sky Cinema Premiere FHD
+Sky Cinema Select FHD
+Sky News FHD
+Smithsonian Channel
+Sony Movie Channel
+Space City Home Network
+Squidbillies
+Starz
+SundanceTV HD HD
+SundanceTV HD SD
+Syfy
+TBS
+TBS (WEST)
+TBS HD
+TBS SD
+TCM
+TCM HD
+TCM SD
+TLC
+TLC HD
+TLC SD
+TNT
+TNT (EAST)
+TNT (WEST)
+TNT FHD
+TNT HD
+TNT SD
+TRAVEL CHANNEL
+TRUTV
+TRUTV (EAST)
+TRUTV (WEST)
+TSN 1
+TSN 2
+TSN 3
+TSN 4
+TSN 5
+TSN1
+TSN2
+TSN3
+TSN4
+TSN5
+TV Land
+TV One
+TV One HD HD
+TV One HD SD
+TVLAND
+TVONE
+TeenNick FHD
+TeenNick HD
+TeenNick SD
+Telemundo East HD
+Telemundo East SD
+The CW (WPIX New York) HD
+The CW (WPIX New York) SD
+The Eric Andre Show
+The Movie Channel East HD
+The Movie Channel East SD
+The Venture Bros.
+The Weather Channel
+The Weather Channel HD
+The Weather Channel SD
+Tim and Eric Awesome Show
+Travel Channel HD
+Travel Channel SD
+Travelxp 4K
+Turner Classic Movies
+UK: SKY SP RACING FHD
+UNXPLAINED ZONE
+UP TV
+US Golf Channel
+US MASN (A)
+US MASN2
+US MSG (A)
+US MSG Plus
+US MSG2 (F)
+US MotorTrend (A)
+US NHL Network
+US Poker Go
+US Pursuit UP
+US World Fishing Network (F)
+US World Poker Tour
+US YES Network
+US: NESN UHD
+US: WWE NETWORK
+USA East
+USA NETWORK
+USA Network FHD
+USA Network HD
+USA Network SD
+USA | NHL Game 01
+Universal Kids HD
+Universal Kids SD
+Univision East HD
+Univision East SD
+VH1
+VH1 HD
+VH1 SD
+VICE
+VICE HD
+VICE SD
+Vice TV
+W NETWORK
+WABC (New York) ABC East HD
+WABC (New York) ABC East SD
+WAYPOINT TV
+WCBS (New York) CBS East HD
+WCBS (New York) CBS East SD
+WE tv HD
+WE tv SD
+WEATHER CHANNEL
+WEST TV
+WGN
+WIRED2FISH
+WNBC (New York) NBC East HD
+WNBC (New York) NBC East SD
+WNYW (New York) FOX East HD
+WNYW (New York) FOX East SD
+WOMEN ENTERTAINMENT
+WORLD FISHING NETWORK
+WORLD POKER TOUR
+WWE NETWORK
+YES NETWORK
+YES Network
+Your Pretty Face is Going to Hell
+[ 24/7 MOVIES ]
+[ 24/7 PROGRAMS ]
+[ AS ]5PM-6AM.est
+[ AS ]8PM-9AM.est
+[ Adult Swim ] (CA)
+[ EVENTS ]
+[ LOCAL TV ]
+[ MOVEONJOY+ ]
+[ NEWS OTHER ]
+[ Radio/Music ]
+getTV
+iTV1 FHD
+iTV2 FHD
+iTV3 FHD
+iTV4 FHD
+truTV
+truTV FHD
+truTV HD
+truTV SD
