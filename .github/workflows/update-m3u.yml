@@ -21,6 +21,10 @@ jobs:
           python-version: '3.x'
       - name: Install dependencies
         run: pip install requests
+      - name: Install FFmpeg
+        run: |
+          sudo apt update
+          sudo apt install -y ffmpeg
       - name: Run script
         run: python process.py
       - name: Commit and push if changed
