@@ -2,7 +2,6 @@
 .Rays,.Heat).us" tvg-name="FDSN Sun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61084_dark_360w_270h.png" group-title="TV",FDSN Sun
 24/7 Horror Movies
 24/7 WABC ABC 7 NY
-24/7 WPVI ABC 6 NEWS PA
 4Seven FHD
 5 STARMAX
 80'S SITCOM FLASHBACK
@@ -13,8 +12,6 @@ A&E TV
 ABC
 ABC (KMIZ) MO
 ABC (KTVO) MO
-ABC NEWS 24/7
-ABC News Live
 ACC NETWORK
 ACC Network
 ACC Network HD
@@ -49,14 +46,9 @@ BBC America
 BBC America HD
 BBC America SD
 BBC EARTH
-BBC News FHD
 BBC One FHD
 BBC Three / CBBC FHD
 BBC Two FHD
-BBC WORLD NEWS
-BBC World News
-BBC World News HD HD
-BBC World News HD SD
 BET
 BET GOSPEL
 BET HD
@@ -103,19 +95,14 @@ CA TSN 4 (B)
 CA TSN 4 HD
 CA TSN 5
 CA TSN 5 HD
-CA: Golf Channel HD
 CA: World Fishing Network
 CAR CHASE
 CARBON TV
 CARTOON NETWORK
-CBC News Network
 CBS
 CBS (KRCG) MO
 CBS (KSMO)MO
 CBS (KTVO) MO
-CBS NEWS
-CBS NEWS 24/7
-CBS News 24/7
 CELEBRITY NAME GAME
 CINEBOX: ANIMATION
 CINEBOX: BLOCKBUSTERS
@@ -172,7 +159,6 @@ CSPAN HD
 CSPAN SD
 CTV 2
 CTV NATURE
-CTV News
 CW
 CW (KCWE) MO
 CW (KOMU) MO
@@ -268,9 +254,6 @@ FOX (KYOU) IA
 FOX (WDAF) MO
 FOX (WNYW) NY
 FOX (WTFX) PA
-FOX NEWS CHANNEL
-FOX News Channel HD
-FOX News Channel SD
 FOX SOUL
 FOX WEATHER
 FOX(KQFX) MO
@@ -308,7 +291,6 @@ Fox
 Fox Business
 Fox Business Network HD
 Fox Business Network SD
-Fox News
 Freeform HD
 Freeform SD
 Freeform TV
@@ -316,16 +298,10 @@ Fuse HD HD
 Fuse HD SD
 GAME AND FISH TV
 GAME SHOW CENTRAL
-GB News FHD
 GET TV
 GREAT AMERICAN FAMILY
 GRIT TV
 Game Show Network
-Global News
-Golf Channel
-Golf Channel HD
-Golf Channel SD
-Golf Channel USA FHD
 Grit TV
 HALLMARK FAMILY
 HALLMARK MYSTERIES
@@ -639,13 +615,9 @@ NBC (KOMU) MO
 NBC (KSHB) MO
 NBC (KYOU) IA
 NBC (WCAU) PA
-NBC GOLF
-NBC NEWS 24/7
-NBC News NOW
 NESN
 NESN FHD
 NESN UHD
-NEWSNATION
 NHL 01:
 NHL 02:
 NHL 03:
@@ -664,23 +636,6 @@ Nat Geo WILD SD
 National Geographic
 National Geographic HD
 National Geographic SD
-News 12 ("Connecticut" Norwalk CT)
-News 12 ("Hudson Valley" West Nyack NY)
-News 12 ("New Jersey" Edison NJ)
-News 12 ("Westchester" Yonkers NY)
-News 12 (Bronx NY)
-News 12 (Brooklyn NY)
-News 12 (Long Island NY)
-News 12 (New York NY)
-News 12+ ("Connecticut" Norwalk CT)
-News 12+ ("New Jersey" Edison NJ)
-News 12+ ("Westchester" Yonkers NY)
-News 12+ (Bronx NY)
-News 12+ (Long Island NY)
-NewsMax
-NewsNation
-Newsmax TV HD
-Newsmax TV SD
 Nick Jr. FHD
 Nick Jr. HD
 Nick Jr. SD
@@ -778,7 +733,6 @@ Sky Cinema Family FHD
 Sky Cinema Hits FHD
 Sky Cinema Premiere FHD
 Sky Cinema Select FHD
-Sky News FHD
 Smithsonian Channel
 Sony Movie Channel
 Space City Home Network
@@ -845,7 +799,6 @@ Turner Classic Movies
 UK: SKY SP RACING FHD
 UNXPLAINED ZONE
 UP TV
-US Golf Channel
 US MASN (A)
 US MASN2
 US MSG (A)
@@ -908,7 +861,6 @@ Your Pretty Face is Going to Hell
 [ EVENTS ]
 [ LOCAL TV ]
 [ MOVEONJOY+ ]
-[ NEWS OTHER ]
 [ Radio/Music ]
 getTV
 iTV1 FHD
