@@ -1,5 +1,12 @@
 Discovery Channel
-BBC
-CNN
+Discovery
+History
+Reelz
+Buzzr
+TLC
+USA Network
 National Geographic
+Cooking Channel
+Food Network
+Travel Channel
 # Add more in your preferred order
