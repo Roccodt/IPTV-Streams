@@ -1,0 +1,27 @@
+name: Update Cleaned M3U
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'  # Every 3 days at midnight UTC
+  workflow_dispatch:  # Manual trigger via GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run script
+        run: python process.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add cleaned.m3u channels.txt
+          git commit -m "Auto-update cleaned M3U and channels list" || echo "No changes"
+          git push
