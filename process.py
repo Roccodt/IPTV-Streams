@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 from collections import defaultdict
 
 # Keywords to filter out (case-insensitive)
-filter_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news", "M4"]
+filter_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
 
 # EPG URL
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
