@@ -2,6 +2,21 @@ import requests
 import re
 from urllib.parse import urlparse
 from collections import defaultdict
+import subprocess
+import concurrent.futures
+
+# Function to check if stream is active (using ffprobe)
+def check_stream_active(url, timeout=20):
+    try:
+        result = subprocess.run(
+            ['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', '-i', url],
+            timeout=timeout, capture_output=True, text=True
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            return True
+        return False
+    except Exception:
+        return False
 
 # Keywords to filter out (case-insensitive)
 filter_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
@@ -17,9 +32,8 @@ with open("links.txt", "r") as f:
 with open("order.txt", "r") as f:
     order_list = [line.strip().lower() for line in f if line.strip() and not line.startswith("#")]
 
-# Dict to store channels: key=URL (for initial collection), but we'll handle dups by title+URL later
-all_channels = []  # List of (title.lower(), extinf, url) for easier matching
-unique_names = set()  # For channels.txt
+# List to store potential channels before active check
+potential_channels = []  # List of (title_lower, extinf, url)
 
 for url in urls:
     try:
@@ -32,22 +46,38 @@ for url in urls:
                     extinf = lines[i]
                     if i + 1 < len(lines) and not lines[i+1].startswith("#"):
                         stream_url = lines[i+1]
-                        # Extract title from #EXTINF (after comma)
                         title_match = re.search(r',(.*)$', extinf)
                         if title_match:
                             title = title_match.group(1).strip()
                             title_lower = title.lower()
-                            # Skip if keyword in title
                             if any(kw in title_lower for kw in filter_keywords):
                                 i += 2
                                 continue
-                            # Clean: Ensure valid URL
                             if urlparse(stream_url).scheme in ("http", "https"):
-                                all_channels.append((title_lower, extinf, stream_url))
-                                unique_names.add(title)  # Original casing for output
+                                potential_channels.append((title_lower, extinf, stream_url))
                 i += 1
     except Exception as e:
         print(f"Error fetching {url}: {e}")
+
+# Active check with concurrency
+all_channels = []  # Final list of active (title_lower, extinf, url)
+unique_names = set()
+
+def check_and_add(ch):
+    title_lower, extinf, url = ch
+    if check_stream_active(url):
+        return (title_lower, extinf, url)
+    return None
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:  # Adjust to 10-20
+    futures = [executor.submit(check_and_add, ch) for ch in potential_channels]
+    for future in concurrent.futures.as_completed(futures):
+        result = future.result()
+        if result:
+            all_channels.append(result)
+            unique_names.add(result[1].split(',')[-1].strip())  # Extract title with original casing
+
+print(f"Checked {len(potential_channels)} streams; {len(all_channels)} active.")
 
 # Dedup all_channels: Keep only unique title+URL pairs (exact match, so country variants stay)
 seen = set()
