@@ -1,0 +1,595 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery Channel FHD" tvg-logo="https://i.ibb.co/whkRg3B0/discovery-channel.jpg" group-title="UK Channels",Discovery Channel FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000033" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel FHD
+pipe://ffmpeg -i "https://a1xs.vip/300034" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science", DISCOVERY SCIENCE
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/20866" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE", DISCOVERY LIFE
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/DISCOVERY_LIFE/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="85" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="TV",Investigation Discovery
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History", HISTORY
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/history_channel/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="83" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="TV",History Channel
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/history_channel/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="117" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="TV",Reelz Channel
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_REELZ/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BUZZR.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="BUZZER", BUZZR
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Buzzr/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="136" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV",TLC
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/TLC/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/usa-network.png" group-title="EPL",USA Network FHD
+pipe://ffmpeg -i "https://a1xs.vip/1100020" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic", NATIONAL GEOGRAPHIC CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/National_Geographic/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild", NATIONAL GEOGRAPHIC WILD
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Nat_Geo_Wild/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="95" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="TV",National Geographic
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/National_Geographic/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="30" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="TV",Cooking Channel
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="FOX.(KSWB).San.Diego,.CA.us" tvg-name="FOX" tvg-logo="https://i.ibb.co/QSHZDzQ/FOX.png" group-title="US Channels",FOX
+pipe://ffmpeg -i "https://a1xs.vip/300014" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="55" tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-name="FDSN Sun" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61084_dark_360w_270h.png" group-title="TV",FDSN Sun
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254467" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="24/7 Horror Movies" group-title="24/7 Movies",24/7 Horror Movies
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119429" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4Seven FHD" tvg-logo="https://i.ibb.co/XrqnS520/4seven.png" group-title="UK Channels",4Seven FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000036" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Adult.Swim.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" tvg-name="[ Adult Swim ] (CA)" group-title="MoveOnJoy+", [ Adult Swim ] (CA)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/Rolanda23/8615TH2510/11644" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true", [ AS ]5PM-6AM.est
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aseast.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true", [ AS ]8PM-9AM.est
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aswest.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E", A&E
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/2201" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/ANE/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network HD" tvg-logo="https://i.ibb.co/gFLLh4Vs/ACC-Network.png" group-title="US Sports",ACC Network HD
+pipe://ffmpeg -i "https://a1xs.vip/40000016" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="American.Heroes.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel", AMERICAN HEROS CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/American_Heroes_Channel/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet", ANIMAL PLANET
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Animal_Planet/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/Animal_Planet/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet FHD" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="US Channels",Animal Planet FHD
+pipe://ffmpeg -i "https://a1xs.vip/300035" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna", ANTENNA
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One FHD" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="UK Channels",BBC One FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000001" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER", BET HER
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/BET_HER/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BET.Jams.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams", BET JAMS
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/BET_Jams/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="12" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="TV",Big Ten Network
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_BTN/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bloomberg.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG", BLOOMBERG
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/BLOOMBERG/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Bloomberg.Business.Television.us2" tvg-name="Bloomberg TV UHD" tvg-logo="https://i.ibb.co/L61zPzP/Bloomberg-tv.png" group-title="UHD | 4K",Bloomberg TV UHD
+pipe://ffmpeg -i "https://a1xs.vip/blombuhd" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="14" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV",Boomerang
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/BOOMERANG/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="15" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="16" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="TV",Bravo TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/BRAVO/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN1.ca2" tvg-name="CA TSN 1 (E)" tvg-logo="" group-title="Sports Temp 2",CA TSN 1 (E)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/57292" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN1.ca2" tvg-name="CA TSN 1 (R)" tvg-logo="" group-title="Sports Temp 2",CA TSN 1 (R)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/47440" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN3.ca2" tvg-name="CA TSN 3 HD" tvg-logo="" group-title="Sports Temp 2",CA TSN 3 HD
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/47444" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN5.ca2" tvg-name="CA TSN 5" tvg-logo="" group-title="Sports Temp 2",CA TSN 5
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/57295" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN5.ca2" tvg-name="CA TSN 5 HD" tvg-logo="" group-title="Sports Temp 2",CA TSN 5 HD
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/16131" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="CA: World Fishing Network" tvg-logo="" group-title="Sports Temp 2",CA: World Fishing Network
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/57471" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="19" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV",Cartoon Network
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network FHD" tvg-logo="https://i.ibb.co/MysF1z2Z/cartoon-network.png" group-title="US Channels",Cartoon Network FHD
+pipe://ffmpeg -i "https://a1xs.vip/300032" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-name="Cartoon Network UK FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/cartoon-network.png" group-title="UK Channels",Cartoon Network UK FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000050" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CNBC FHD" tvg-logo="https://i.ibb.co/BV8M6ddb/Cbs.webp" group-title="US Channels",CBS
+pipe://ffmpeg -i "https://a1xs.vip/300010" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Local TV" tvg-id="KSMO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KSMO)MO
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: ANIMATION" group-title="24/7 Movies",CINEBOX: ANIMATION
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119420" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: BLOCKBUSTERS" group-title="24/7 Movies",CINEBOX: BLOCKBUSTERS
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119421" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: CLASSIC" group-title="24/7 Movies",CINEBOX: CLASSIC
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119422" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: COMEDY" group-title="24/7 Movies",CINEBOX: COMEDY
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119423" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: GREATS TWO" group-title="24/7 Movies",CINEBOX: GREATS TWO
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119427" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: HITS" group-title="24/7 Movies",CINEBOX: HITS
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119436" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: MUSICAL" group-title="24/7 Movies",CINEBOX: MUSICAL
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119430" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: MYSTERY" group-title="24/7 Movies",CINEBOX: MYSTERY
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119431" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: PREMIERE" group-title="24/7 Movies",CINEBOX: PREMIERE
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119432" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: ROMANCE" group-title="24/7 Movies",CINEBOX: ROMANCE
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119433" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: SCI-FI" group-title="24/7 Movies",CINEBOX: SCI-FI
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119434" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: THRILLER" group-title="24/7 Movies",CINEBOX: THRILLER
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119437" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: WESTERN" group-title="24/7 Movies",CINEBOX: WESTERN
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/119435" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CMT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT", CMT
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CMT/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="24" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="TV",CMT
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CMT/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC", CNBC
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CNBC/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="25" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="TV",CNBC
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CNBC/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.World.us2" tvg-logo="" tvg-name="CNBC WORLD", CNBC WORLD (Offline)
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CNBC_World/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN", CNN
+pipe://ffmpeg -i "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="26" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="TV",CNN
+pipe://ffmpeg -i "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="CNN.HD.uk" tvg-name="CNN News FHD" tvg-logo="https://i.ibb.co/ccS7pQBs/CNN.png" group-title="UK Channels",CNN UK FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000016" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="27" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/Comedy_Central/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.TV.HD.us2" tvg-logo="" tvg-name="COMEDY TV", COMEDY TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Comedy_TV/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="28" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="TV",Comedy TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Comedy_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="31" tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="TV",Court TV
+pipe://ffmpeg -i "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="COZI.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV", COZI TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/COZI_TV/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="32" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="TV",Cozi TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/COZI_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Cable.Pulse.24.(CP24).HD.ca2" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="CA Channels",CP24
+pipe://ffmpeg -i "https://a1xs.vip/610001" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1", CRAVE 1
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CRAVE_1/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2", CRAVE 2 
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CRAVE_2/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4", CRAVE 4
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CRAVE_4/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="33" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="TV",Crime & Investigation Network
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="CTV.Two.-.Toronto.ca2" tvg-name="CTV 2" tvg-logo="https://i.ibb.co/XxQhJJFR/CTV2.png" group-title="CA Channels",CTV 2
+pipe://ffmpeg -i "https://a1xs.vip/610003" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CTV.Nature.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-nature-channel-ca.png?raw=true" tvg-name="CTV NATURE", CTV NATURE
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Discovery_Science/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="34" tvg-id="WKCF-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV",CW
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KYOU) IA
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="WCCB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WCCB) NC
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/120890" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="WPIX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WPIX) NY
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/120897" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
+pipe://ffmpeg -i "https://30a-tv.com/darcizzle.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL", DISNEY CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/DISNEY/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="40" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 FHD" tvg-logo="https://i.ibb.co/PbGvD1S/e4.png" group-title="UK Channels",E4 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000032" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FanDuel.TV.us" tvg-logo="" tvg-name="FANDUEL TV", FANDUEL TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/PAC_12/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Fashion.TV.de" tvg-name="Fashion TV UHD" tvg-logo="https://i.ibb.co/LNvfKrJ/FTVUHD.png" group-title="UHD | 4K",Fashion TV UHD
+pipe://ffmpeg -i "https://a1xs.vip/ftv4kuhd" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="46" tvg-id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us" tvg-name="FDSN Detroit" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54286_dark_360w_270h.png" group-title="TV",FDSN Detroit
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254459" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="50" tvg-id="FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us" tvg-name="FDSN Ohio" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49691_dark_360w_270h.png" group-title="TV",FDSN Ohio
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254464" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="51" tvg-id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us" tvg-name="FDSN Oklahoma" tvg-logo="https://i.gyazo.com/80ad6fd142cd67f06eef58d9ce5aa72b.png" group-title="TV",FDSN Oklahoma
+pipe://ffmpeg -i "http://mytvstream.net:8080/live/A1Jay5/362586/20934.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="52" tvg-id="FanDuel.Sports.Network.SoCal.HDTV.us" tvg-name="FDSN SoCal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16743_dark_360w_270h.png" group-title="TV",FDSN SoCal
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254465" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="53" tvg-id="FanDuel.Sports.Network.Southeast.HDTV.(Mont./Birm./Dothan/Mobile.AL).us" tvg-name="FDSN Southeast" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20789_dark_360w_270h.png" group-title="TV",FDSN Southeast
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254466" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="54" tvg-id="FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us" tvg-name="FDSN Southwest" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59629_dark_360w_270h.png" group-title="TV",FDSN Southwest
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254469" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="56" tvg-id="FanDuel.Sports.Network.West.HDTV.us" tvg-name="FDSN West" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59627_dark_360w_270h.png" group-title="TV",FDSN West
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/254471" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="58" tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+ TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="TV",FIFA+ TV
+pipe://ffmpeg -i "https://jmp2.uk/stvp-IN270000230" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="60" tvg-id="WFLX-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV",Fox
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Local TV" tvg-id="WTXF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) PA
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/120775" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="61" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FOX_SOUL/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM 1", FREEFORM 1
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/13370" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM 2", FREEFORM 2
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FREE_FORM/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="65" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV",Freeform TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/FREE_FORM/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FS1.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1", FS1
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FOX_Sports_1/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="66" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="TV",FUSE
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_FUSE/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX", FXX
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FXX/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="69" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="TV",FXX
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FXX/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="72" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="TV",getTV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/GET_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="74" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV",Grit TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/GRIT_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="75" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Hallmark.Family.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family", HALLMARK FAMILY
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/HALLMARK_DRAMA/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="76" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="TV",Hallmark Family
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="77" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="TV",Hallmark Mystery
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel", HALMARK CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/HALLMARK_CHANNEL/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy", HBO Comedy
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/HBO_COMEDY/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="80" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy FHD" tvg-logo="https://i.ibb.co/0jHs79tX/hbo-comedy.png" group-title="US Channels",HBO Comedy FHD
+pipe://ffmpeg -i "https://a1xs.vip/300005" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1100041" -c copy -f mpegts pipe:1
+#EXTINF:-1  group-title="Sports Temp 1" tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png"  radio="false",Hub Premier 2 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1100042" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1100044" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png", HUNT FISH TV
+pipe://ffmpeg -i "https://jmp2.uk/str-5747.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="IFC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" tvg-name="IFC", IFC
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_IFC/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The Alex Jones Show
+pipe://ffmpeg -i "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The American Journal
+pipe://ffmpeg -i "https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
+pipe://ffmpeg -i "https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="86" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="TV",ION TV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/ION_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="iTV1 FHD" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="UK Channels",iTV1 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000011" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="iTV2 FHD" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="UK Channels",iTV2 FHD
+pipe://ffmpeg -i "https://a1xs.vip/1000012" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Radio/Music" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
+pipe://ffmpeg -i "https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Laff.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true", LAFF TV
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 1
+pipe://ffmpeg -i "https://a1xs.vip/ppv1" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 2
+pipe://ffmpeg -i "https://a1xs.vip/ppv2" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 3
+pipe://ffmpeg -i "https://a1xs.vip/ppv3" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 4
+pipe://ffmpeg -i "https://a1xs.vip/ppv4" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 5
+pipe://ffmpeg -i "https://a1xs.vip/ppv5" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.ibb.co/jpdQCJL/live-event.png" group-title="Live Event | PPV",Live Event 6
+pipe://ffmpeg -i "https://a1xs.vip/ppv6" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Love.Nature.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE", LOVE NATURE
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/LOVE_NATURE/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Action" group-title="24/7 Movies",M4: Action
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215269" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Al Pacino" group-title="24/7 Movies",M4: Al Pacino
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215392" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Amy Adams" group-title="24/7 Movies",M4: Amy Adams
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215384" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Angelina Jolie" group-title="24/7 Movies",M4: Angelina Jolie
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215398" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Anne Hathaway" group-title="24/7 Movies",M4: Anne Hathaway
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215385" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Avengers" group-title="24/7 Movies",M4: Avengers
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215273" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Benedict Cumberbatch" group-title="24/7 Movies",M4: Benedict Cumberbatch
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215349" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Blade" group-title="24/7 Movies",M4: Blade
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215276" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Bruce Willis" group-title="24/7 Movies",M4: Bruce Willis
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215395" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Christian Bale" group-title="24/7 Movies",M4: Christian Bale
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215351" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cillian Murphy" group-title="24/7 Movies",M4: Cillian Murphy
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215352" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Comedy" group-title="24/7 Movies",M4: Comedy
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215278" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Crime" group-title="24/7 Movies",M4: Crime
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215280" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Die Hard" group-title="24/7 Movies",M4: Die Hard
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215282" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Drama" group-title="24/7 Movies",M4: Drama
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215283" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Dwayne Johnson" group-title="24/7 Movies",M4: Dwayne Johnson
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215376" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Epic" group-title="24/7 Movies",M4: Epic
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215284" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fantasy" group-title="24/7 Movies",M4: Fantasy
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215286" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fast and the Furious" group-title="24/7 Movies",M4: Fast and the Furious
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215287" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Final Destination" group-title="24/7 Movies",M4: Final Destination
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215288" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ghostbusters" group-title="24/7 Movies",M4: Ghostbusters
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215289" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Halle Berry" group-title="24/7 Movies",M4: Halle Berry
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215389" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Hangover" group-title="24/7 Movies",M4: Hangover
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215290" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Harry Potter" group-title="24/7 Movies",M4: Harry Potter
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215291" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Horror" group-title="24/7 Movies",M4: Horror
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215293" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Indiana Jones" group-title="24/7 Movies",M4: Indiana Jones
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215295" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jackie Chan" group-title="24/7 Movies",M4: Jackie Chan
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215378" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: James Bond (007)" group-title="24/7 Movies",M4: James Bond (007)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215296" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jennifer Aniston" group-title="24/7 Movies",M4: Jennifer Aniston
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215425" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Johnny Depp" group-title="24/7 Movies",M4: Johnny Depp
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215360" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Julia Roberts" group-title="24/7 Movies",M4: Julia Roberts
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215403" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jurassic Park" group-title="24/7 Movies",M4: Jurassic Park
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215298" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Keanu Reeves" group-title="24/7 Movies",M4: Keanu Reeves
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215361" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kevin Hart" group-title="24/7 Movies",M4: Kevin Hart
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215380" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kingsman" group-title="24/7 Movies",M4: Kingsman
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215299" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Legendary" group-title="24/7 Movies",M4: Legendary
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215300" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Liam Neeson" group-title="24/7 Movies",M4: Liam Neeson
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215362" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Lucy Liu" group-title="24/7 Movies",M4: Lucy Liu
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215427" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mark Wahlberg" group-title="24/7 Movies",M4: Mark Wahlberg
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215363" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Matt Damon" group-title="24/7 Movies",M4: Matt Damon
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215364" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Megan Fox" group-title="24/7 Movies",M4: Megan Fox
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215428" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Melissa McCarthy" group-title="24/7 Movies",M4: Melissa McCarthy
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215429" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Micheal Caine" group-title="24/7 Movies",M4: Micheal Caine
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215365" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mila Kunis" group-title="24/7 Movies",M4: Mila Kunis
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215430" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mission Impossible" group-title="24/7 Movies",M4: Mission Impossible
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215304" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mythological" group-title="24/7 Movies",M4: Mythological
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215307" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Nicole Kidman" group-title="24/7 Movies",M4: Nicole Kidman
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215413" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Planet of Apes" group-title="24/7 Movies",M4: Planet of Apes
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215310" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Resident Evil" group-title="24/7 Movies",M4: Resident Evil
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215312" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robert Downey Jr" group-title="24/7 Movies",M4: Robert Downey Jr
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215396" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robot" group-title="24/7 Movies",M4: Robot
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215313" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Rocky" group-title="24/7 Movies",M4: Rocky
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215314" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ryan Reynolds" group-title="24/7 Movies",M4: Ryan Reynolds
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215368" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Scarlett Johansson" group-title="24/7 Movies",M4: Scarlett Johansson
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215419" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Spiderman" group-title="24/7 Movies",M4: Spiderman
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215321" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Star Wars" group-title="24/7 Movies",M4: Star Wars
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215324" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Superhero" group-title="24/7 Movies",M4: Superhero
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215325" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Survival" group-title="24/7 Movies",M4: Survival
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215326" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Bourne" group-title="24/7 Movies",M4: The Bourne
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215327" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Conjuring" group-title="24/7 Movies",M4: The Conjuring
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215328" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Godfather" group-title="24/7 Movies",M4: The Godfather
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215330" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Hobbit" group-title="24/7 Movies",M4: The Hobbit
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215331" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Mummy" group-title="24/7 Movies",M4: The Mummy
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215336" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Purge" group-title="24/7 Movies",M4: The Purge
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215337" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Terminator" group-title="24/7 Movies",M4: The Terminator
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215338" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Thriller" group-title="24/7 Movies",M4: Thriller
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215340" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Transformers" group-title="24/7 Movies",M4: Transformers
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215342" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Vin Diesel" group-title="24/7 Movies",M4: Vin Diesel
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215394" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Will Smith" group-title="24/7 Movies",M4: Will Smith
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215372" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: X-Men" group-title="24/7 Movies",M4: X-Men
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215347" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Zombie" group-title="24/7 Movies",M4: Zombie
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/215348" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" tvg-name="MAGNOLIA NETWORK", MAGNOLIA NETWORK
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/DIY/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Me.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-name="MeTV", METV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/ME_TV/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="" group-title="Sports Temp 2",MLB Network
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/21360" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="90" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="TV",MLB Network
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Strike Zone" tvg-logo="" group-title="Sports Temp 2",MLB Strike Zone
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/65699" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSG.National.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG", MSG
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/MSG/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="92" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="TV",MSG
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_MSG/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC", MSNBC
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/9296" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="93" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="TV",MSNBC
+pipe://ffmpeg -i "http://41.205.93.154/MSNBC/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="94" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV",MTV
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/MTV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MTV.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" tvg-name="MTV Classic", MTV CLASSIC
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/MTV_CLASSIC/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="97" tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://i.gyazo.com/39d42952500205d04e448247b7889256.png" group-title="TV",NBC
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
+pipe://ffmpeg -i "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Local TV" tvg-id="WCAU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/120776" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://i.ibb.co/Pv7RbDwK/NHL-Network.png" group-title="US Sports",NHL Network
+pipe://ffmpeg -i "https://a1xs.vip/40000034" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="107" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="TV",NHL Network
+pipe://ffmpeg -i "http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/NICKELODEON/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="108" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="TV",Nickelodeon
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoon UK" tvg-logo="https://i.ibb.co/q3qWFwNG/Nicktoons.png" group-title="UK Channels",Nicktoon UK
+pipe://ffmpeg -i "https://a1xs.vip/100054" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons", NICKTOONS
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/NICKTOONS/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="109" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="TV",Nicktoons
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/NICKTOONS/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="110" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="TV",Outdoor Channel
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Ovation.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation", OVATION
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Ovation/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="111" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="TV",Ovation
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Ovation/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" tvg-name="Oprah Winfrey Network", OWN
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/OWN/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="112" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="TV",Oxygen
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/OXYGEN/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Oxygen.True.Crime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen True Crime", OXYGEN TRUE CRIME
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/OXYGEN/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="114" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV",Pop TV
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Pop_TV/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="Pursuit.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
+pipe://ffmpeg -i "https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/205/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n4=content_name&ads.v4=EPG%20%7C%20Pursuit%20Up%20Channel&ads.n21=device_type&ads.v21=&ads.n22=channel_corp&ads.v22=Pursuit%20Media%20TV%20LLC&ads.n23=channel_brand_id&ads.v23=AMDB012510&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=network_name&ads.v25=pursuit-up&ads.n26=content_custom_2_param&ads.v26=AMDB012510&ads.n27=gpp_sid&ads.v27=&ads.n28=device_make&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=channel_genre&ads.v30=Sports&ads.n31=ip&ads.v31=195.179.200.80&ads.n32=ifa_type&ads.v32=&ads.n33=content_custom_1_param&ads.v33=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n34=channel_name&ads.v34=EPG%20%20Pursuit%20Up%20Channel&ads.n35=h&ads.v35=1080&ads.n36=app_version&ads.v36=0.0.0&ads.n37=content_provider&ads.v37=pursuit-up&ads.n38=dnt&ads.v38=&ads.n39=w&ads.v39=1920&ads.n40=app_name&ads.v40=&ads.n41=content_type&ads.v41=channel&ads.n42=content_livestream&ads.v42=1&ads.n43=app_store_url&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_company_id&ads.v45=AMDP500223&ads.n46=device_model&ads.v46=&ads.n47=channel_ext_id&ads.v47=6196ecb58cb60e0f204e2041&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=channel_title&ads.v49=EPG%20%20Pursuit%20Up%20Channel&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=channel_language&ads.v53=en&ads.n54=app_bundle&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=did&ads.v56=&ads.n57=content_producer_name&ads.v57=Pursuit%20Media%20TV%20LLC&ads.n58=channel_id&ads.v58=02C8D91A-6765-48BC-BC15-8BC069E88062" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", REDBULL
+pipe://ffmpeg -i "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network", SEC NETWORK
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/SEC_NETWORK/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="118" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV",SEC Network
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC ESPN Network HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sec-network.png" group-title="US Sports",SEC Network HD
+pipe://ffmpeg -i "https://a1xs.vip/40000015" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hubp2.png" group-title="UHD | 4K",SG: Hub Premier 2 UHD
+pipe://ffmpeg -i "https://a1xs.vip/9000012" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-cinema-action.png" group-title="UK Channels",Sky Cinema Action FHD
+pipe://ffmpeg -i "https://a1xs.vip/210006" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/sky-family.png" group-title="UK Channels",Sky Cinema Family FHD
+pipe://ffmpeg -i "https://a1xs.vip/210007" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="" tvg-name="SONY MOVIE CHANNEL", SONY MOVIE CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/Sony_Movie_Channel/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="121" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="TV",Sony Movie Channel
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs", SOUTH PARK
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/66401" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="122" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="TV",Space City Home Network
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/257248" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium", STADIUM CHANNEL
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/STADIUM/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="131" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/STARZ/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ (EAST)", STARZ (EAST)
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/STARZ/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY", SYFY
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/SYFY/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="132" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV",Syfy
+pipe://ffmpeg -i "http://fl1.moveonjoy.com/SYFY/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS", TBS
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS WEST", TBS (WEST)
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM", TCM
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/TCM/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 3", TNT 
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sports Temp 1" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 3", TNT (EAST)
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 4", TNT (WEST)
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/4ZnJzNyz/tnt.png" group-title="US Channels",TNT FHD
+pipe://ffmpeg -i "https://a1xs.vip/300001" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="truTV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true", TRUTV (EAST)
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutveast.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png", TRUTV (WEST)
+pipe://ffmpeg -i "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutvwest.us.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV FH" tvg-logo="https://i.ibb.co/mV9wzc4W/trutv.png" group-title="US Channels",truTV FHD
+pipe://ffmpeg -i "https://a1xs.vip/300002" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.ibb.co/MyTbNgYX/TSN1.png" group-title="CA Sports",TSN1
+pipe://ffmpeg -i "https://a1xs.vip/6000001" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="139" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/142475" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="CA Sports",TSN2
+pipe://ffmpeg -i "https://a1xs.vip/6000002" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="140" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN2
+pipe://ffmpeg -i "http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/142476" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN3" tvg-logo="https://i.ibb.co/0RMWTVX5/TSN3.png" group-title="CA Sports",TSN3
+pipe://ffmpeg -i "https://a1xs.vip/6000003" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="CA Sports",TSN4
+pipe://ffmpeg -i "https://a1xs.vip/6000004" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="CA Sports",TSN5
+pipe://ffmpeg -i "https://a1xs.vip/6000005" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="142" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV",TV Land
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/TV_LAND/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-chno="143" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="TV",TV One
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/TV_ONE/index.m3u8" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLAND", TVLAND
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/TV_LAND/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne", TVONE
+pipe://ffmpeg -i "https://fl1.moveonjoy.com/TV_ONE/mpegts" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="UK: SKY SP RACING FHD" tvg-logo="" group-title="Sports Temp 2",UK: SKY SP RACING FHD
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/76842" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.us" tvg-name="US MASN (A)" tvg-logo="" group-title="Sports Temp 2",US MASN (A)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/65697" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.2.us" tvg-name="US MASN2" tvg-logo="" group-title="Sports Temp 2",US MASN2
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/65698" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-name="US MotorTrend (A)" tvg-logo="" group-title="Sports Temp 2",US MotorTrend (A)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/10399" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="US MSG (A)" tvg-logo="" group-title="Sports Temp 2",US MSG (A)
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/21090" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-name="US MSG Plus" tvg-logo="" group-title="Sports Temp 2",US MSG Plus
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/9276" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="plex.tv.PokerGO.plex" tvg-name="US Poker Go" tvg-logo="" group-title="Sports Temp 2",US Poker Go
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/140814" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="plex.tv.PursuitUP.plex" tvg-name="US Pursuit UP" tvg-logo="" group-title="Sports Temp 2",US Pursuit UP
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/22888" -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-name="US YES Network" tvg-logo="" group-title="Sports Temp 2",US YES Network
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/57972" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" tvg-name="WAYPOINT TV", WAYPOINT TV
+pipe://ffmpeg -i "https://dbrb49pjoymg4.cloudfront.net/10001/99991358/hls/playlist.m3u8?ads.xumo_channelId=99991358&ads._fw_ifa_type=&ads._fw_did=8434fb1a-c2e7-4816-9895-ed3159581beb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WaypointTV&ads.csid=xumo_web_WaypointTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=908&ads.xumo_contentName=WaypointTV&ads.xumo_providerId=908&ads.xumo_providerName=WaypointTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991358&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="West.TV.us2" tvg-name="" tvg-logo="", WEST TV
+pipe://ffmpeg -i "http://98.111.243.7:5004/auto/v61.5" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="plex.tv.Wired2Fish.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" tvg-name="WIRED2FISH", WIRED2FISH
+pipe://ffmpeg -i "https://s4host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/dist/localnow/80/hls/master/playlist.m3u8?ads.cdnhost=s4host2.localnow.api.cms.amdvids.com&ads.playbackid=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n4=content_name&ads.v4=EPG%20%7C%20Wired2Fish&ads.n21=ua&ads.v21=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n22=dnt&ads.v22=&ads.n23=channel_ext_id&ads.v23=605839d6d7944934b119e762&ads.n24=w&ads.v24=1920&ads.n25=device_make&ads.v25=&ads.n26=ip&ads.v26=195.179.200.80&ads.n27=device_model&ads.v27=&ads.n28=channel_id&ads.v28=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n29=content_type&ads.v29=channel&ads.n30=h&ads.v30=1080&ads.n31=gpp_sid&ads.v31=&ads.n32=channel_name&ads.v32=EPG%20%20Wired2Fish&ads.n33=channel_language&ads.v33=en&ads.n34=content_custom_1_param&ads.v34=91FC1DC5-E691-4ACC-811C-F3B6F70F2A9C&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=content_provider&ads.v36=wired2fish&ads.n37=device_type&ads.v37=&ads.n38=pos&ads.v38=midroll&ads.n39=channel_brand_id&ads.v39=AMDB012132&ads.n40=app_version&ads.v40=0.0.0&ads.n41=ifa_type&ads.v41=&ads.n42=channel_title&ads.v42=EPG%20%20Wired2Fish&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=content_livestream&ads.v44=1&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=app_store_url&ads.v46=&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=content_custom_2_param&ads.v48=AMDB012132&ads.n49=did&ads.v49=&ads.n50=gpp&ads.v50=&ads.n51=network_name&ads.v51=wired2fish&ads.n52=channel_company_id&ads.v52=AMDP500136&ads.n53=channel_genre&ads.v53=Sports&ads.n54=app_name&ads.v54=&ads.n55=channel_rating&ads.v55=TV-PG&ads.n56=channel_corp&ads.v56=Frequency%20Networks%20INC&ads.n57=app_bundle&ads.v57=&ads.n58=content_producer_name&ads.v58=Frequency%20Networks%20INC" -c copy -f mpegts pipe:1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="WE.tv.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" tvg-name="WOMEN ENTERTAINMENT", WOMEN ENTERTAINMENT
+pipe://ffmpeg -i "http://cord-cutter.net:8080/bn80NG/909467/9237" -c copy -f mpegts pipe:1
