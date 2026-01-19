@@ -4,7 +4,6 @@
 5 STARMAX
 A&E
 A&E HD
-A&E SD
 A&E TV
 ABC
 ABC (KMIZ) MO
@@ -18,7 +17,6 @@ ACL CORNHOLE TV
 AMC
 AMC HD
 AMC SD
-AMC THRILLERS
 AMERICAN HEROS CHANNEL
 ANIMAL PLANET
 ANTENNA
@@ -33,17 +31,16 @@ Animal Planet HD
 Animal Planet SD
 Aqua Teen Hunger Force
 Aspire
+Astro Grandstand
 BASSMASTER
 BBC AMERICA
 BBC America
 BBC America HD
-BBC America SD
 BBC EARTH
 BBC One FHD
 BBC Two FHD
 BET
 BET GOSPEL
-BET HD
 BET HER
 BET Her HD
 BET JAMS
@@ -80,7 +77,6 @@ CA TSN 2 (R)
 CA TSN 2 HD
 CA TSN 3 HD
 CA TSN 4
-CA TSN 4 (B)
 CA TSN 4 HD
 CA TSN 5
 CA TSN 5 HD
@@ -101,9 +97,7 @@ CINEBOX: GREATS TWO
 CINEBOX: HISTORICAL
 CINEBOX: HITS
 CINEBOX: MUSICAL
-CINEBOX: MYSTERY
 CINEBOX: PREMIERE
-CINEBOX: ROMANCE
 CINEBOX: SCI-FI
 CINEBOX: THRILLER
 CINEBOX: WESTERN
@@ -114,16 +108,19 @@ CMT
 CMT HD
 CMT SD
 CNBC
+CNBC HD
 CNBC SD
 CNBC WORLD (Offline)
 CNN
 CNN HD
+CNN SD
 CNN UK FHD
 COMEDY CENTRAL
 COMEDY TV
 COMET
 COOKING CHANNEL
 COURT TV (Offline)
+COWBOY CHANNEL
 COZI TV
 CP24
 CRAVE 1
@@ -136,9 +133,6 @@ CRAVE 4
 CRAVE 4 HD
 CRIME+INVESTIGATION
 CSPAN 2 HD
-CSPAN 2 SD
-CSPAN HD
-CSPAN SD
 CTV 2
 CTV NATURE
 CW
@@ -152,6 +146,7 @@ Cartoon Network FHD
 Cartoon Network HD
 Cartoon Network SD
 Cartoon Network UK FHD
+Channel 4 FHD
 Channel 5
 Channel 5 FHD
 Charge
@@ -164,8 +159,10 @@ Comedy TV
 Comet TV
 Cooking Channel
 Cooking Channel HD
+Cooking Channel SD
 Court TV
 Cozi TV
+Crime & Investigation HD HD
 Crime & Investigation HD SD
 Crime & Investigation Network
 DARCIZZLE OFFSHORE
@@ -177,15 +174,16 @@ DISCOVERY SCIENCE
 DISNEY CHANNEL
 DISNEY JR
 DISNEY XD
+Destination America HD
+Destination America SD
 Discovery Channel
 Discovery Channel FHD
 Discovery Family Channel
-Discovery Family Channel HD
 Discovery Family Channel SD
-Discovery HD
 Discovery Life
 Discovery Life HD
 Discovery Life SD
+Discovery SD
 Discovery Science
 Disney
 Disney Channel (East) HD
@@ -193,13 +191,10 @@ Disney Channel (East) SD
 Disney Junior HD
 Disney Junior SD
 Disney XD
-Disney XD HD
 Disney XD SD
 Dream Corp LLC
 E ENTERTAINMENT
 E! Entertainment
-E! HD
-E! SD
 E4 FHD
 EPIX
 EPIX 2
@@ -226,6 +221,8 @@ FOX (WTFX) PA
 FOX SOUL
 FOX WEATHER
 FOX(KQFX) MO
+FREE MOVIES PLUS
+FREEBIE TV
 FREEFORM 1
 FREEFORM 2
 FS1
@@ -240,13 +237,11 @@ FX SD
 FXM
 FXX
 FXX HD
-FXX SD
 FYI FHD
 FYI HD
 FYI TV
 Fashion TV UHD
 Food Network
-Food Network SD
 Fox
 Fox Business
 Fox Business Network HD
@@ -254,8 +249,9 @@ Fox Business Network SD
 Freeform HD
 Freeform SD
 Freeform TV
+Fuse HD HD
 Fuse HD SD
-GAME AND FISH TV
+GAME SHOW CENTRAL
 GET TV
 GREAT AMERICAN FAMILY
 GRIT TV
@@ -266,29 +262,31 @@ HALLMARK MYSTERIES
 HALMARK CHANNEL
 HBO
 HBO 2
+HBO 2 East HD
 HBO 2 East SD
 HBO Comedy
 HBO Comedy FHD
 HBO Comedy HD HD
 HBO Comedy HD SD
+HBO East HD
+HBO East SD
 HBO FAMILY
 HBO Family
 HBO Family East HD
+HBO Family East SD
 HBO Signature HD
 HBO Signature SD
 HBO ZONE
 HBO Zone
-HBO Zone HD HD
-HBO Zone HD SD
 HBO2
 HGTV
 HGTV (NZ)
+HGTV HD
 HGTV SD
 HISTORY
 HLN
 HLN HD
 HLN SD
-HLN TV
 HOME 4K
 HORROR BY ALTER
 HSN
@@ -297,33 +295,28 @@ Hallmark Channel
 Hallmark Drama HD HD
 Hallmark Drama HD SD
 Hallmark Family
-Hallmark Movies & Mysteries HD HD
 Hallmark Movies & Mysteries HD SD
 Hallmark Mystery
 Hallmark SD
 History Channel
-History HD
 History SD
 Hub Premier 1 FHD
 Hub Premier 2 FHD
 Hub Premier 3 FHD
-Hub Premier 4 FHD
 ID CHANNEL
 IFC
-IFC HD
 IFC SD
 INSP TV
 ION
 ION PLUS
 ION TV
-ION Television East HD HD
+ION Television East HD SD
 In the Garage
 InfoWars The Alex Jones Show
 InfoWars The American Journal
 InfoWars War Room With Owen Shroyer
 Infomercials
 Investigation Discovery
-Investigation Discovery HD
 Investigation Discovery SD
 KALOOPY MUSIC
 LAFF MORE
@@ -339,6 +332,7 @@ Last Stream on the Left
 Lifetime
 Lifetime HD
 Lifetime Movie Network
+Lifetime SD
 Live Event 1
 Live Event 2
 Live Event 3
@@ -346,119 +340,101 @@ Live Event 4
 Live Event 5
 Live Event 6
 Logo HD
+Logo SD
 Love Nature 4K
+M4: Action
 M4: Adam Sandler
-M4: Adventure
 M4: Al Pacino
 M4: Alicia Vikander
-M4: Alien
-M4: Angelina Jolie
-M4: Animation
+M4: Amy Adams
 M4: Anne Hathaway
 M4: Arnold Schwarzenegger
 M4: Avengers
-M4: Batman
-M4: Biography
 M4: Blade
-M4: Brie Larson
+M4: Cameron Diaz
 M4: Cate Blanchett
 M4: Catherine Zeta-Jones
 M4: Comedy
 M4: Creature
-M4: Crime
+M4: Daniel Craig
 M4: Deadpool
 M4: Denzel Washington
 M4: Die Hard
 M4: Drew Barrymore
 M4: Dwayne Johnson
-M4: Edward Norton
+M4: Emma Stone
 M4: Emma Watson
+M4: Epic
 M4: Eva Green
-M4: Family
-M4: Fast and the Furious
-M4: Final Destination
+M4: Fantasy
 M4: Gerard Butler
-M4: Hangover
 M4: Harry Potter
-M4: Helen Mirren
 M4: Horror
 M4: Hugh Jackman
-M4: Ice Age
-M4: Jack Nicholson
+M4: Indiana Jones
 M4: Jackie Chan
 M4: Jake Gyllenhaal
 M4: James Bond (007)
 M4: Jamie Foxx
-M4: Jason Statham
+M4: Jennifer Aniston
 M4: Jennifer Lawrence
 M4: Jessica Alba
 M4: Jim Carrey
+M4: John Wick
 M4: Johnny Depp
 M4: Julia Roberts
-M4: Julianne Moore
 M4: Jurassic Park
-M4: Kate Winslet
-M4: Keanu Reeves
 M4: Keira Knightley
-M4: Kingsman
+M4: Kevin Hart
 M4: Legendary
 M4: Lucy Liu
-M4: Lupita Nyong` o
 M4: Mad Max
-M4: Margot Robbie
 M4: Mark Wahlberg
 M4: Matt Damon
-M4: Maze Runner
 M4: Megan Fox
-M4: Melissa McCarthy
 M4: Men in Black
 M4: Meryl Streep
 M4: Michelle Pfeiffer
-M4: Mila Kunis
-M4: Mission Impossible
 M4: Morgan Freeman
-M4: Musical
 M4: Mythological
-M4: Natalie Portman
-M4: Nicole Kidman
-M4: Orlando Bloom
-M4: Penope Cruz
+M4: Oceans Eleven
 M4: Pirates of the Caribbean
 M4: Planet of Apes
 M4: Post-Apocalyptic
-M4: Rachel McAdams
 M4: Reese Witherspoon
-M4: Russell Crowe
+M4: Resident Evil
+M4: Robot
+M4: Rocky
+M4: Ryan Reynolds
+M4: Salma Hayek
 M4: Samuel L. Jakson
 M4: Sandra Bullock
+M4: Saoirse Ronan
 M4: Saw
+M4: Scarlett Johansson
 M4: Science Fiction
 M4: Sherlock Holmes
 M4: Shrek
-M4: Sigourney Weaver
 M4: Space
-M4: Spiderman
 M4: Spy
+M4: Star Wars
 M4: Superhero
-M4: Sylvester Stallone
-M4: The Bourne
+M4: Survival
 M4: The Conjuring
-M4: The Expendables
 M4: The Godfather
-M4: The Hunger Games
-M4: The Terminator
-M4: Three Flavours Cornetto
-M4: Thriller
-M4: Tom Hardy
+M4: The Matrix
+M4: The Mummy
+M4: Tom Cruise
 M4: Toy Story
-M4: Transformers
 M4: Vin Diesel
+M4: Viola Davis
+M4: War
 M4: Western
 M4: Will Smith
-M4: X-Men
 M4: Zombie
 MAGNOLIA NETWORK
 METV
+MILITARY HISTORY
 MLB NETWORK
 MLB Network
 MLB Network HD
@@ -479,7 +455,9 @@ MUCH
 MUSEUM TV 4K
 MeTV Toons HD
 MeTV Toons SD
+Metalocalypse
 MoreMAX HD
+MoreMAX SD
 MotorTrend HD HD
 MotorTrend HD SD
 MotorTrend TV
@@ -495,10 +473,13 @@ NBC (WCAU) PA
 NESN
 NESN UHD
 NHL Network
+NHL Network HD
 NHL Network SD
 NICKELODEON
 NICKJR
 NICKTOONS
+Nat Geo WILD HD
+Nat Geo WILD SD
 National Geographic
 National Geographic HD
 National Geographic SD
@@ -507,25 +488,27 @@ Nick Jr. SD
 Nickelodeon
 Nickelodeon East HD
 Nickelodeon East SD
+Nickelodeon UK FHD
 Nicktoons
 Nicktoons HD
 Nicktoons SD
 OUTDOOR CHANNEL
-OUTSIDE TV
 OVATION
 OWN
+OWN SD
 OXYGEN TRUE CRIME
 Off The Air / Smalls
 Outdoor Channel
+Outdoor Channel HD
+Outdoor Channel SD
 Ovation
 Oxygen
 Oxygen True Crime HD
+Oxygen True Crime SD
 PARAMOUNT NETWORK
 PBS 13 (WNET) New York HD
-PBS 13 (WNET) New York SD
 PURSUIT CHANNEL
 Paramount Network
-Peacock Premier League TV
 Pop TV
 QVC
 REDBULL
@@ -541,6 +524,7 @@ SEC NETWORK
 SEC Network
 SEC Network HD
 SEC Network SD
+SG: Hub Premier 2 UHD
 SHOWTIME
 SHOWTIME 2
 SHOWTIME 2 HD
@@ -561,34 +545,34 @@ STARS ENCORE WESTERNS
 STARZ (EAST)
 STARZ (WEST)
 STARZ ENCORE CLASSIC
-STARZ East HD
 STARZ East SD
 SUNDANCE
 SYFY
 SYFY HD
+SYFY SD
 Samurai Jack
 Science HD
 Science SD
 Showtime
 Showtime (E) HD
-Sky Cinema Comedy FHD
+Showtime (E) SD
+Sky Atlantic FHD
+Sky Cinema Action FHD
 Sky Cinema Family FHD
 Smithsonian Channel
 Sony Movie Channel
 Squidbillies
 Starz
 SundanceTV HD HD
-SundanceTV HD SD
 Syfy
 TBS
 TBS (WEST)
 TBS HD
+TBS SD
 TCM
 TCM HD
 TCM SD
 TLC
-TLC HD
-TLC SD
 TNT
 TNT (EAST)
 TNT (WEST)
@@ -605,14 +589,14 @@ TSN4
 TSN5
 TV Land
 TV One
-TV One HD HD
 TV One HD SD
 TVLAND
 TVONE
 TeenNick HD
+TeenNick SD
 Telemundo East HD
 Telemundo East SD
-The CW (WPIX New York) SD
+The CW (WPIX New York) HD
 The Eric Andre Show
 The Movie Channel East HD
 The Movie Channel East SD
@@ -621,7 +605,7 @@ The Weather Channel
 The Weather Channel HD
 The Weather Channel SD
 Tim and Eric Awesome Show
-Travel Channel SD
+Travel Channel HD
 Travelxp 4K
 Turner Classic Movies
 UK: SKY SP RACING FHD
@@ -629,28 +613,27 @@ US MASN (A)
 US MASN2
 US MSG (A)
 US MSG Plus
-US MSG2 (F)
 US MotorTrend (A)
 US Poker Go
 US Pursuit UP
 US World Fishing Network (F)
 US World Poker Tour
 US YES Network
+US: NESN UHD
 USA East
 USA NETWORK
 USA Network FHD
+USA Network HD
 USA Network SD
-Universal Kids HD
-Univision East SD
+Universal Kids SD
+Univision East HD
 VH1
-VH1 HD
-VH1 SD
 VICE
-VICE HD
 VICE SD
 Vice TV
 W NETWORK
 WABC (New York) ABC East HD
+WABC (New York) ABC East SD
 WAYPOINT TV
 WCBS (New York) CBS East HD
 WCBS (New York) CBS East SD
@@ -667,6 +650,7 @@ WOMEN ENTERTAINMENT
 WORLD FISHING NETWORK
 YES NETWORK
 YES Network
+Your Pretty Face is Going to Hell
 [ AS ]5PM-6AM.est
 [ AS ]8PM-9AM.est
 [ Adult Swim ] (CA)
