@@ -5,6 +5,9 @@ from collections import defaultdict
 import subprocess
 import concurrent.futures
 
+# Set to True to enable pipe wrappers in cleaned_pipe.m3u (always applied there)
+use_pipe = True
+
 # Function to check if stream is active (using ffprobe)
 def check_stream_active(url, timeout=20):
     try:
@@ -111,11 +114,21 @@ for order_name in order_list:
 remaining_channels.sort(key=lambda x: x[0])
 ordered_channels.extend(remaining_channels)
 
-# Build cleaned.m3u
+# Build cleaned.m3u (original URLs, no pipe)
 with open("cleaned.m3u", "w") as f:
     f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
     for _, extinf, url in ordered_channels:
         f.write(f"{extinf}\n{url}\n")
+
+# Build cleaned_pipe.m3u (with enhanced pipe wrappers)
+with open("cleaned_pipe.m3u", "w") as f:
+    f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
+    for _, extinf, url in ordered_channels:
+        if use_pipe:
+            wrapped_url = f'pipe://ffmpeg -analyzeduration 30000000 -i "{url}" -bsf:v h264_mp4toannexb -c copy -f mpegts pipe:1'
+            f.write(f"{extinf}\n{wrapped_url}\n")
+        else:
+            f.write(f"{extinf}\n{url}\n")
 
 # Build channels.txt (unique names, sorted alphabetically)
 unique_names_list = sorted(list(unique_names))
@@ -123,4 +136,4 @@ with open("channels.txt", "w") as f:
     for name in unique_names_list:
         f.write(f"{name}\n")
 
-print("Processed: cleaned.m3u and channels.txt generated.")
+print("Processed: cleaned.m3u, cleaned_pipe.m3u, and channels.txt generated.")
