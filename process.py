@@ -22,7 +22,7 @@ def check_stream_active(url, timeout=20):
         return False
 
 # Keywords to filter out (case-insensitive)
-filter_keywords = ["sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
+filter_keywords = ["xumo", "yahoo", "xite", "vivo", "vix", "pga", "nl", "nbc", "mtv", "mbc", "hallmark", "filmrise", "fox", "bbc", "abc", "bet" "cine", "classic", "freetv", "stingray", "bloomberg", "cnn", "poker", "billiard", "pluto", "sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
 
 # EPG URL
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
