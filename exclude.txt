@@ -1,0 +1,135 @@
+# Keywords (substring match) - exclude if these appear anywhere in title
+A&E
+SundanceTV
+sport
+football
+soccer
+nba
+nfl
+espn
+tennis
+cricket
+boxing
+TSN
+golf
+news
+xumo
+yahoo
+xite
+vevo
+vix
+pga
+nl
+nbc
+mtv
+mbc
+hallmark
+filmrise
+fox
+bbc
+abc
+bet
+cine
+classic
+freetv
+stingray
+bloomberg
+cnn
+poker
+billiard
+pluto
+Wrestling
+Telemundo
+Teletubbies
+TruTV
+UFC
+weather
+iTV1
+tvN
+Reuters
+Azteca
+rugby
+fifa
+Canela
+Latino
+Mnet
+Noticias
+
+# Exact Channels - exclude only exact title matches
+This Old House
+This Old House (CA)
+This Old House (USA)
+This Old House Makers (USA)
+This Old House Makers Channel
+This Old House Shorts
+CINEBOX: MYSTERY
+Very Alabama by WVTM
+Very Arkansas by 40/29
+Very Baltimore by WBAL-TV
+Very Boston by WCVB
+Very Carolina by WXII
+Very Carolina by WYFF 4
+Very Central Coast by KSBW
+Very Cincinnati by WLWT
+Very Iowa by KCCI
+Very Jackson by 16 WAPT
+Very Louisville by WLKY
+Very Maine by WMTW
+Very Milwaukee by WISN 12
+Very New Hampshire by WMUR
+Very New Mexico by KOAT
+Very New Orleans by WDSU
+Very Oklahoma by KOCO
+Very Omaha by KETV
+Very Orlando by WESH 2-TV
+Very Pennsylvania by WGAL
+Very Pittsburgh by WTAE
+Very Sacramento by KCRA-TV
+Very Savannah by WJCL
+Very South Florida by WPBF 25
+Live Event 1
+Live Event 2
+Live Event 3
+Live Event 4
+Live Event 5
+Live Event 6
+Mystery Science Theater 3000
+Mystery Science Theater 3000 (MST3K)
+Mystery Science Theater 3000 (USA)
+EBS 1 [Not 24/7]
+EBS 2 [Not 24/7]
+Mythical 24/7
+Mythical 24/7 (CA)
+Mythical 24/7 (USA)
+COURT TV
+COZI TV
+CP24
+CRAVE 1
+CRAVE 2
+CRAVE 3
+CRAVE 4
+CStylex
+CTV 2
+CTV @ Home (CA)
+CTV Gets Real (CA)
+CTV Gridlock (CA)
+CTV Laughs (CA)
+CTV Toronto (CTFO)
+CURIOSITY Now (UK)
+CVM (Jamaica)
+CW (WDCW) District of Columbia SD
+CW (WKCF)
+Caillou (USA)
+Court TV
+Court TV (1080p)
+Court TV (CA)
+Court TV (USA)
+Court TV East
+Court TV Legendary Trials
+Crímenes Verdaderos
+Cuban Indica
+Curiosity Animales (USA)
+Curiosity Explora
+Curiosity Explora (USA)
+Curiosity Motores (USA)
+# Add more by copying from channels.txt
