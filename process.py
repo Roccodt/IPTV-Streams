@@ -21,9 +21,6 @@ def check_stream_active(url, timeout=20):
     except Exception:
         return False
 
-# Keywords to filter out (case-insensitive)
-filter_keywords = ["xumo", "yahoo", "xite", "vivo", "vix", "pga", "nl", "nbc", "mtv", "mbc", "hallmark", "filmrise", "fox", "bbc", "abc", "bet" "cine", "classic", "freetv", "stingray", "bloomberg", "cnn", "poker", "billiard", "pluto", "sport", "football", "soccer", "nba", "nfl", "espn", "tennis", "cricket", "boxing", "TSN", "golf", "news"]
-
 # EPG URL
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
@@ -34,6 +31,22 @@ with open("links.txt", "r") as f:
 # Read order from order.txt
 with open("order.txt", "r") as f:
     order_list = [line.strip().lower() for line in f if line.strip() and not line.startswith("#")]
+
+# Read exclude.txt: Top keywords (substring), bottom exact channels (after '# Exact Channels' marker)
+keywords = set()
+exacts = set()
+mode = 'keywords'
+with open("exclude.txt", "r") as f:
+    for line in f:
+        line = line.strip().lower()
+        if not line or line.startswith("#"):
+            if '# exact channels' in line:  # Marker to switch modes (case-insensitive)
+                mode = 'exacts'
+            continue
+        if mode == 'keywords':
+            keywords.add(line)
+        else:
+            exacts.add(line)
 
 # List to store potential channels before active check
 potential_channels = []  # List of (title_lower, extinf, url)
@@ -53,7 +66,8 @@ for url in urls:
                         if title_match:
                             title = title_match.group(1).strip()
                             title_lower = title.lower()
-                            if any(kw in title_lower for kw in filter_keywords):
+                            # Skip if substring keyword match OR exact title match
+                            if any(kw in title_lower for kw in keywords) or title_lower in exacts:
                                 i += 2
                                 continue
                             if urlparse(stream_url).scheme in ("http", "https"):
