@@ -113,12 +113,12 @@
 1452 Catfish
 1453 Geordie Shore
 1454 Teen Mom
+1455 Evidence of Evil
 1456 Homicide Hunter
 1457 On The Case
 1458 48 Hours
 1459 FBI Files
 146 Imagen TV Plus
-1461 Medical Detectives
 1462 More TV Crime
 1465 Sensing Murder
 1466 Deadly Women
@@ -283,7 +283,6 @@
 238 Empeños a lo bestia
 239 Ebony TV
 239 Homeful
-24 Hour Free Movies
 24/7 Chiptune Radio
 240 AllBlk Gems
 240 Western Bound
@@ -375,11 +374,9 @@
 301 Waypoint TV
 302 Estrella TV
 302 Heartland
-302 Wicked Tuna
 303 Ax Men
 303 Nashville
 304 Duck Dynasty
-304 Liah
 304 Moviesphere AUS
 304 Murdoch Mysteries
 304 Sony One Competencias
@@ -393,7 +390,6 @@
 307 Sparkle Movies - Light & Love
 307 The Price is Right: Drew Carey
 308 Let's Make A Deal
-308 Nickelodeon Teen
 309 Action Hollywood Movies
 310 Game Show Central
 310 MotorTrend FAST TV
@@ -523,10 +519,8 @@
 420 FUEL TV
 421 SPEEDVISION
 430 BABY SHARK TV
-431 Bob Esponja Pantalones Cuadrados
 433 Nickelodeon Clásico
 435 Los Padrinos Mágicos
-437 Nick Jr. Club
 438 Hey Arnold!
 440 Robocar POLI
 441 Cocobi
@@ -826,6 +820,7 @@
 891 The Country Network
 892 COPS
 901 TikTok Radio
+92.7 FM Jam Central
 92.9 WDUP
 93.7 The Beat Houston
 94.1 The Beat
@@ -847,7 +842,6 @@ ALF
 ALLBLK Gems (USA)
 AMC
 AMC +
-AMC Eastern Feed SD
 AMC Thrillers
 AMC en EspaÃ±ol (USA)
 AMERICATEVÉ
@@ -855,7 +849,6 @@ AWE Encore
 AWE Plus
 AXS TV Now
 AZ
-Aaliyah
 Aaliyah Hadid
 Aaliyah Hadid On Ricky's Room
 About K-Content by CJ ENM
@@ -913,7 +906,6 @@ All Weddings We TV (USA)
 All-Out Reality (USA)
 Alone By History (USA)
 Alternative
-Alva Jay
 Always Funny
 Always Funny Videos
 Always Funny Videos (USA)
@@ -926,9 +918,7 @@ America's Test Kitchen (USA)
 AmericaTeve
 American Crimes
 American Crimes (USA)
-American Gladiators
 American Heroes Channel
-American Heroes Channel HD
 American Idol (UK)
 American Ninja Warrior
 American Pickers (CA)
@@ -936,12 +926,12 @@ American Pickers by History (USA)
 Anais Amore 2
 Ancient Aliens
 Ancient Aliens (USA)
-Angel
 Angelique (USA)
 Anger Management
 Anger Management Channel
 Animal Planet
 Animal Planet FHD
+Animal Planet US East SD
 Animation+
 Animation+ (CA)
 Animation+ (USA)
@@ -973,14 +963,12 @@ Ashanti
 Asian Drama
 AsianCrush
 Aspire
-Assyrian
 Astro Grandstand
 At Home With Family Handyman
 At Home with Family Handyman
 At Home with Family Handyman (USA)
 At the Movies
 Auhneesh
-Autopista al Cielo
 Autumn Falls
 Avy Banks
 Ax Men
@@ -1002,7 +990,6 @@ Baby Shark TV
 Bachelor Nation
 Backstage
 Backstage (USA)
-Bad Gal Steph
 Bad Girls Club
 Barbie and Friends (USA)
 BarbieDollStef
@@ -1044,7 +1031,6 @@ Bounce XL
 Bounce XL (USA)
 Brat TV
 Brat TV (USA)
-Bravo
 Bravo +1
 Bravo Vault
 Briellah
@@ -1057,7 +1043,8 @@ Britbox Mysteries
 Buen Viaje
 Buzzr
 C-SPAN
-C-SPAN SD
+C-SPAN 2
+C-SPAN 2 SD
 C4 en Alerta
 CARTOON NETWORK
 CBC Comedy (CA)
@@ -1070,35 +1057,31 @@ CG MMA En EspaÃ±ol (USA)
 CHEK (CHEK-DT)
 CJ ENM MOVIE
 CMT
+CMT US Eastern Feed HD
 COMEDY CENTRAL
 COMET
 COOKING
 COPS en Español
-CW (WDCW) District of Columbia HD
 Camp Spoopy
 Campfire Vibes (USA)
 Candy Love
 Cannabis Grow
 Car Chase
 Cars (USA)
-Cartoon Network / Adult Swim
 Cartoon Network FHD
+Cartoon Network/Adult Swim
 Cash in the Attic (UK)
 Caso Cerrado
-Cassie Lenoir
 Catfish (UK)
 Caught on Tape (USA)
 Cece
 Celebrity Name Game
-Chanel Heart
 Chanel Star
 Channel 4 FHD
 Channel 5
-Channel 5 FHD
 Chasing Criminals
 Cheaters
 Cheaters (USA)
-Cheaters en Español
 Cheddar
 Cherry Jay
 Chesca Maggio
@@ -1113,7 +1096,6 @@ Circle Country (CA)
 Cirque du Soleil
 Clarity 4K (USA)
 Cleo TV
-Clic
 Clubbing TV
 Cold Case Files
 Cold Case Files (USA)
@@ -1125,7 +1107,7 @@ Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Comedy Central
-Comedy Central (US) Eastern Feed HD
+Comedy Central (US) Eastern Feed SD
 Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
@@ -1135,17 +1117,15 @@ Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Confess by Nosey
-Continuum
 Cook's Country Channel
 Cool Summer Channel (UK)
 Cops (CA)
-Cops en Español
 Corazón
-Corner Gas
 Corner Gas Channel by CTV (CA)
 Cosmic Frontiers
 Cozy Vibes (USA)
 CraftsyTV
+Crave
 Creator Television
 Crime & Justice (UK)
 Crime + Investigation
@@ -1173,6 +1153,7 @@ DISNEY JR
 DISNEY XD
 DIY
 DOCUMENTARY+
+DP World Tour
 Dallas
 Dallas Cowboys Cheer (USA)
 Dance Moms
@@ -1183,6 +1164,7 @@ DangerTV (CA)
 DangerTV (USA)
 Danja Angel 2
 Dark Matter TV
+Dateline
 Dateline 24/7
 Dateline 24/7 (USA)
 Deadly Women: powered by Banijay (UK)
@@ -1195,7 +1177,6 @@ Deal or No Deal (CA)
 Deal or No Deal (USA)
 Deal or No Deal US (UK)
 Deal or No Deal USA
-Death Valley Days
 Death Valley Days (CA)
 Death Valley Days (USA)
 Debree
@@ -1207,6 +1188,7 @@ Demand Africa
 Demand Drama (UK)
 Designated Survivor
 Destination America
+Destination America HD
 Destini
 Destini Creams
 Devil Khloe
@@ -1221,11 +1203,13 @@ Discovery
 Discovery Channel
 Discovery Channel FHD
 Discovery Family (DFC)
-Discovery Family Channel SD
+Discovery Life Channel HD
 Discovery Science
 Disney Channel
+Disney Eastern Feed SD
+Disney Junior USA East SD
 Disney XD
-Disney XD USA Eastern Feed SD
+Disney XD USA Eastern Feed HD
 Divorce Court
 Divorce Court (USA)
 Docsville
@@ -1239,6 +1223,7 @@ Dog Whisperer With Cesar Millan
 Dog the Bounty Hunter
 Dog the Bounty Hunter (CA)
 Dog the Bounty Hunter (USA)
+Don't Tell The Bride
 Dove
 Dove Channel (USA)
 Dr Phil's MeritTV (USA)
@@ -1283,10 +1268,8 @@ Electric Now en Espanol
 ElectricNOW
 ElectricNOW (USA)
 Ellie Nova
-Ely LaBella
 Em098 & HoneyB
 Emeril Lagasse Channel (USA)
-Emily Norman
 Emma Magnolia
 EncourageTV
 Enough Said
@@ -1313,10 +1296,12 @@ FRANCE 24 FAST (UK)
 FS1
 FS1 HD
 FS2 HD
+FUSE TV Eastern feed SD
 FX
+FX Networks East Coast SD
 FXX
-FXX USA Eastern SD
 FYI FHD
+Fabi Soul
 FailArmy
 FailArmy (CA)
 FailArmy (UK)
@@ -1331,6 +1316,7 @@ Family Unscripted
 FanDuel TV Extra
 FanDuel TV Extra (USA)
 Farscape
+Fashion TV UHD
 FashionTV
 Fear Factor
 Fear Factor (USA)
@@ -1358,24 +1344,25 @@ Francety
 Freaky C
 Free Movies Plus
 Freeform
-Freeform East Feed SD
+Freeform East Feed HD
 FrightFlix
 Funny Or Die Inc.
-Funsized Megan & Zoey Uso
 Fuse
 GRIT TV
 GUSTOTV
 GV TV
 Galanes (USA)
+Game & Fish TV
 Game & Fish TV (USA)
 Game Show Central
 Game Show Central (CA)
 Game Show Central (USA)
+Game Show Network
+GameTVGO
 Gangstaville Radio
 Gardening with Monty Don
 Gary Vee TV
 Gem Jewels Tape
-Gem Jewels x Dredd
 Generation Drama
 Genie K-Drama (UK)
 Genie K-Drama (USA)
@@ -1391,12 +1378,9 @@ Ghosts are Real
 Gia Venetia
 Gigi Lysette
 Gigi Vergara
-Gina Wap
-Giuliana Cabrazia
 Glewed TV
 Go Wild
 GoTraveler
-GoUSA TV
 GoUSA TV (UK)
 Gordon Ramsay
 Got Radio - Soul Kitchen OGs Hip Hop R&B
@@ -1409,7 +1393,6 @@ Great American Family
 Great British Menu (UK)
 Great! Movies (UK)
 Great! romance (UK)
-Green Acres
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
@@ -1425,13 +1408,13 @@ H2O & Friends (UK)
 H2O TV
 HBCU Go!
 HBO
-HBO 2 Eastern Feed SD
+HBO 2 Eastern Feed HD
 HBO Comedy
-HBO Comedy FHD
+HBO Comedy HD East SD
+HBO Eastern Feed HD
 HBO Family
 HBO Hits
 HBO Movies
-HBO Signature (HBO 3) Eastern HD
 HBO Signature (HBO 3) Eastern SD
 HBO Zone
 HBO2
@@ -1445,11 +1428,9 @@ HSN East
 HSN West
 HTX
 HTX 2
-HTX 3
 Hagerty
 Hagerty (CA)
 Hagerty (USA)
-Halloween Plus
 Hannah Jo
 HappyKids (CA)
 HappyKids (USA)
@@ -1460,7 +1441,6 @@ Haunt TV (USA)
 HauntTV
 Heartland (USA)
 Hell's Kitchen
-Hell's Kitchen & Kitchen Nightmares
 Hell's Kitchen (USA)
 Hell's Kitchen | Kitchen Nightmares
 HerSphere by Lionsgate
@@ -1472,15 +1452,13 @@ Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
-HipHop95
 Historia (USA)
 History
-History & Warfare
 History & Warfare (CA)
 History & Warfare Now
 History & Warfare Now (USA)
 History 365 (USA)
-History Hit
+History Channel US Eastern Feed HD
 History Hit (UK)
 History Hunters (UK)
 Hit List
@@ -1490,7 +1468,6 @@ Hoarders (UK)
 Hollywire (CA)
 Hollywire (USA)
 Home Refresh (USA)
-Home.Made.Nation
 Home.Made.Nation (USA)
 Homeful
 Homeful (CA)
@@ -1498,7 +1475,6 @@ Homeful (USA)
 Homes Under the Hammer (UK)
 Homicide Hunter (UK)
 Honey
-Honey & Rue Lynn
 Honey 2
 Honey 3
 Honey 4
@@ -1506,7 +1482,6 @@ Honey Bun
 Honey Dipped
 Hong Kong Fight Club
 Horror Machine
-Horror Stories
 Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
@@ -1518,7 +1493,6 @@ Hot Country
 Hot Ones
 Hot Ones (UK)
 Hot Ones (USA)
-Hot Wheels Action
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
 How To
@@ -1541,19 +1515,20 @@ INWILD (UK)
 ION
 ION (USA)
 ION (WPXX)
-ION Eastern Feed HD
+ION Eastern Feed SD
 ION Mystery
 ION Mystery (USA)
 ION Mystery (WFXT)
 ION Plus
 ION Plus (USA)
 Ice Pilots NWT
-Ice Pilots NWT (en español)
 Ice Road Truckers
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
+Ideas En 5 Minutos
 Impact Gospel
+Impossible - Quiz Show
 In Depth with Graham Bensinger
 In Depth with Graham Bensinger (USA)
 In The Heat of the Night
@@ -1598,18 +1573,13 @@ Jack Hanna (UK)
 Jada Stevens
 Jada Stevens 2
 Jada Stevens 3
+Jade Fever
 Jadeteen
 Jamie Kennedy Comedy
 Jamie Oliver
 Jamie Oliver (USA)
-Jayda
 Jayla Page
 Jaymee Green
-Jazz
-Jazz 2
-Jazz 88.3
-JazzTheStallion
-JazzTheStallion 2
 Jenni Angel
 Jessie Rogers
 Jhonie
@@ -1653,15 +1623,14 @@ KZBT-FM
 KZWA 104.9 FM
 Kaden Kole
 Kakey
-Kali Roses & Jenna Starr
 Kardi
-Karmen Karma
 Karol Rosado
 Kartoon Channel!
 Kartoon Channel! (CA)
 Kartoon Channel! (USA)
 Kash
 Kash Omera
+KattVD
 Kay Kay
 Kayla Jade East
 Ketchup TV (UK)
@@ -1675,6 +1644,7 @@ Kissa Sins
 Kitchen Nightmares (USA)
 Knowledge Network
 Kona Jade
+Korea Central Television (KCTV)
 Krackinasskey
 Kream Cheeks
 Kream Cheeks 2
@@ -1682,6 +1652,7 @@ Kung Fu Movies
 Kush
 LADbible (UK)
 LEGO Channel (CA)
+LOGO East HD
 LOL Network
 LOL! Network
 LOL! Network (USA)
@@ -1694,6 +1665,7 @@ Las Vegas
 Lashae
 Lashae 2
 Lassie
+Lassie (USA)
 Law & Crime
 Law & Crime (USA)
 Law & Order
@@ -1713,6 +1685,8 @@ Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies Love & Drama (USA)
 Lifetime Movies Network
+Lifetime Network US Eastern Feed HD
+Lifetime Network US Eastern Feed SD
 Like Nastya
 Lillianette & Raven Thick
 Lissa Aires
@@ -1753,6 +1727,7 @@ Luna
 Luna 2
 Luna Baby
 Luna Luxe
+Luna Star & Kali Roses
 Lunar Liv
 Luxe Fireplace Vibes (USA)
 M2
@@ -1771,12 +1746,12 @@ MLB
 MLB Channel (CA)
 MLB Channel (USA)
 MLB Network
-MLB Network HD
 MSG
 MST3K
 MUCH
 MVStv
 Maddison Black
+Made In Hollywood
 MagellanTV Wildest
 MagellanTV Wildest (USA)
 Majic 94.5
@@ -1788,13 +1763,15 @@ Mattel Jr. (USA)
 Maya Bijou
 Mayday: Air Disaster (UK)
 McLeod's Daughters
+McLeods Daughters
 MeTV
-MeTV Toons (WJLP2) New Jersey HD
+MeTV Wjlp New Jerseynew York HD
 MeatEater (USA)
 Mecum TV
 Melztube
 Metalocalypse
 Mexicuban & Greedy Grove
+Midnight Pulp
 Midnight Pulp (CA)
 Midnight Pulp (USA)
 Midsomer Murders
@@ -1811,6 +1788,7 @@ Million Dollar Listing Vault
 Mini Loona
 Miramax Channel (USA)
 Miss Carter
+Miss Carter 2
 Miss Carter 3
 MissBNasty
 Misterios sin resolver
@@ -1818,12 +1796,13 @@ Modern Innovations by History
 Modern Marvels (CA)
 Modern Marvels (UK)
 Modern Marvels Presented by History (USA)
-Money Birdette
 Monster Jam
 Monsters & Nightmares
 Moonbug (CA)
 Moonbug (USA)
 Moonbug Kids
+Motor Trend HD HD
+Motor Trend HD SD
 MotorRacing (UK)
 MotorTrend
 MotorTrend FAST TV
@@ -1836,6 +1815,7 @@ Movie Hub Action
 MovieSphere
 MovieSphere (USA)
 MovieSphere by Lionsgate
+Movieitaly Channel
 Moviesphere by Lionsgate (UK)
 Mr Bean Animated (UK)
 Mr Bean Live Action (UK)
@@ -1843,7 +1823,6 @@ Mr. Bean
 Mr. Pickles
 MrBeast
 MrBeast (USA)
-Ms Kay Simone
 Ms Kay Simone 2
 Ms Sethi
 Mulan Vuitton
@@ -1873,20 +1852,21 @@ NEW Korean MOVIES & SERIES
 NFNC
 NHL
 NHL Network
-NHL Network USA HD
 NHRA TV
 NHRA TV (CA)
 NHRA TV (USA)
-NI Live 2
 NTV
 NY 48 (WWON)
+NY HD
 NY SD
 NYC House Radio
 Naruto (USA)
 Nash Bridges
 Nash Bridges Channel
 National Geographic
+National Geographic US Eastern HD
 National Geographic Wild
+National Geographic Wild HD
 National Lampoon (USA)
 Naturaleza Salvaje
 Nature Moments
@@ -1900,9 +1880,8 @@ NickToons
 NickToons (Alternate)
 Nickelodeon
 Nickelodeon (Alternate)
-Nickelodeon UK FHD
+Nickelodeon USA East Feed HD
 Nicktoons
-Nicktoons East HD
 Nico Luva
 Nico Luva 2
 Nicole Doshi
@@ -1912,10 +1891,11 @@ Ninja Kidz (CA)
 Ninja Kidz (USA)
 Ninja Kidz TV
 Ninja Warrior (UK)
+Nip/Tuck
 Niykee
 Niykee Cruz
+Nolly Africa HD
 Nollywood
-Non-Stop
 Non-Stop '90s
 Nonstop Rain for Calming Vibes
 Noovo cinÃ©ma (CA)
@@ -1923,8 +1903,10 @@ Noovo Ã‡a câ€™est drÃ´le (CA)
 Nosey
 Nosey (CA)
 Nosey (USA)
+Nothin' But 90s
 Novacane
 Novelas Turcas (USA)
+Novelisima
 Novelísima
 Now 70's (UK)
 Now 70s
@@ -1933,10 +1915,10 @@ Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
 Nympho Candy
-Nyny Lew
 OAN Plus
 OGN ìŠ¤íƒ€ë¦¬ê·¸
 OK Gamer
+ONE Championship TV
 OUTSIDE TV
 OUTtv Proud
 OUTtv Proud (CA)
@@ -1952,6 +1934,7 @@ Oro TV
 Outdoor America
 Outdoor America (USA)
 Outdoor Channel
+Outdoor Channel US SD
 OuterSphere
 OuterSphere (USA)
 OuterSphere by Lionsgate
@@ -1985,6 +1968,7 @@ PBS MPT (WMPB)
 PBS Nature
 PBS Nature (USA)
 PBS Retro
+PBS Travel
 PBS Travel (USA)
 PFL (CA)
 PFL (USA)
@@ -2008,9 +1992,9 @@ Paternity Court
 Pawn Stars (USA)
 Paws & Claws
 Payton Preslee & Ellie Nova
-Peacock Premier League TV
 People Are Awesome
 People Are Awesome (CA)
+People are Awesome
 Pequenos Gigantes (USA)
 Perform (USA)
 Pet Collective
@@ -2026,8 +2010,7 @@ Pocket.watch Game-On
 Pocoyo (UK)
 Pointless UK: 'Powered by Banijay' (UK)
 PokÃ©mon (USA)
-Pool Party
-Pool Party 2
+Pop Adult
 Pop TV
 Popflix (UK)
 Popstar! TV
@@ -2062,11 +2045,13 @@ QVC East
 QVC West
 QVC's The Big Dish
 QVC2
+Qello Concerts
 Queen Rogue
 Queen Rogue & Twerking Elle
 Qwest TV
 RACER Select
 RACER Select (USA)
+RCM
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RETV (Jamaica)
@@ -2074,6 +2059,7 @@ RIG TV (USA)
 ROI TV
 RVTV
 Rabbids Invasion (UK)
+Racing America
 Radio-Canada INFO (CA)
 Rai Blue
 Rainbow Rangers
@@ -2090,6 +2076,7 @@ Real Disaster Channel
 Real Housewives Vault
 Real Madrid
 Real Madrid TV
+Real Wild
 Real Wild (UK)
 Reality - Rakuten TV (UK)
 Rebelde (USA)
@@ -2097,8 +2084,8 @@ Red Bull TV
 Red Bull TV (UK)
 Reelz Famous and Infamous
 ReelzChannel
-ReelzChannel HD
 Regina Luv
+Remember the ‘80s
 Remezcla TV
 Retro Blast
 RetroCrush
@@ -2116,15 +2103,12 @@ RiffTrax
 RiffTrax (USA)
 Rig TV
 Rissa May
-Rita Bang
 River Monsters (UK)
 Road Renegades (USA)
 Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
 Romance Movies - Rakuten TV (UK)
 Rovr Pets (USA)
-Roxanne Roselle
-Roxie Sinner
 Rue Lynn
 Runtime Español
 Runtime Sangre Fría
@@ -2155,10 +2139,11 @@ SBS íŒ¨ë°€ë¦¬ê°€ ë–´ë‹¤
 SBS í”¼ê³ ì¸
 SEC Network
 SEC Network HD
+SEC Network SD
 SGF
 SGF 2
-SGF 3
 SGF 4
+SLOPES
 SMITHSONIAN CHANNEL
 SPARK TV
 SPEEDVISION
@@ -2174,10 +2159,10 @@ Salarrea & Mia Malkova
 Samsung Showcase (USA)
 Samsung Wild Life (USA)
 Sandy Love & Jolla PR
-Santa Muerte
 Sara Retali
 Sarai Minx
 Savannah Bond
+Savannah Bond 2
 Savannah Bond 3
 Savannah Bond 4
 Saved by the Bell
@@ -2185,6 +2170,7 @@ Savi
 Say Yes to the Dress
 Scares by Shudder
 Sci-Fi - Rakuten TV (UK)
+Science SD
 Scream Factory TV
 Screambox TV
 Selina Slayer
@@ -2196,21 +2182,23 @@ Shades of Black
 Shades of Black (USA)
 Shaun the Sheep & Friends
 Shaun the Sheep (USA)
-Shawna Lynn
 She Wrote
+Shemaroo Bollywood
+Sheriffs: El Dorado County
 ShopLC
 Shout! Movies
 Shout! TV
 Shout! TV (USA)
 Showtime
 Showtime 2
-Showtime 2 Eastern HD
+Showtime Eastern Feed HD
 Showtime Extreme
 Showtime Next
 Showtime West
 Showtime Women
 Sienna Grace
 Silent Witness and New Tricks
+Silent Witness|New Tricks
 Sinatra & Luna
 Sinatra Monroe
 Sister
@@ -2228,13 +2216,16 @@ Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
 Smurf TV (UK)
 So Real
+So... Real
 Soma FM - The Trip
+Sonic TV
 Sonic The Hedgehog
 Sonic The Hedgehog (UK)
 Sonic The Hedgehog (USA)
 Sony Movie Channel
 Sony One Competencias (USA)
 Sony One Novelas (USA)
+Soul Storm
 Soâ€¦Real (UK)
 Spark TV - Luz & Amor
 Sparkle Movies (UK)
@@ -2247,16 +2238,16 @@ StarTalk TV
 Starfire
 Stargate
 Starry Sigh
+Startalk TV
 Starz
 Starz Comedy
-Starz Eastern SD
+Starz Eastern HD
 Starz Edge
 Starz Encore Action
 Starz Encore Westerns
 Stash TV
 Steffy Moreno & Alexis Doll
 Stella Brooks
-Steph Murves
 Storage Wars: LA (USA)
 Stories by AMC
 Storm Vibes (USA)
@@ -2264,16 +2255,15 @@ Story Television
 Strawberry Shortcake (UK)
 Strawberry Shortcake (USA)
 Streetz
+Strongman Champions
 Strongman Champions League
 Strongman Champions League (UK)
 Strongman Champions Network
 Summer
 Summer Vibes (USA)
-Sunny Bunny
 SupaSoaka
 SupaSoaka 2
 Super Mario Brothers
-Super Simple Songs
 SuperToons TV (UK)
 Supermarket Sweep
 Supermarket Sweep (CA)
@@ -2291,6 +2281,7 @@ TBN
 TBN Inspire
 TBS
 TBS East
+TBS East SD
 TBS West
 TCM East
 TCM West
@@ -2298,20 +2289,21 @@ TED
 TED (USA)
 TG Junior (USA)
 TLC
-TLC USA Eastern SD
 TMZ
 TMZ (USA)
 TNT
+TNT Eastern Feed HD
 TNT FHD
 TNT West
 TODAY All Day
 TODAY All Day (USA)
+TRACE Brazuca
+TRACE Urban
 TUDN
 TV CHOSUN ì‹ê° í—ˆì˜ë§Œì˜ ë°±ë°˜ê¸°í–‰
 TV Direct 13 (Curaçao)
 TV Land
 TV Land Drama (USA)
-TV Land Eastern HD
 TV Land Sitcoms (USA)
 TV One CRIME & JUSTICE FAST CHANNEL
 TV One Crime & Justice
@@ -2345,9 +2337,9 @@ Team Liquid
 Team Liquid (USA)
 Team USA TV
 TeenNick
-TeenNick Eastern HD
 Tekken 8
 Telediario Now
+Teleonce America
 Terra Mater WILD (UK)
 Tessa Thomas
 Texas
@@ -2364,6 +2356,8 @@ The Carol Burnett Show
 The Celebrity Name Game Channel
 The Challenge (USA)
 The Conners
+The Cooking Channel HD
+The Cowboy Channel
 The Curse of Oak Island (USA)
 The Design Network
 The Design Network (CA)
@@ -2373,6 +2367,7 @@ The Dick Van Dyke Show
 The Doctors
 The Ed Sullivan Show
 The Ellen Channel
+The Emeril Lagasse Channel
 The F.B.I.
 The FBI
 The First
@@ -2395,10 +2390,12 @@ The LEGO Channel (UK)
 The LEGO Channel (USA)
 The Lone Ranger
 The Lucky Dog Channel
+The Martha Stewart Channel
 The Martha Stewart Channel (USA)
 The Masked Singer
 The Mightiest by CTV (CA)
 The Nest
+The New Detectives
 The New Detectives (USA)
 The Osbournes
 The Pet Collective
@@ -2411,11 +2408,12 @@ The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
+The Spa
 The UnXplained with William Shatner (USA)
-The Venture Bros.
 The Void
 The Walking Dead Universe
 The Walking Dead Universe (USA)
+The Wicked Tuna Channel
 The Wicked Tuna Channel (UK)
 The Wu Tang Collection TV
 The Yorkshire Vet & Friends
@@ -2430,10 +2428,10 @@ Tiny House Nation (CA)
 Tiny House Nation (UK)
 Tiny House Nation (USA)
 Tiny POP (UK)
-Tiny Spice
 Tipping Point (UK)
 Today All Day
 Today's Homeowner
+Today's K-Pop
 Todo Novelas Más Pasiones
 Tommy King
 Toni Camille
@@ -2456,13 +2454,13 @@ Trace UK (UK)
 Trace Urban (UK)
 Trailer Park Boys
 Transformers
-Trapsweety
 Travel + Adventure
 Travel Channel
 Travel Escapes
 Travel US East SD
 Tribeca Channel
 Trinity Broadcasting Network
+Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
@@ -2481,10 +2479,11 @@ US: NESN UHD
 USA Network
 USA Network East Feed HD
 USA Network East Feed SD
-USA Network FHD
+USA TODAY
 USA Today
 USA Today (USA)
 UnXplained Zone
+Unbeaten
 UniMás (WFUT)
 Unidentified (USA)
 Unique Lives
@@ -2502,11 +2501,12 @@ Unsolved Mysteries (USA)
 Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
+Unusual Art
 Urban Action Channel
 V101
 VH1
+VH1 Eastern Feed SD
 VICE (USA)
-VICE SD
 Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
@@ -2517,13 +2517,13 @@ Very Tampa Bay by WMOR
 Vianey
 Vice
 Vice Entertainment
+Victoria Peach
 Video Game Heroes (UK)
 Violet Myers
 Violet Myers & Hailey Rose
 Violet Myers & Mz Jessie
 Violet Myers 2
 Violet Myers 3
-Vitoria Beatriz 2
 Vivian Taylor
 W NETWORK
 WAND Decatur IL
@@ -2531,6 +2531,7 @@ WAOW Wausau WI
 WAPA+
 WAPA+ (USA)
 WDRB Louisville KY
+WE (Women's Entertainment) Eastern SD
 WE 102.9
 WFTV Orlando
 WGCI-FM 107.5
@@ -2562,6 +2563,7 @@ Waypoint TV (CA)
 Waypoint TV (USA)
 WaypointTV
 WeTV
+Weeds & Nurse Jackie
 Welcome Home
 Wendy Williams
 Wendy’s
@@ -2586,10 +2588,12 @@ Wipeout Xtra (USA)
 Wipeout Xtra Powered by Banijay (UK)
 Wired2Fish
 Witness to Justice (USA)
+Wonder
 World Channel
 World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
+Wu Tang Collection
 X Games TV
 X102.3
 XPLORE
@@ -2599,22 +2603,24 @@ Xploration Station
 Xplore
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY (USA)
+Y2K
 YAAAS! (UK)
 YES Network
 YTN
+Yani Blessed
 Yasmina Khan
 Yasmina Khan 2
-Yes Network HD
 Yinyleon
 Your Pretty Face is Going to Hell
 Yu-Gi-Oh (USA)
 Yu-Gi-Oh!
 Yum The Boss
+Yuri Dreamz
 Z Nation
+Zee BollyWorld
 Zee One (UK)
-Zen Mami
+Zoey Reyes
 Zoey Uso
-Zona TUDN (USA)
 ZooMoo (USA)
 [after swim]
 babycotton99
@@ -2644,17 +2650,18 @@ indiadyme
 lilbabymj
 location
 nastyskii
+party tyme karaoke
+pocket.watch Game-On
 pocket.watch Game-On (USA)
 realyella
 theGrio
-thelatbarbie
 thelatina
 thelatina 2
-themanseater
 wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
+Éxitos del Momento
 ÚN TV
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
