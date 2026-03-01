@@ -9,7 +9,7 @@ import concurrent.futures
 use_pipe = True
 
 # Function to check if stream is active (using ffprobe)
-def check_stream_active(url, timeout=20):
+def check_stream_active(url, timeout=10):
     try:
         result = subprocess.run(
             ['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', '-i', url],
