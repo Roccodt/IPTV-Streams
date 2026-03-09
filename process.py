@@ -139,7 +139,7 @@ with open("cleaned_pipe.m3u", "w") as f:
     f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
     for _, extinf, url in ordered_channels:
         if use_pipe:
-            wrapped_url = f'pipe://ffmpeg -analyzeduration 30000000 -i "{url}" -bsf:v h264_mp4toannexb -c copy -f mpegts pipe:1'
+            wrapped_url = f'pipe://ffmpeg -analyzeduration 20000000 -i "{url}" -bsf:v h264_mp4toannexb -c copy -f mpegts pipe:1'
             f.write(f"{extinf}\n{wrapped_url}\n")
         else:
             f.write(f"{extinf}\n{url}\n")
