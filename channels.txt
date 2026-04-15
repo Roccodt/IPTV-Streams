@@ -1,4 +1,5 @@
 00s Replay
+100 Hip Hop and RNB FM
 100 Majordomo TV with David Chang
 100.3 HD 2 RB and Hip Hop
 1000 LG 1
@@ -365,7 +366,6 @@
 300 Diagnosis Murder
 300 Xtreme Outdoor Presented by HISTORY
 301 Baywatch
-301 Waypoint TV
 302 Estrella TV
 302 Heartland
 302 Wicked Tuna
@@ -758,7 +758,6 @@
 767 Bargain Hunt
 772 QVC
 773 HSN
-7th Heaven
 8 Out Of 10 Cats (UK)
 807 The Biggest Loser
 808 Fear Factor
@@ -815,6 +814,7 @@
 901 TikTok Radio
 90s Kids TV 2
 90s Throwback
+92.7 FM Jam Central
 92.9 WDUP
 93.7 The Beat Houston
 94.1 The Beat
@@ -961,7 +961,6 @@ Antiques Roadshow (USA)
 Antiques Roadshow UK
 Aoki Orgy
 Aqua
-Aqua Teen Hunger Force
 AquÃ­ y Ahora (USA)
 Arabella Mia
 Arabelle Raphael & Azzy Star
@@ -1043,7 +1042,6 @@ Big 12 Studios (CA)
 Big 12 Studios (USA)
 Big Brother
 Big Ten Network HD
-Big Ten Network SD
 Biography: The Icons (USA)
 Bizaar
 Bizarre Foods with Andrew Zimmern
@@ -1191,6 +1189,7 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
+Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Concert Channel
@@ -1222,7 +1221,6 @@ Crime Scenes
 Crime ThrillHer (USA)
 Crime Up Close
 Crimen
-Crimes Cults Killers
 Crimes Cults Killers (USA)
 Crimes That Shook Britain
 Criminal Minds
@@ -1239,7 +1237,6 @@ DCC: Making the Team
 DECLASSIFIED
 DOCUMENTARY+
 DP World Tour
-DREAD TV
 Dallas
 Dallas Cowboys Cheer (USA)
 Dance Moms
@@ -1253,6 +1250,7 @@ Danja Angel 2
 Daria
 Dark Matter TV
 Dark Shadows
+Dateline
 Dateline 24/7
 Dateline 24/7 (USA)
 Dating Disasters
@@ -1489,7 +1487,6 @@ Game Show Network East SD
 Gangstaville Radio
 Gardening with Monty Don
 Garfield and Friends
-Gata Salvaje
 Gem Jewels
 Gem Jewels - BangBros
 Gem Jewels Tape
@@ -1503,7 +1500,6 @@ Genie Movie
 Genie ì•¡ì…˜íŠ¹ì„
 Geordie Shore
 Get.Factual (UK)
-Ghost Dimension
 Ghost Hunters
 Ghost Hunters Channel
 Ghosts Are Real
@@ -1516,7 +1512,6 @@ Girlfriends
 Giuliana Cabrazia
 Glewed TV
 Go Go Gadget!
-Go Wild
 GoTraveler
 GoUSA TV (UK)
 Golazo Network
@@ -1533,6 +1528,7 @@ Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
+Grjngo - Películas Del Oeste
 Grjngo - Western Movies
 Grjngo - Western Movies (UK)
 Growing Up Hip Hop WeTV
@@ -1604,8 +1600,11 @@ Highway Thru Hell
 Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
+Hip-Hop/R&B
+HipHop95
 Historia (USA)
 Historias de Ultratumba
+History & Warfare
 History & Warfare (CA)
 History & Warfare Now
 History & Warfare Now (USA)
@@ -1614,6 +1613,7 @@ History Channel US Eastern Feed HD
 History Channel US Eastern Feed SD
 History Hit (UK)
 History Hunters (UK)
+Hit List
 Hit Sitcoms
 Hits Radio - Rap Hip Hop
 Hoarders (UK)
@@ -1643,15 +1643,19 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
+Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
+Hot Country
 Hot Ones
 Hot Ones (UK)
 Hot Ones (USA)
+Hot Wheels Action
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
 How To
+Humor Mill
 Hungry
 Hungry (USA)
 Hunter
@@ -1659,11 +1663,13 @@ Hunter x Hunter
 I Love Lucy
 I Survived (UK)
 I Survivedâ€¦ (USA)
+IFC Films Picks
 INFAST (CA)
 INFAST (USA)
 INFOWARS NETWORK FEED: LIVE 247!
 INTRAVEL (UK)
 INWILD (UK)
+INWONDER
 ION
 ION (USA)
 ION Eastern Feed HD
@@ -1675,13 +1681,19 @@ ION Plus
 ION Plus (USA)
 ITV Deportes
 Ice Pilots
+Ice Pilots NWT
+Ice Pilots NWT (en español)
+Ice Road Truckers
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
+Ideas En 5 Minutos
 Imagen TV+
 Impact Gospel
+Impossible - Quiz Show
 In Depth with Graham Bensinger
 In Depth with Graham Bensinger (USA)
+In The Heat Of The Night by MGM
 In The Heat of the Night
 In Touch+
 In the Garage
@@ -1697,7 +1709,6 @@ Inside Crime
 Inside Crime (UK)
 Inside Edition
 Inside Outside (UK)
-Inspector Gadget
 Intervention (CA)
 Intervention (UK)
 Inuyasha
@@ -1705,7 +1716,9 @@ Investiga
 Investigation
 Investigation Discovery USA Eastern HD
 Investigation Discovery USA Eastern SD
+Ion Mystery
 Iron Chef
+Iron Chef en español
 Ishues
 Island Vibes (USA)
 It's Showtime at the Apollo
@@ -1735,6 +1748,7 @@ Jack Hanna (UK)
 Jada Stevens
 Jada Stevens 2
 Jada Stevens 3
+Jade Fever
 Jadeteen
 Jamie Kennedy Comedy
 Jamie Oliver
@@ -1756,8 +1770,10 @@ Jocelyn
 Jocelyn 2
 Joel Osteen Network
 Johnny Carson TV
+Journy
 Journy (CA)
 Journy (USA)
+Jubao
 Judge Judy
 Judge Nosey
 Juicy Bitch
@@ -1779,7 +1795,6 @@ KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
-KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
 KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
 KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
@@ -1813,7 +1828,9 @@ Kianna Dior & Hailey Rose
 Kidoodle.TV (CA)
 Kidoodle.TV (USA)
 Kids time
+KidsFlix
 Kidz Bop TV
+Kim's Convenience
 King of Queens
 Kira Perez
 Kira Perez 2
@@ -1830,6 +1847,7 @@ Kream Cheeks 2
 Kung Fu Movies
 Kush
 LADbible (UK)
+LATV
 LEGO Channel (CA)
 LEGO Kids TV
 LOGO East HD
@@ -1838,6 +1856,7 @@ LOL Network
 LOL! Network (USA)
 LUCHA PLUS
 La Familia del Barrio
+La Fiebre del Jade
 La Selección
 LaMúsica TV
 Laff More
@@ -1853,6 +1872,7 @@ Law & Crime (USA)
 Law & Order
 Law&Crime
 Law&Crime (CA)
+Lawless
 Lawless by Lionsgate
 Leahndra
 Leave It to Beaver
@@ -1865,6 +1885,7 @@ Let's Make a deal
 LexLaFlame
 Lidia's Kitchen
 Life & Legend of Wyatt Earp
+Life with Derek
 Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies East HD
@@ -1896,7 +1917,9 @@ LooLoo Kids (UK)
 Los Asesinatos de Midsomer
 Los Padrinos Mágicos
 Los archivos del FBI
+Loud 101.5
 Loud 103.3
+Loud 98.5
 Loupe 4K (USA)
 Love & Hip Hop
 Love & Hip Hop (USA)
@@ -1933,6 +1956,7 @@ MF
 MFF
 MGM Presents
 MHz Mysteries (USA)
+MHz Now
 MHz Now (CA)
 MLB
 MLB Channel (CA)
@@ -2003,7 +2027,6 @@ Modern Marvels (CA)
 Modern Marvels (UK)
 Modern Marvels Presented by HISTORY
 Modern Marvels Presented by History (USA)
-Moesha
 Money Birdette
 Monster Jam
 Monsters & Nightmares
@@ -2020,6 +2043,7 @@ More U
 MoreMax Eastern HD
 MoreMax Eastern SD
 Most Haunted
+MotoGP Channel
 Motor Trend HD HD
 Motor Trend HD SD
 MotorRacing (UK)
@@ -2031,17 +2055,18 @@ Mountain Men (USA)
 Movie Favorites By Lifetime
 Movie Favorites By Lifetime (USA)
 Movie Hub
-Movie Hub Action
 MovieMax (Max 6) East HD
 MovieMax (Max 6) East SD
 MovieSphere
 MovieSphere (USA)
 MovieSphere by Lionsgate
+Movieitaly Channel
 Moviesphere
 Moviesphere by Lionsgate (UK)
 Mr Bean Animated (UK)
 Mr Bean Live Action (UK)
 Mr. Bean
+Mr. Bean Live Action
 Mr. Pickles
 MrBeast
 MrBeast (USA)
@@ -2051,6 +2076,7 @@ Ms Sethi
 Mulan Vuitton
 Mulan Vuitton 2
 Murdoch Mysteries
+Music Legends
 Muva Phoenix
 My Little Pony
 My Time Movie Network
@@ -2070,8 +2096,10 @@ NASCAR Channel
 NASCAR Channel (USA)
 NCIS
 NCIS: Los Angeles
+NESN NATION
 NESN Nation
 NESN Nation (USA)
+NEW K.MOVIES
 NEW KFOOD
 NEW KMOVIES (USA)
 NEW KPOP (USA)
@@ -2104,6 +2132,7 @@ National Geographic Wild HD
 National Geographic Wild SD
 National Lampoon (USA)
 Naturaleza Salvaje
+Nature Moments
 NatureTime
 NatureVision
 Naturescape
@@ -2140,6 +2169,7 @@ Ninja Warrior (UK)
 Niykee
 Niykee Cruz
 No Reservations
+Nolly Africa HD
 Nollywood
 Non-Stop
 Non-Stop '90s
@@ -2156,6 +2186,7 @@ Novelísima
 Now 70's (UK)
 Now 70s
 Now 80's
+Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -2185,7 +2216,6 @@ Out TV Proud
 Outback Truckers
 Outdoor America
 Outdoor America (USA)
-Outdoor Channel US HD
 Outdoor Channel US SD
 OuterSphere
 OuterSphere (USA)
@@ -2240,7 +2270,6 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
-Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2312,6 +2341,7 @@ RACER Select
 RACER Select (USA)
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
+RETV (Jamaica)
 RIG TV (USA)
 ROI TV
 ROMCOM K-Drama
@@ -2417,7 +2447,6 @@ SGF
 SGF 2
 SGF 3
 SGF 4
-SLOPES
 SPARK TV
 SPEEDVISION
 SSLala
@@ -2466,7 +2495,6 @@ Shades of Black
 Shades of Black (USA)
 Shawna Lynn
 She Wrote
-Sheriffs: El Dorado County
 ShopLC
 Shout! Movies
 Shout! TV
@@ -2477,7 +2505,6 @@ Showtime Eastern Feed HD
 Showtime Eastern Feed SD
 Sienna Grace
 Silent Witness and New Tricks
-Silent Witness|New Tricks
 Sin Tetas No Hay Paraíso
 Sinatra & Luna
 Sinatra Monroe
@@ -2489,15 +2516,16 @@ SlimAT
 Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
+Smooth Jazz 88.9
 Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
 Smurf TV (UK)
 So Real
+So Yummy
 So... Real
 Soma FM - The Trip
-Sonic TV
 Sonic The Hedgehog
 Sonic The Hedgehog (UK)
 Sonic The Hedgehog (USA)
@@ -2506,7 +2534,6 @@ Sony One Competencias
 Sony One Competencias (USA)
 Sony One Novelas (USA)
 Sony One Shark Tank México
-Soul Storm
 South Park
 South Park En Français
 South Park: Cartman Collection
@@ -2538,7 +2565,6 @@ StarTalk TV
 Starfire
 Stargate
 Starry Sigh
-Startalk TV
 Starz Eastern HD
 Starz Eastern SD
 Stash TV
@@ -2554,7 +2580,6 @@ Strawberry Shortcake (UK)
 Strawberry Shortcake (USA)
 Strawberry Shortcake and Friends
 Streetz
-Strongman Champions
 Strongman Champions League
 Strongman Champions League (UK)
 Strongman Champions Network
@@ -2571,6 +2596,7 @@ Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
 Supernatural Drama
+Surfer
 Survivor
 Survivor (UK)
 Swamp People (USA)
@@ -2607,11 +2633,9 @@ TNT West
 TODAY All Day
 TODAY All Day (USA)
 TOTALLY TURTLES
-TRACE Brazuca
-TRACE Latina
-TRACE Urban
 TUDN
 TV CHOSUN ì‹ê° í—ˆì˜ë§Œì˜ ë°±ë°˜ê¸°í–‰
+TV Direct 13 (Curaçao)
 TV Land
 TV Land Drama
 TV Land Drama (USA)
@@ -2674,7 +2698,6 @@ The Biggest Loser
 The Boat Show
 The Bob Ross Channel
 The Bob Ross Channel (USA)
-The Bold and the Beautiful
 The Breakfast Club on iHeartRadio
 The Carol Burnett Show
 The Celebrity Name Game Channel
@@ -2696,7 +2719,6 @@ The Ellen Channel
 The Emeril Lagasse Channel
 The F.B.I.
 The FBI
-The FBI Files
 The First
 The First (USA)
 The First 48 (USA)
@@ -2738,15 +2760,14 @@ The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
-The Spa
 The Twilight Zone
 The UnXplained with William Shatner (USA)
+The Venture Bros.
 The Void
 The Walking Dead Universe
 The Walking Dead Universe (USA)
 The Walking Dead by AMC
 The Walking Dead en español
-The Wicked Tuna Channel
 The Wicked Tuna Channel (UK)
 The Wild Wild West
 The Wu Tang Collection TV
@@ -2771,7 +2792,6 @@ Today All Day
 Today's Homeowner
 Today's K-Pop
 Todo Novelas Más Pasiones
-Todo Novelas más Pasiones
 Tokusato
 Tommy King
 Toni Camille
@@ -2799,7 +2819,6 @@ Tough Jobs
 Trace UK (UK)
 Trace Urban (UK)
 Trailer Park Boys
-Trailer Park Boys: The SwearNet Show
 Trailers From Hell
 Transformers
 Transformers TV
@@ -2813,7 +2832,6 @@ Trinity Broadcasting Network
 Trixi Brooks
 Trixie
 Trixie Venus
-TruBlu
 TruBlu (USA)
 TruBlu Crime Channel
 True Crime Now (CA)
@@ -2835,7 +2853,6 @@ UEFA Champions League
 USA Network
 USA Network East Feed HD
 USA Network East Feed SD
-USA TODAY
 USA Today
 USA Today (USA)
 Ultimate Builds
@@ -2868,7 +2885,6 @@ VH1 Queens of Reality
 VICE (USA)
 VICE HD
 VICE SD
-VR+
 Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
@@ -2925,7 +2941,6 @@ Walker Texas Ranger
 Wanted: Dead or Alive
 Warner Bros. TV Say Yes to the Dress
 Warner Bros. TV Sweet Escapes
-Watch it SCREAM
 WaterBear (UK)
 Waypoint TV
 Waypoint TV (CA)
@@ -2978,7 +2993,6 @@ Xplore
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY
 Xtreme Outdoor Presented by HISTORY (USA)
-Y2K
 YAAAS! (UK)
 YTN
 Yani Blessed
@@ -2988,6 +3002,7 @@ Yasmina Khan 2
 Yes Network HD
 Yes Network SD
 Yinyleon
+Your Pretty Face is Going to Hell
 Yu-Gi-Oh
 Yu-Gi-Oh (USA)
 Yu-Gi-Oh!
@@ -2999,7 +3014,6 @@ Zen Mami
 Zoey Grey
 Zoey Reyes
 Zoey Uso
-Zona Investigación
 Zona Investigación TV
 Zona TUDN (USA)
 ZooMoo (USA)
@@ -3041,7 +3055,6 @@ wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
-Éxitos del Momento
 ÚN TV
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
@@ -3051,6 +3064,7 @@ yurfavdream
 ë¡œë³´ì¹´í´ë¦¬ TV
 ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
 ë§›ìžˆëŠ” ë…€ì„ë“¤
+ë°”ì˜¤íŒ¨ë°€ë¦¬
 ë¹ ë‹ˆë³´í‹€
 ë¹„ë³´í‹°ë¹„
 ë½€ìš”TV
@@ -3071,11 +3085,9 @@ yurfavdream
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
 ì•¼í•œ ì‚¬ì§„ê´€
-í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
 íˆ¬ë‹ˆë²„ìŠ¤ ëª…íƒì • ì½”ë‚œ (ìžë§‰)
 íˆ¬ë‹ˆë²„ìŠ¤ ì§±êµ¬ëŠ” ëª»ë§ë ¤
-í˜„ëŒ€í™ˆì‡¼í•‘
 í˜„ëŒ€í™ˆì‡¼í•‘+Shop
 í–‰ë³µë°°í‹€
 í• ëª…ìˆ˜
