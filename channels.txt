@@ -35,7 +35,6 @@
 1125 wedo movies
 1127 Sparkle Movies - Light & Love
 1130 Top Movies - Rakuten TV
-1131 Action Movies - Rakuten TV
 1132 Comedy Movies - Rakuten TV
 1136 Drama Movies - Rakuten TV
 1150 Grjngo - Western Movies
@@ -46,7 +45,6 @@
 1205 Sony One | Thriller TV
 1206 Sony One | Comedy TV
 1207 Sony One | FAVES
-121 YTN
 1210 Mr.Bean Live
 1220 Northern Exposure
 1230 Xena Warrior Princess
@@ -55,7 +53,6 @@
 1235 The Bionic Woman
 1238 Ironside
 123GO!
-124 YTN
 1240 More TV Sci-fi
 1245 Dynasty
 1260 Anger Management
@@ -190,7 +187,6 @@
 1862 BABY SHARK TV
 1863 ducktv
 1871 The Wiggles
-1895 TAYO+
 1897 Kongsuni
 1898 TOBOT
 1899 Robocar POLI
@@ -575,7 +571,6 @@
 497 Tortues Ninja TV
 4UV (USA)
 5 Cops
-5 Cops (UK)
 5 Emergency Rescue
 5 Exploring Britain
 5 Exploring Britain (UK)
@@ -851,7 +846,6 @@ Aaliyah Hadid On Ricky's Room
 About K-Content by CJ ENM
 Acapulco Shore
 Action Hollywood Movies
-Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
 Adriana Maya 2
@@ -1146,6 +1140,7 @@ Cece
 Celebrity Name Game
 Chanel Heart
 Chanel Star
+Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
@@ -1272,7 +1267,6 @@ Death Valley Days (USA)
 Debree
 Declassified
 Def Jam (UK)
-Deflect
 Degrassi
 Degrassi (USA)
 Demand Africa
@@ -1313,6 +1307,7 @@ Disney XD USA Eastern Feed SD
 Divorce Court
 Divorce Court (USA)
 Doc Martin
+Docsville
 Documentary+ (CA)
 Documentary+ (USA)
 Dog The Bounty Hunter
@@ -1340,6 +1335,7 @@ DraftKings Network
 DraftKings Network (USA)
 Drama Life (USA)
 Drama Movies - Rakuten TV (UK)
+Dream Corp LLC
 Driply
 Drone TV
 Drool
@@ -1357,7 +1353,6 @@ E! Entertainment USA Eastern Feed SD
 E! Keeping Up
 EBS English [Not 24/7]
 EBS Kids [Not 24/7]
-EEL TV
 ET
 ET (USA)
 Earth Touch (UK)
@@ -1369,9 +1364,9 @@ Ebony
 Ebony TV Drama
 Ebony TV by Lionsgate
 Ebony TV by Lionsgate (USA)
+Eddie's Wonderland
 El Encantador de Perros
 El Reino Infantil
-El Rey Rebel
 Electric Now
 Electric Now en Espanol
 ElectricNOW
@@ -1445,6 +1440,7 @@ Festivals and Studio Sessions 🎧🎶
 Fifth Gear
 Fifth Gear (UK)
 Fight Network
+Fireplace 4K
 Fireplace Vibes (UK)
 Fireplace Vibes (USA)
 First 48
@@ -1474,6 +1470,7 @@ FrightFlix
 Full Custom Garage
 Funny AF
 Funsized Megan & Zoey Uso
+GUSTOTV
 Galanes (USA)
 Game & Fish TV (USA)
 Game Show Central
@@ -1512,6 +1509,7 @@ Girlfriends
 Giuliana Cabrazia
 Glewed TV
 Go Go Gadget!
+Go Wild
 GoTraveler
 GoUSA TV (UK)
 Golazo Network
@@ -1593,7 +1591,6 @@ Hells Kitchen
 HerSphere by Lionsgate
 Hersphere
 Hey Arnold!
-Hi-YAH!
 Hi-Yah!
 Highway Thru Hell
 Highway Thru Hell : Powered by Banijay (UK)
@@ -1609,8 +1606,10 @@ History & Warfare Now (USA)
 History 365 (USA)
 History Channel US Eastern Feed HD
 History Channel US Eastern Feed SD
+History Hit
 History Hit (UK)
 History Hunters (UK)
+Hit List
 Hit Sitcoms
 Hits Radio - Rap Hip Hop
 Hoarders (UK)
@@ -1645,12 +1644,14 @@ Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
+Hot Country
 Hot Ones
 Hot Ones (UK)
 Hot Ones (USA)
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
 How To
+Humor Mill
 Hungry
 Hungry (USA)
 Hunter
@@ -1678,6 +1679,7 @@ Ice Pilots NWT
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
+Ideas En 5 Minutos
 Imagen TV+
 Impact Gospel
 In Depth with Graham Bensinger
@@ -1734,6 +1736,7 @@ Jack Hanna (UK)
 Jada Stevens
 Jada Stevens 2
 Jada Stevens 3
+Jade Fever
 Jadeteen
 Jamie Kennedy Comedy
 Jamie Oliver
@@ -1777,8 +1780,11 @@ K-POP by CJ ENM (USA)
 K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
+KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
+KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
 KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
+KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
@@ -1835,6 +1841,7 @@ LOL Network
 LOL! Network (USA)
 LUCHA PLUS
 La Familia del Barrio
+La Fiebre del Jade
 La Selección
 LaMúsica TV
 Laff More
@@ -1933,7 +1940,6 @@ MF
 MFF
 MGM Presents
 MHz Mysteries (USA)
-MHz Now
 MHz Now (CA)
 MLB
 MLB Channel (CA)
@@ -1947,6 +1953,8 @@ MST3K
 MVStv
 MacGyver
 Maddison Black
+Made In Hollywood
+Made It Myself TV
 MagellanTV Wildest
 MagellanTV Wildest (USA)
 Majic 94.5
@@ -1972,6 +1980,7 @@ Medical Detectives
 Melztube
 Metalocalypse
 Mexicuban & Greedy Grove
+Mi Casa
 Mi Coche Clásico
 Midnight Pulp (CA)
 Midnight Pulp (USA)
@@ -1984,6 +1993,7 @@ Milenio Televisión
 Military Heroes (USA)
 Milli
 Milli Da Don
+Million Dollar Dream Home
 Million Dollar Dream Home (USA)
 Million Dollar Listing Vault
 Mini Loona
@@ -2020,7 +2030,6 @@ More U
 MoreMax Eastern HD
 MoreMax Eastern SD
 Most Haunted
-MotoGP Channel
 Motor Trend HD HD
 Motor Trend HD SD
 MotorRacing (UK)
@@ -2074,10 +2083,8 @@ NASCAR Channel
 NASCAR Channel (USA)
 NCIS
 NCIS: Los Angeles
-NESN NATION
 NESN Nation
 NESN Nation (USA)
-NEW K.MOVIES
 NEW KFOOD
 NEW KMOVIES (USA)
 NEW KPOP (USA)
@@ -2109,6 +2116,7 @@ National Geographic US Eastern SD
 National Geographic Wild HD
 National Geographic Wild SD
 National Lampoon (USA)
+Naturaleza
 Naturaleza Salvaje
 Nature Moments
 NatureTime
@@ -2147,7 +2155,6 @@ Ninja Warrior (UK)
 Niykee
 Niykee Cruz
 No Reservations
-Nolly Africa HD
 Nollywood
 Non-Stop
 Non-Stop '90s
@@ -2158,9 +2165,11 @@ Noovo Ã‡a câ€™est drÃ´le (CA)
 Nosey
 Nosey (CA)
 Nosey (USA)
+Nosey Escándalos
 Nothin' But 90s
 Novacane
 Novelas Turcas (USA)
+Novelisima
 Novelísima
 Now 70's (UK)
 Now 70s
@@ -2242,6 +2251,7 @@ POP (UK)
 POWERNATION
 POWERNATION (USA)
 POWERNATION en Español
+Pac-12 Insider
 Pac-12 Insider (USA)
 Pam Grier's Soul Flix
 Paramount Movie Channel
@@ -2254,12 +2264,13 @@ Paternity Court
 Pawn Stars (USA)
 Paws & Claws
 Payton Preslee & Ellie Nova
+PeliMex
 People Are Awesome
 People Are Awesome (CA)
+People are Awesome
 Peppa Pig
 Pequenos Gigantes (USA)
 Perform (USA)
-Perform by Lifetime
 Perry Mason
 Pet Collective
 Pickers & Pawn
@@ -2273,7 +2284,6 @@ Pitufo TV
 Places & Spaces
 Plated (USA)
 Plato del Dia by elGourmet
-Plex24
 Pocket.watch Game-On
 Pocoyo (UK)
 Pointless UK: 'Powered by Banijay' (UK)
@@ -2293,8 +2303,6 @@ Power 92
 Power Rangers
 PowerNation
 Prettii Paiid
-Prime Suspect
-Primetime Soaps
 Princess Emily
 Princess Emily & Jada Stevens
 Princess Emily 2
@@ -2325,8 +2333,6 @@ Queen Rogue & Twerking Elle
 Qwest TV
 RACER Select
 RACER Select (USA)
-RCM
-RCN Más
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RIG TV (USA)
@@ -2353,7 +2359,6 @@ Real Disaster Channel
 Real Housewives Vault
 Real Madrid
 Real Madrid TV
-Real Wild
 Real Wild (UK)
 Reality - Rakuten TV (UK)
 Rebelde (USA)
@@ -2364,7 +2369,6 @@ ReelzChannel HD
 ReelzChannel SD
 Regina Luv
 Relic Hunter
-Remember the ‘80s
 Remezcla TV
 Reno Duo
 Reno Rehab
@@ -2377,7 +2381,6 @@ Rev and Roll (USA)
 Revolt Mixtape
 Revry
 Revry (USA)
-Revry Latinx
 Reyna
 Rick and Morty
 RiffTrax
@@ -2394,6 +2397,7 @@ Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
 Rock Channel
 Romance 365
+Romance Movies - Rakuten TV (UK)
 Rookie Blue
 Rookie Blue: Policías Novatos
 Rovr Pets (USA)
@@ -2436,6 +2440,7 @@ SGF
 SGF 2
 SGF 3
 SGF 4
+SKWAD
 SPARK TV
 SPEEDVISION
 SSLala
@@ -2466,7 +2471,6 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
-Sci-Fi - Rakuten TV (UK)
 Science HD
 Science SD
 Scorpihoe
@@ -2637,6 +2641,7 @@ TVOAI Channel
 TVSN
 TVì¡°ì„  ë¯¸ìŠ¤í„°ë¡œë˜
 TVì¡°ì„  ìƒì¡´ì™•
+TVì¡°ì„  ì‚¬ëž‘ì˜ ì½œì„¼íƒ€
 TVì¡°ì„  ì•„ë¹ í•˜ê³  ë‚˜í•˜ê³
 TX
 TYT Network (USA)
@@ -2789,7 +2794,6 @@ Top Barça
 Top Gear
 Top Gear (USA)
 Top Movies - Rakuten TV (UK)
-Torque
 Torque (USA)
 Tortues Ninja TV
 Tosh.0
@@ -2893,7 +2897,6 @@ WAND Decatur IL
 WAOW Wausau WI
 WAPA+
 WAPA+ (USA)
-WDRB Louisville KY
 WE (Women's Entertainment) Eastern HD
 WE (Women's Entertainment) Eastern SD
 WE 102.9
@@ -2977,6 +2980,7 @@ Xtreme Outdoor Presented by HISTORY
 Xtreme Outdoor Presented by HISTORY (USA)
 Y2K
 YAAAS! (UK)
+YTN
 Yani Blessed
 Yasmina Khan
 Yasmina Khan & Audrey Reid
@@ -3042,6 +3046,7 @@ yurfavdream
 ê³ ë…í•œ ë¯¸ì‹ê°€
 êµ¬í•„ìˆ˜ëŠ” ì—†ë‹¤
 ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
+ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
 ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
 ë§›ìžˆëŠ” ë…€ì„ë“¤
@@ -3051,11 +3056,15 @@ yurfavdream
 ë½€ìš”TV
 ë‚˜ë¯¸ë¸Œ
 ë‚˜ëŠ” ì†”ë¡œ
+ë‚˜ì˜ í•´ë¦¬ì—ê²Œ
 ì „ìš°ì¹˜
 ì±„ë„A ë‚˜ë§Œ ë¯¿ê³  ë”°ë¼ì™€ ë„ì‹œì–´ë¶€
 ì±„ë„A ì´ì œ ë§Œë‚˜ëŸ¬ ê°‘ë‹ˆë‹¤
 ì´ˆë¡ë±€ë¯¸ë””ì–´ K-STAR ê³¨í”„
+ì½”ë‚œ ì˜¤ë¸Œë¼ì´ì–¸ ì‡¼
+ì½”ì½”ë¹„TV
 ìœ ì–´ ì•„ë„ˆ
+ìŠ¤í¬ë¦°ê³¨í”„ì¡´
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
@@ -3065,6 +3074,7 @@ yurfavdream
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
+íˆ¬ë‹ˆë²„ìŠ¤ ëª…íƒì • ì½”ë‚œ (ìžë§‰)
 íˆ¬ë‹ˆë²„ìŠ¤ ì§±êµ¬ëŠ” ëª»ë§ë ¤
 í˜„ëŒ€í™ˆì‡¼í•‘
 í˜„ëŒ€í™ˆì‡¼í•‘+Shop
