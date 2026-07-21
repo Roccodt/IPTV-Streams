@@ -32,7 +32,6 @@
 112 Milenio Televisión
 1120 Great Movies
 1123 Great Romance
-1125 wedo movies
 1127 Sparkle Movies - Light & Love
 1130 Top Movies - Rakuten TV
 1131 Action Movies - Rakuten TV
@@ -164,7 +163,6 @@
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
-1632 MMA TV
 1635 Strongman Champions League
 1639 Horse & Country
 1640 Unbeaten
@@ -372,7 +370,6 @@
 306 Action Hollywood Movies
 306 Minuto Para Ganar
 306 MyTime Movie Network
-306 The Price is Right: Bob Barker Era
 306 Torque
 307 Power Nation
 307 Sparkle Movies - Light & Love
@@ -422,7 +419,6 @@
 338 Ink Master
 339 Nosey
 339 Project Runway
-339 Real Wild
 340 American Ninja Warrior
 340 Robot Wars by Mech+
 341 FailArmy
@@ -476,7 +472,6 @@
 389 Dateline 24/7
 389 TIME
 390 48 Hours
-390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -511,7 +506,6 @@
 440 Robocar POLI
 441 Cocobi
 442 Baby Einstein
-443 123 GO!
 443 NHL
 445 Masha y el Oso
 450 NatureVision
@@ -622,13 +616,11 @@
 60 Minutes
 600 Baby Einstein
 600 essential;
-601 Super Wings
 602 Camino al cielo
 602 TOTALLY TURTLES
 603 Kids TV
 603 Peppa Pig
 604 Super Simple Songs
-605 Super Wings
 606 Baby Einstein
 606 Los archivos del FBI
 607 BABY SHARK TV
@@ -665,7 +657,6 @@
 634 Cinderella and Four Knights
 635 ROMCOM K-Drama
 642 InWonder HD
-648 Wonder
 650 FailArmy
 651 Las Mejores Bromas
 652 My Little Pet
@@ -682,7 +673,6 @@
 703 Bizarre Foods with Andrew Zimmern
 703 Runtime Acción
 704 Adrenalina Pura TV
-704 MMA TV
 705 Pac12
 705 Sweet Escapes
 707 America\'s Test Kitchen
@@ -891,7 +881,6 @@ America's Got Talent (UK)
 America's Next Top Model
 America's Test Kitchen
 America's Test Kitchen (USA)
-AmericaTeve
 American Crimes
 American Crimes (USA)
 American Gladiators
@@ -1084,12 +1073,10 @@ Cece
 Celebrity Name Game
 Chanel Heart
 Chanel Star
-Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
 Cheaters en Español
-Cheddar
 Cheers
 Cheers + Frasier
 Cherry Jay
@@ -1100,7 +1087,6 @@ Chloe Aoky 2
 Choppertown
 Christmas 365
 Cinépolis Channel
-Circle (USA)
 Circle Country
 Circle Country (CA)
 Cirque du Soleil
@@ -1145,11 +1131,11 @@ CraftsyTV
 Crave
 Creator Television
 Crime & Justice
-Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Beat TV
 Crime Scene TV
 Crime Scenes
+Crime ThrillHer (USA)
 Crime Up Close
 Crimen
 Crimes Cults Killers (USA)
@@ -1234,6 +1220,7 @@ Dog the Bounty Hunter
 Dog the Bounty Hunter (CA)
 Dog the Bounty Hunter (USA)
 Dominance FC TV
+Don't Tell The Bride
 Dora TV
 Dove
 Dove Channel (USA)
@@ -1399,12 +1386,12 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
-Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
 Great American Adventures
+Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
 Great! romance (UK)
@@ -1423,7 +1410,6 @@ GustoTV
 H2O TV
 HBCU Go!
 HBO Movies
-HLN
 HMR
 HSN
 HSN 2
@@ -1462,17 +1448,15 @@ Highway Thru Hell
 Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
-Hip-Hop/R&B
 HipHop95
 Historia (USA)
 Historias de Ultratumba
 History & Warfare (CA)
 History & Warfare Now
 History & Warfare Now (USA)
-History Hit
+History 365 (USA)
 History Hit (UK)
 History Hunters (UK)
-Hit List
 Hit Sitcoms
 Hits Radio - Rap Hip Hop
 Hoarders (UK)
@@ -1506,14 +1490,12 @@ Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
-Hot Country
 Hot Ones
 Hot Ones (UK)
 Hot Ones (USA)
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
 How To
-Humor Mill
 Hungry
 Hungry (USA)
 Hunter
@@ -1535,11 +1517,9 @@ ION Plus
 ION Plus (USA)
 ITV Deportes
 Ice Pilots
-Ice Pilots NWT
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
-Ideas En 5 Minutos
 Imagen TV+
 Impact Gospel
 In Depth with Graham Bensinger
@@ -1591,7 +1571,6 @@ Jack Hanna (UK)
 Jada Stevens
 Jada Stevens 2
 Jada Stevens 3
-Jade Fever
 Jadeteen
 Jamie Oliver
 Jamie Oliver (USA)
@@ -1622,6 +1601,7 @@ Juisay 2
 Just For Laughs
 Just For Laughs Gags
 Just for Laughs GAGS
+Just for Laughs GAGS (USA)
 Just for Laughs Gags
 Just for Laughs TV
 K-ASMR
@@ -1630,6 +1610,7 @@ K-POP by CJ ENM (UK)
 K-POP by CJ ENM (USA)
 K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
+KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
@@ -1733,6 +1714,7 @@ Live PD: Presents
 Living with Evil
 Local Now NYC
 Localish
+Localish (USA)
 Lofi Hip-Hop Radio
 Lone Star
 LooLoo Kids (UK)
@@ -1853,7 +1835,6 @@ Most Haunted
 MotorRacing (UK)
 MotorTrend FAST TV
 MotorTrend FAST TV (USA)
-Motorvision
 Motorvision TV
 Mountain Men (USA)
 Movie Favorites By Lifetime
@@ -1910,6 +1891,7 @@ NI Live 2
 NOW 70's
 NOW 90s00s
 NTV
+NY 48 (WWON)
 NYC House Radio
 Naruto
 Naruto (USA)
@@ -1961,6 +1943,7 @@ Novelísima
 Now 70's (UK)
 Now 70s
 Now 80's
+Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -1976,7 +1959,6 @@ OUTtv Proud (USA)
 Obsesión por los Autos
 Ocean Dr
 Ocean Vibes (USA)
-Old West TV
 On The Case
 One Piece
 One Worldwide Radio
@@ -2035,6 +2017,7 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
+Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2104,6 +2087,7 @@ RACER Select
 RACER Select (USA)
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
+RIG TV (USA)
 ROI TV
 RVTV
 Rabbids Invasion (UK)
@@ -2112,6 +2096,7 @@ Radio-Canada INFO (CA)
 Rai Blue
 Rainbow Rangers
 Rainbow Ruby (USA)
+Rainy Day Vibes (USA)
 Raissa Nur
 Raven Thick
 Raven Thick 2
@@ -2175,6 +2160,7 @@ Ryan and Friends
 Ryan and Friends (USA)
 Ryleigh
 SAMSUNG UHD
+SBS
 SBS TV ë™ë¬¼ë†ìž¥
 SBS ê¶ê¸ˆí•œ ì´ì•¼ê¸° Y
 SBS ê·¸ê²ƒì´ ì•Œê³ ì‹¶ë‹¤
@@ -2238,6 +2224,7 @@ Sensical Makers (USA)
 Sensing Murder
 Serenity
 Shades of Black
+Shades of Black (USA)
 Shawna Lynn
 She Wrote
 ShopLC
@@ -2298,11 +2285,11 @@ Star Trek Voyager
 Starfire
 Stargate
 Starry Sigh
-Startalk TV
 Stash TV
 Steffy Moreno & Alexis Doll
 Stella Brooks
 Steph Murves
+Storage Wars: LA (USA)
 Stories by AMC
 Storm Vibes (USA)
 Story Television
@@ -2310,7 +2297,6 @@ Strawberry Shortcake (UK)
 Strawberry Shortcake (USA)
 Strawberry Shortcake and Friends
 Streetz
-Strongman Champions
 Strongman Champions League
 Strongman Champions League (UK)
 Strongman Champions Network
@@ -2327,6 +2313,7 @@ Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
 Supernatural Drama
+Surfer
 Survivor
 Survivor (UK)
 Swamp People (USA)
@@ -2352,9 +2339,6 @@ TNT West
 TODAY All Day
 TODAY All Day (USA)
 TOTALLY TURTLES
-TRACE Brazuca
-TRACE Latina
-TRACE Urban
 TUDN
 TV CHOSUN ì‹ê° í—ˆì˜ë§Œì˜ ë°±ë°˜ê¸°í–‰
 TV Land Drama
@@ -2405,10 +2389,8 @@ The Asylum
 The Asylum (USA)
 The Beverly Hillbillies
 The Biggest Loser
-The Boat Show
 The Bob Ross Channel
 The Bob Ross Channel (USA)
-The Bold and the Beautiful
 The Breakfast Club on iHeartRadio
 The Carol Burnett Show
 The Celebrity Name Game Channel
@@ -2425,7 +2407,6 @@ The Doctors
 The Dog Whisperer with Caesar Millan
 The Ed Sullivan Show
 The Ellen Channel
-The Emeril Lagasse Channel
 The F.B.I.
 The FBI
 The First
@@ -2444,7 +2425,6 @@ The Jamie Oliver Channel (UK)
 The Jim Rome Show (USA)
 The Johnny Carson Show
 The Judge Judy Channel
-The Kids in the Hall
 The LEGO Channel (UK)
 The LEGO Channel (USA)
 The Lone Ranger
@@ -2470,7 +2450,6 @@ The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
-The Spa
 The Twilight Zone
 The UnXplained with William Shatner (USA)
 The Venture Bros.
@@ -2479,7 +2458,6 @@ The Walking Dead Universe
 The Walking Dead Universe (USA)
 The Walking Dead by AMC
 The Walking Dead en español
-The Wicked Tuna Channel
 The Wicked Tuna Channel (UK)
 The Wild Wild West
 The Wu Tang Collection TV
@@ -2496,12 +2474,12 @@ Tim and Eric Awesome Show
 Tiny House Nation
 Tiny House Nation (CA)
 Tiny House Nation (UK)
+Tiny House Nation (USA)
 Tiny POP (UK)
 Tiny Spice
 Tipping Point (UK)
 Today All Day
 Today's Homeowner
-Today's K-Pop
 Todo Novelas Más Pasiones
 Tokusato
 Tommy King
@@ -2526,7 +2504,6 @@ Touched by an Angel
 Tough Jobs
 Trace UK (UK)
 Trace Urban (UK)
-Trailers From Hell
 Transformers
 Transformers TV
 Trapsweety
@@ -2555,7 +2532,6 @@ U&The Past
 U&The Past (UK)
 U-Haul
 UEFA Champions League
-USA TODAY
 USA Today (USA)
 Ultimate Builds
 UnXplained Zone
@@ -2577,6 +2553,7 @@ Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
 Unusual Art
+Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
@@ -2632,7 +2609,6 @@ Walker Texas Ranger
 Wanted: Dead or Alive
 Warner Bros. TV Say Yes to the Dress
 Warner Bros. TV Sweet Escapes
-Watch it SCREAM
 WaterBear (UK)
 Waypoint TV
 Waypoint TV (CA)
@@ -2652,6 +2628,7 @@ Wild 'N Out
 Wild 'N Out (USA)
 Wild Planet (UK)
 Wild West TV
+Wild West TV (USA)
 Wild at Heart
 WildEarth
 WildEarth (USA)
@@ -2665,11 +2642,8 @@ Wipeout Extra
 Wipeout Xtra
 Wipeout Xtra (USA)
 Wipeout Xtra Powered by Banijay (UK)
-WipeoutXtra
 Wired2Fish
 Witness to Justice (USA)
-Women Behind Bars
-Wonder
 World Channel
 World War TV
 World War TV (UK)
@@ -2684,7 +2658,6 @@ Xplore
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY
 Xtreme Outdoor Presented by HISTORY (USA)
-Y2K
 YAAAS! (UK)
 YTN
 Yani Blessed
@@ -2692,6 +2665,7 @@ Yasmina Khan
 Yasmina Khan & Audrey Reid
 Yasmina Khan 2
 Yinyleon
+Your Pretty Face is Going to Hell
 Yu-Gi-Oh
 Yu-Gi-Oh (USA)
 Yu-Gi-Oh!
@@ -2742,7 +2716,6 @@ wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
-Éxitos del Momento
 ÚN TV
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
@@ -2773,6 +2746,7 @@ yurfavdream
 ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
+ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
