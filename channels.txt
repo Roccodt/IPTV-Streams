@@ -32,6 +32,7 @@
 112 Milenio Televisión
 1120 Great Movies
 1123 Great Romance
+1125 wedo movies
 1127 Sparkle Movies - Light & Love
 1130 Top Movies - Rakuten TV
 1131 Action Movies - Rakuten TV
@@ -149,7 +150,6 @@
 157 Local Now
 1570 EarthDay 365
 1574 Get.factual
-1575 Wedo big stories
 1577 Royalworld - Nobility & Dynasties
 1580 World War TV
 1581 History Hunters
@@ -370,6 +370,7 @@
 306 Action Hollywood Movies
 306 Minuto Para Ganar
 306 MyTime Movie Network
+306 The Price is Right: Bob Barker Era
 306 Torque
 307 Power Nation
 307 Sparkle Movies - Light & Love
@@ -419,6 +420,7 @@
 338 Ink Master
 339 Nosey
 339 Project Runway
+339 Real Wild
 340 American Ninja Warrior
 340 Robot Wars by Mech+
 341 FailArmy
@@ -459,7 +461,6 @@
 379 Mi Coche Clásico
 379 Mission Impossible
 380 ION Mystery
-380 Running Man
 381 CSI: NY
 382 American Crimes
 383 First 48
@@ -472,6 +473,7 @@
 389 Dateline 24/7
 389 TIME
 390 48 Hours
+390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -506,6 +508,7 @@
 440 Robocar POLI
 441 Cocobi
 442 Baby Einstein
+443 123 GO!
 443 NHL
 445 Masha y el Oso
 450 NatureVision
@@ -516,7 +519,6 @@
 453 Stadium
 454 WildEarth
 455 Evolution Earth
-455 Overtime
 458 Now90s00s
 459 Now90s00s
 460 essential;
@@ -657,6 +659,7 @@
 634 Cinderella and Four Knights
 635 ROMCOM K-Drama
 642 InWonder HD
+648 Wonder
 650 FailArmy
 651 Las Mejores Bromas
 652 My Little Pet
@@ -812,7 +815,6 @@ Aaliyah Hadid On Ricky's Room
 About K-Content by CJ ENM
 Acapulco Shore
 Action Hollywood Movies
-Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
 Adriana Maya 2
@@ -881,6 +883,7 @@ America's Got Talent (UK)
 America's Next Top Model
 America's Test Kitchen
 America's Test Kitchen (USA)
+AmericaTeve
 American Crimes
 American Crimes (USA)
 American Gladiators
@@ -1073,10 +1076,12 @@ Cece
 Celebrity Name Game
 Chanel Heart
 Chanel Star
+Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
 Cheaters en Español
+Cheddar
 Cheers
 Cheers + Frasier
 Cherry Jay
@@ -1087,6 +1092,7 @@ Chloe Aoky 2
 Choppertown
 Christmas 365
 Cinépolis Channel
+Circle (USA)
 Circle Country
 Circle Country (CA)
 Cirque du Soleil
@@ -1108,7 +1114,6 @@ Comedy Central South Park
 Comedy Central en español
 Comedy Dynamics
 Comedy Dynamics (USA)
-Comedy Movies - Rakuten TV (UK)
 Comet
 Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
@@ -1131,6 +1136,7 @@ CraftsyTV
 Crave
 Creator Television
 Crime & Justice
+Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Beat TV
 Crime Scene TV
@@ -1232,7 +1238,6 @@ DraftKings
 DraftKings Network
 DraftKings Network (USA)
 Drama Life (USA)
-Drama Movies - Rakuten TV (UK)
 Dream Corp LLC
 Driply
 Drone TV
@@ -1244,7 +1249,6 @@ Duck Dynasty (USA)
 Dulce by elGourmet
 Dungeons & Dragons Adventures
 Dynasty
-E Blue
 E! Keeping Up
 EBS English [Not 24/7]
 EBS Kids [Not 24/7]
@@ -1287,7 +1291,6 @@ Estrellas de Acción
 Euro Hits
 Evidence of Evil
 Evolution Earth (CA)
-Evolution Earth (UK)
 Extreme Jobs
 Eì±„ë„ í† ìš”ì¼ì€ ë°¥ì´ ì¢‹ì•„
 FAITHOPE
@@ -1303,7 +1306,6 @@ FailArmy
 FailArmy (CA)
 FailArmy (UK)
 FailArmy (USA)
-Family - Rakuten TV (UK)
 Family Affair Channel
 Family Feud
 Family Feud (UK)
@@ -1346,7 +1348,6 @@ Free Movies Plus
 FrightFlix
 Funny AF
 Funsized Megan & Zoey Uso
-GUSTOTV
 Galanes (USA)
 Game & Fish TV (USA)
 Game Show Central
@@ -1380,7 +1381,6 @@ Girlfriends
 Giuliana Cabrazia
 Glewed TV
 Go Go Gadget!
-Go Wild
 GoTraveler
 GoUSA TV (UK)
 Golazo Network
@@ -1391,15 +1391,12 @@ Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
 Great American Adventures
-Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
 Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
-Grjngo - Películas Del Oeste
-Grjngo - Western Movies
 Grjngo - Western Movies (UK)
 Growing Up Hip Hop WeTV
 Gunsmoke
@@ -1425,7 +1422,6 @@ Hannah Jo
 Happy Days
 HappyKids (CA)
 HappyKids (USA)
-Hard Knocks
 Haunt TV
 Haunt TV (CA)
 Haunt TV (USA)
@@ -1608,7 +1604,6 @@ K-ASMR
 K-POP by CJ ENM (CA)
 K-POP by CJ ENM (UK)
 K-POP by CJ ENM (USA)
-K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
@@ -1735,7 +1730,6 @@ Love Nature Spanish
 Love Pets (UK)
 Love Pets (USA)
 Love The Planet
-Love the Planet (UK)
 Lucha Plus
 Luciana
 Lucky Dog (USA)
@@ -1891,7 +1885,6 @@ NI Live 2
 NOW 70's
 NOW 90s00s
 NTV
-NY 48 (WWON)
 NYC House Radio
 Naruto
 Naruto (USA)
@@ -2109,7 +2102,6 @@ Real Housewives Vault
 Real Madrid
 Real Madrid TV
 Real Wild (UK)
-Reality - Rakuten TV (UK)
 Rebelde (USA)
 Red Bull TV
 Red Bull TV (UK)
@@ -2141,7 +2133,6 @@ Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
 Rock Channel
 Romance 365
-Romance Movies - Rakuten TV (UK)
 Rookie Blue
 Rookie Blue: Policías Novatos
 Rovr Pets (USA)
@@ -2160,7 +2151,6 @@ Ryan and Friends
 Ryan and Friends (USA)
 Ryleigh
 SAMSUNG UHD
-SBS
 SBS TV ë™ë¬¼ë†ìž¥
 SBS ê¶ê¸ˆí•œ ì´ì•¼ê¸° Y
 SBS ê·¸ê²ƒì´ ì•Œê³ ì‹¶ë‹¤
@@ -2211,7 +2201,6 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
-Sci-Fi - Rakuten TV (UK)
 Scorpihoe
 Scorpion
 Scream Factory TV
@@ -2553,7 +2542,6 @@ Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
 Unusual Art
-Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
@@ -2644,9 +2632,9 @@ Wipeout Xtra (USA)
 Wipeout Xtra Powered by Banijay (UK)
 Wired2Fish
 Witness to Justice (USA)
+Wonder
 World Channel
 World War TV
-World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
 X Games TV
@@ -2658,6 +2646,7 @@ Xplore
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY
 Xtreme Outdoor Presented by HISTORY (USA)
+Y2K
 YAAAS! (UK)
 YTN
 Yani Blessed
@@ -2678,6 +2667,7 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
+Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
@@ -2716,6 +2706,7 @@ wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
+Éxitos del Momento
 ÚN TV
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
