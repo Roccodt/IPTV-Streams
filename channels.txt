@@ -1,10 +1,10 @@
 00s Replay
-100 Hip Hop and RNB FM
 100 Majordomo TV with David Chang
 100.3 HD 2 RB and Hip Hop
 1000 LG 1
 1001 LG 1: Film
 1002 LG 1: Spotlight
+100Hitz - Hip Hop
 101 Duck Dynasty
 102 JAMZ
 102 Law & Order
@@ -22,6 +22,7 @@
 108 The Walking Dead Universe
 110 Matthew Berry’s Fantasy Life
 110 adn40
+1105 Sony One | Action HITS
 1106 Sony One | Comedy HITS
 111 FIA
 111 Majordomo TV with David Chang
@@ -90,7 +91,6 @@
 1431 Great British Menu
 1433 The Real Housewives
 1434 LITTLE WOMEN: LA
-1436 The Biggest Loser
 1438 Million Dollar Listing
 1439 Hoarders
 144 CANAL 6 Monterrey
@@ -122,6 +122,7 @@
 1471 Haunt TV
 1472 Most Haunted
 1473 A Haunting
+150 K-ASMR
 151 CBC Toronto
 1510 Autentic Travel
 1511 Travelxp
@@ -148,7 +149,6 @@
 157 Local Now
 1570 EarthDay 365
 1574 Get.factual
-1575 Wedo big stories
 1577 Royalworld - Nobility & Dynasties
 1580 World War TV
 1581 History Hunters
@@ -158,6 +158,7 @@
 1586 PBS Science
 1587 AIR & SPACE
 1591 Modern Marvels
+1618 Red Bull TV
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
@@ -177,7 +178,6 @@
 1825 Rev and Roll
 1845 Arthur
 1859 Pop UP
-1860 POP
 1861 Tiny POP
 1862 BABY SHARK TV
 1863 ducktv
@@ -187,7 +187,6 @@
 1898 TOBOT
 1899 Robocar POLI
 1920 Qwest TV
-1925 TRACE URBAN
 1930 @K-MUSIC
 1931 SBS Inkigayo
 1932 YG TV
@@ -285,6 +284,7 @@
 249 @K-MUSIC
 25 Words or Less
 250 Amasian TV
+251 NEW KPOP
 251 TravelON
 252 FoodON
 252 Screambox TV
@@ -442,6 +442,7 @@
 368 Tastemade en Español
 370 Boys Over Flowers
 371 MOTORVISION.TV
+371 My Sassy Girl
 372 Las Vegas
 372 PBS Digital Studios
 372 The Heirs
@@ -457,7 +458,6 @@
 379 Mi Coche Clásico
 379 Mission Impossible
 380 ION Mystery
-380 Running Man
 381 CSI: NY
 382 American Crimes
 383 First 48
@@ -470,7 +470,6 @@
 389 Dateline 24/7
 389 TIME
 390 48 Hours
-390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -546,7 +545,6 @@
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
-493 Game On
 493 Noovo Ça c’est drôle
 493 Real Wild
 494 earthtouch
@@ -598,6 +596,7 @@
 524 Comedy Plus
 525 Mr.Bean
 536 NEW KFOOD
+561 YG TV
 562 NEW KPOP
 566 Qwest TV
 574 @K-MUSIC
@@ -648,6 +647,8 @@
 629 Hwarang: La Juventud del Guerrero Poeta
 630 BRAT TV
 630 La luz en tus ojos
+631 My Secret Romance
+632 While You Were Sleeping
 633 Boys Over Flowers
 634 Cinderella and Four Knights
 635 ROMCOM K-Drama
@@ -746,7 +747,6 @@
 837 Love Nature En Espanol
 838 AMC en Español
 839 CSI en Español
-839 Hells Kitchen
 840 Comedy Central en español
 840 Deal or No Deal
 841 Tastemade en Espanol
@@ -774,7 +774,6 @@
 901 TikTok Radio
 90s Kids TV 2
 90s Throwback
-92.7 FM Jam Central
 92.9 WDUP
 93.7 The Beat Houston
 94.1 The Beat
@@ -1066,7 +1065,6 @@ Cazador de Homicidas
 Cece
 Chanel Heart
 Chanel Star
-Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
@@ -1106,7 +1104,6 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
-Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Concert Channel
@@ -1228,7 +1225,6 @@ DraftKings
 DraftKings Network
 DraftKings Network (USA)
 Drama Life (USA)
-Drama Movies - Rakuten TV (UK)
 Dream Corp LLC
 Driply
 Drone TV
@@ -1385,6 +1381,7 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
+Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
@@ -1393,7 +1390,6 @@ Great American Adventures
 Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
-Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
@@ -1406,10 +1402,8 @@ Gusto TV
 Gusto TV (CA)
 Gusto TV (USA)
 GustoTV
-H2O TV
 HBCU Go!
 HBO Movies
-HLN
 HMR
 HSN
 HSN 2
@@ -1448,7 +1442,6 @@ Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
-HipHop95
 Historia (USA)
 Historias de Ultratumba
 History & Warfare (CA)
@@ -1488,7 +1481,6 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
-Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
@@ -1567,6 +1559,7 @@ JTBC ëƒ‰ìž¥ê³ ë¥¼ ë¶€íƒí•´
 JTBC ëƒ‰ìž¥ê³ ë¥¼ ë¶€íƒí•´ 2
 JTBC ë‰´ìŠ¤
 JTBC ì´í˜¼ìˆ™ë ¤ìº í”„
+JTBC ìµœê°•ì•¼êµ¬
 JTBC ìº í•‘í´ëŸ½
 JTBC ìž¬ë²Œì§‘ ë§‰ë‚´ì•„ë“¤
 JTBC í¬ë¼ìž„ì”¬3
@@ -1587,7 +1580,6 @@ Jayla Page
 Jaymee Green
 Jazz
 Jazz 2
-Jazz 88.3
 JazzTheStallion
 JazzTheStallion 2
 Jenni Angel
@@ -1622,7 +1614,9 @@ KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
+KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
 KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
+KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
@@ -1633,7 +1627,6 @@ KWWL Waterloo IA
 KXLY Spokane Washington
 KYTX CBS 19 Tyler TX
 KZBT-FM
-KZWA 104.9 FM
 Kaden Kole
 Kakey
 Kali Roses & Jenna Starr
@@ -1729,9 +1722,7 @@ LooLoo Kids (UK)
 Los Asesinatos de Midsomer
 Los Padrinos Mágicos
 Los archivos del FBI
-Loud 101.5
 Loud 103.3
-Loud 98.5
 Loupe 4K (USA)
 Love & Hip Hop
 Love & Hip Hop (USA)
@@ -1759,6 +1750,7 @@ Lunar Liv
 Luxe Fireplace Vibes (USA)
 M2
 MBN
+MBN ë‚˜ëŠ” ìžì—°ì¸ì´ë‹¤
 MBN ì†í’€ì´ì‡¼ ë™ì¹˜ë¯¸
 MBN íœ´ë¨¼ë‹¤í ì‚¬ë…¸ë¼ë©´
 MF
@@ -1884,7 +1876,6 @@ Mysteria
 Mysteries Xplored (USA)
 Mysterious Worlds
 Mystery TV
-Mystery TV (UK)
 MythBusters
 Mythbusters
 Mythbusters (UK)
@@ -2038,6 +2029,7 @@ POWERNATION (USA)
 POWERNATION en Español
 Pac-12 Insider
 Pac-12 Insider (USA)
+Pam Grier's Soul Flix
 Paramount Movie Channel
 Paramount Movie Channel (USA)
 Paramount+ Picks
@@ -2062,7 +2054,6 @@ PickleballTV
 PickleballTV (USA)
 Pink Kitty
 Pink Kitty 2
-Pink Panther
 Pitufo TV
 Places & Spaces
 Plated (USA)
@@ -2173,12 +2164,10 @@ RigTV
 Rissa May
 Rita Bang
 River Monsters
-River Monsters (UK)
 Road Renegades (USA)
 Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
 Romance 365
-Romance Movies - Rakuten TV (UK)
 Rookie Blue
 Rookie Blue: Policías Novatos
 Rovr Pets (USA)
@@ -2188,6 +2177,7 @@ Rue Lynn
 Rugrats
 Runtime
 Runtime Español
+Runtime Sangre Fría
 Rustic Retreats
 Ruth Lee
 Ryan Conner
@@ -2205,7 +2195,6 @@ SBS ë¶ˆíƒ€ëŠ” ì²­ì¶˜
 SBS ëŸ°ë‹ë§¨
 SBS ë‚´ ë‚¨ìžì˜ ì—¬ìž
 SBS ì •ê¸€ì˜ ë²•ì¹™
-SBS ìƒí™œì˜ ë‹¬ì¸
 SBS ìˆœê°„í¬ì°© ì„¸ìƒì— ì´ëŸ°ì¼ì´
 SBS ìˆœí’ì‚°ë¶€ì¸ê³¼
 SBS ì˜¬ì¸
@@ -2247,7 +2236,6 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
-Sci-Fi - Rakuten TV (UK)
 Scorpihoe
 Scorpion
 Scream Factory TV
@@ -2283,7 +2271,6 @@ SlimAT
 Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
-Smooth Jazz 88.9
 Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
@@ -2353,7 +2340,6 @@ SupaSoaka 2
 Super Channel Hearties
 Super Mario Brothers
 Super Simple Songs
-SuperToons TV (UK)
 Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
@@ -2399,6 +2385,7 @@ TV One Stars & Stories
 TVOAI Channel
 TVSN
 TVì¡°ì„  ë¯¸ìŠ¤í„°ë¡œë˜
+TVì¡°ì„  ìƒì¡´ì™•
 TVì¡°ì„  ì‚¬ëž‘ì˜ ì½œì„¼íƒ€
 TVì¡°ì„  ì•„ë¹ í•˜ê³  ë‚˜í•˜ê³
 TX
@@ -2468,7 +2455,6 @@ The Graham Norton Show (UK)
 The Hill (USA)
 The Hill TV
 The Hotel Inspector
-The Hotel Inspector (UK)
 The Jack Hanna Channel
 The Jack Hanna Channel (USA)
 The Jamie Oliver Channel
@@ -2524,6 +2510,7 @@ Thrillers 365
 Tiffany & HMR
 TikTok Radio
 TikTok Radio en Español
+Tim and Eric Awesome Show
 Tiny House Nation
 Tiny House Nation (CA)
 Tiny House Nation (UK)
@@ -2549,7 +2536,6 @@ Toonami Aftermath West
 Top Barça
 Top Gear
 Top Gear (USA)
-Top Movies - Rakuten TV (UK)
 Torque (USA)
 Tortues Ninja TV
 Tosh.0
@@ -2571,7 +2557,6 @@ Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
-TruBlu Crime Channel
 True Crime Now (CA)
 True Crime UK
 True Crime UK (UK)
@@ -2696,7 +2681,6 @@ Willow Ryder & Kira Perez
 Willow Ryder & Luna Star
 Willow Ryder & Zerella Skies
 Wipe Out
-Wipeout Extra
 Wipeout Xtra
 Wipeout Xtra (USA)
 Wipeout Xtra Powered by Banijay (UK)
@@ -2775,7 +2759,6 @@ thelatina
 thelatina 2
 themanseater
 victorialilyx
-wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
@@ -2787,6 +2770,7 @@ yurfavdream
 ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
+ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
 ë§›ìžˆëŠ” ë…€ì„ë“¤
 ë°”ì˜¤íŒ¨ë°€ë¦¬
 ë¹ ë‹ˆë³´í‹€
@@ -2794,6 +2778,7 @@ yurfavdream
 ë½€ìš”TV
 ë‚˜ë¯¸ë¸Œ
 ë‚˜ëŠ” ì†”ë¡œ
+ë‚˜ì˜ í•´ë¦¬ì—ê²Œ
 ì „ìš°ì¹˜
 ì±„ë„A ë‚˜ë§Œ ë¯¿ê³  ë”°ë¼ì™€ ë„ì‹œì–´ë¶€
 ì±„ë„A ì´ì œ ë§Œë‚˜ëŸ¬ ê°‘ë‹ˆë‹¤
@@ -2804,9 +2789,10 @@ yurfavdream
 ìŠ¤í¬ë¦°ê³¨í”„ì¡´
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
+ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
+ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
-ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
