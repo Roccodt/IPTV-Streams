@@ -1,10 +1,10 @@
 00s Replay
+100 Hip Hop and RNB FM
 100 Majordomo TV with David Chang
 100.3 HD 2 RB and Hip Hop
 1000 LG 1
 1001 LG 1: Film
 1002 LG 1: Spotlight
-100Hitz - Hip Hop
 101 Duck Dynasty
 102 JAMZ
 102 Law & Order
@@ -91,6 +91,7 @@
 1431 Great British Menu
 1433 The Real Housewives
 1434 LITTLE WOMEN: LA
+1436 The Biggest Loser
 1438 Million Dollar Listing
 1439 Hoarders
 144 CANAL 6 Monterrey
@@ -149,6 +150,7 @@
 157 Local Now
 1570 EarthDay 365
 1574 Get.factual
+1575 Wedo big stories
 1577 Royalworld - Nobility & Dynasties
 1580 World War TV
 1581 History Hunters
@@ -162,6 +164,7 @@
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
+1632 MMA TV
 1635 Strongman Champions League
 1639 Horse & Country
 1640 Unbeaten
@@ -178,6 +181,7 @@
 1825 Rev and Roll
 1845 Arthur
 1859 Pop UP
+1860 POP
 1861 Tiny POP
 1862 BABY SHARK TV
 1863 ducktv
@@ -187,6 +191,7 @@
 1898 TOBOT
 1899 Robocar POLI
 1920 Qwest TV
+1925 TRACE URBAN
 1930 @K-MUSIC
 1931 SBS Inkigayo
 1932 YG TV
@@ -458,6 +463,7 @@
 379 Mi Coche Clásico
 379 Mission Impossible
 380 ION Mystery
+380 Running Man
 381 CSI: NY
 382 American Crimes
 383 First 48
@@ -470,6 +476,7 @@
 389 Dateline 24/7
 389 TIME
 390 48 Hours
+390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -522,7 +529,6 @@
 465 FanDuel TV Extra
 465 Power Nation
 466 The Bob Ross Channel
-469 NESN Nation
 471 DAZN Ringside
 475 Tiny House Nation
 476 Flipping Nation
@@ -659,7 +665,6 @@
 652 My Little Pet
 653 We Play
 654 This Is Happening
-655 The Pet Collective
 670 Real Crime
 671 Crime 360
 699 DAZN TV
@@ -747,6 +752,7 @@
 837 Love Nature En Espanol
 838 AMC en Español
 839 CSI en Español
+839 Hells Kitchen
 840 Comedy Central en español
 840 Deal or No Deal
 841 Tastemade en Espanol
@@ -774,6 +780,7 @@
 901 TikTok Radio
 90s Kids TV 2
 90s Throwback
+92.7 FM Jam Central
 92.9 WDUP
 93.7 The Beat Houston
 94.1 The Beat
@@ -815,7 +822,6 @@ Adult Swim Infomercials
 Adult Swim Last Stream On The Left
 Adult Swim Loiter Squad
 Adult Swim Off The Air
-Adult Swim Robot Chicken
 Adult Swim Samurai Jack
 Adult Swim The Eric Andre Show
 AdultIPTV.net Anal
@@ -881,7 +887,6 @@ American Gladiators
 American Idol (UK)
 American Ninja Warrior
 American Pickers
-American Pickers (CA)
 American Pickers by History (USA)
 Anais Amore
 Anais Amore 2
@@ -925,7 +930,6 @@ Ashanti
 Asian Drama
 AsianCrush
 Assyrian
-At Home With Family Handyman
 At Home with Family Handyman
 At Home with Family Handyman (USA)
 At the Movies
@@ -998,7 +1002,6 @@ Bloodline Detectives Hosted by Nancy Grace
 Blue Bloods
 Bob Esponja Pantalones Cuadrados
 Bob l'éponge
-Bon Appetit
 Bon AppÃ©tit (CA)
 Bon AppÃ©tit (USA)
 Bondi Rescue
@@ -1065,6 +1068,7 @@ Cazador de Homicidas
 Cece
 Chanel Heart
 Chanel Star
+Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
@@ -1092,7 +1096,6 @@ Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
-Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Come Dine with Me
@@ -1104,6 +1107,7 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
+Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Concert Channel
@@ -1124,6 +1128,7 @@ CraftsyTV
 Crave
 Creator Television
 Crime & Justice
+Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Beat TV
 Crime Scene TV
@@ -1381,7 +1386,6 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
-Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
@@ -1390,6 +1394,7 @@ Great American Adventures
 Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
+Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
@@ -1402,6 +1407,7 @@ Gusto TV
 Gusto TV (CA)
 Gusto TV (USA)
 GustoTV
+H2O TV
 HBCU Go!
 HBO Movies
 HMR
@@ -1442,6 +1448,7 @@ Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
+HipHop95
 Historia (USA)
 Historias de Ultratumba
 History & Warfare (CA)
@@ -1481,6 +1488,7 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
+Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
@@ -1580,6 +1588,7 @@ Jayla Page
 Jaymee Green
 Jazz
 Jazz 2
+Jazz 88.3
 JazzTheStallion
 JazzTheStallion 2
 Jenni Angel
@@ -1627,6 +1636,7 @@ KWWL Waterloo IA
 KXLY Spokane Washington
 KYTX CBS 19 Tyler TX
 KZBT-FM
+KZWA 104.9 FM
 Kaden Kole
 Kakey
 Kali Roses & Jenna Starr
@@ -1681,7 +1691,6 @@ Law & Crime
 Law & Crime (USA)
 Law & Order
 Law&Crime
-Law&Crime (CA)
 Lawless by Lionsgate
 Leahndra
 Leave It to Beaver
@@ -1694,7 +1703,6 @@ Let's Make a deal
 LexLaFlame
 Lidia's Kitchen
 Life & Legend of Wyatt Earp
-Life with Derek
 Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies Love & Drama (USA)
@@ -1722,7 +1730,9 @@ LooLoo Kids (UK)
 Los Asesinatos de Midsomer
 Los Padrinos Mágicos
 Los archivos del FBI
+Loud 101.5
 Loud 103.3
+Loud 98.5
 Loupe 4K (USA)
 Love & Hip Hop
 Love & Hip Hop (USA)
@@ -1872,10 +1882,10 @@ My Little Pony
 My Time Movie Network
 MyTime Movie Network (UK)
 MyTime Movie Network (USA)
-Mysteria
 Mysteries Xplored (USA)
 Mysterious Worlds
 Mystery TV
+Mystery TV (UK)
 MythBusters
 Mythbusters
 Mythbusters (UK)
@@ -1958,8 +1968,8 @@ Novelas Turcas (USA)
 Novelisima
 Novelísima
 Now 70's (UK)
-Now 70s
 Now 80's
+Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -2036,6 +2046,7 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
+Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2054,6 +2065,7 @@ PickleballTV
 PickleballTV (USA)
 Pink Kitty
 Pink Kitty 2
+Pink Panther
 Pitufo TV
 Places & Spaces
 Plated (USA)
@@ -2136,7 +2148,6 @@ Real Housewives Vault
 Real Madrid
 Real Madrid TV
 Real Wild (UK)
-Reality - Rakuten TV (UK)
 Rebelde (USA)
 Red Bull TV
 Red Bull TV (UK)
@@ -2164,6 +2175,7 @@ RigTV
 Rissa May
 Rita Bang
 River Monsters
+River Monsters (UK)
 Road Renegades (USA)
 Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
@@ -2176,7 +2188,6 @@ Roxie Sinner
 Rue Lynn
 Rugrats
 Runtime
-Runtime Español
 Runtime Sangre Fría
 Rustic Retreats
 Ruth Lee
@@ -2195,6 +2206,7 @@ SBS ë¶ˆíƒ€ëŠ” ì²­ì¶˜
 SBS ëŸ°ë‹ë§¨
 SBS ë‚´ ë‚¨ìžì˜ ì—¬ìž
 SBS ì •ê¸€ì˜ ë²•ì¹™
+SBS ìƒí™œì˜ ë‹¬ì¸
 SBS ìˆœê°„í¬ì°© ì„¸ìƒì— ì´ëŸ°ì¼ì´
 SBS ìˆœí’ì‚°ë¶€ì¸ê³¼
 SBS ì˜¬ì¸
@@ -2236,12 +2248,12 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
+Sci-Fi - Rakuten TV (UK)
 Scorpihoe
 Scorpion
 Scream Factory TV
 Screambox TV
 Selina Slayer
-Sensical Gaming
 Sensical Jr (USA)
 Sensical Jr.
 Sensical Makers (USA)
@@ -2271,6 +2283,7 @@ SlimAT
 Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
+Smooth Jazz 88.9
 Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
@@ -2340,6 +2353,7 @@ SupaSoaka 2
 Super Channel Hearties
 Super Mario Brothers
 Super Simple Songs
+SuperToons TV (UK)
 Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
@@ -2455,6 +2469,7 @@ The Graham Norton Show (UK)
 The Hill (USA)
 The Hill TV
 The Hotel Inspector
+The Hotel Inspector (UK)
 The Jack Hanna Channel
 The Jack Hanna Channel (USA)
 The Jamie Oliver Channel
@@ -2536,6 +2551,7 @@ Toonami Aftermath West
 Top Barça
 Top Gear
 Top Gear (USA)
+Top Movies - Rakuten TV (UK)
 Torque (USA)
 Tortues Ninja TV
 Tosh.0
@@ -2551,12 +2567,12 @@ Transformers TV
 Trapsweety
 Travel + Adventure
 Travel Escapes
-Tribeca Channel
 Trinity Broadcasting Network
 Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
+TruBlu Crime Channel
 True Crime Now (CA)
 True Crime UK
 True Crime UK (UK)
@@ -2681,6 +2697,7 @@ Willow Ryder & Kira Perez
 Willow Ryder & Luna Star
 Willow Ryder & Zerella Skies
 Wipe Out
+Wipeout Extra
 Wipeout Xtra
 Wipeout Xtra (USA)
 Wipeout Xtra Powered by Banijay (UK)
@@ -2724,6 +2741,7 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
+Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
@@ -2759,6 +2777,7 @@ thelatina
 thelatina 2
 themanseater
 victorialilyx
+wedo movies (UK)
 woahaj
 yurfavdream
 Â¿QuÃ© Culpa Tiene FatmagÃ¼l? (USA)
@@ -2793,6 +2812,7 @@ yurfavdream
 ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
+ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
