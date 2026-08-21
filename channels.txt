@@ -15,7 +15,6 @@
 105 50 Cent Action
 105 Super Channel Uncovered
 106 America\'s Got Talent
-106 GoUSA TV
 106 KMEL
 107 Bravo Vault
 108 Amasian TV
@@ -77,7 +76,6 @@
 1331 The Pet Collective
 1332 Love Pets EMEA
 1333 Brat TV
-1334 People Are Awesome
 140 WFN
 1409 So...Real
 1417 True Crime UK
@@ -127,7 +125,6 @@
 151 CBC Toronto
 1510 Autentic Travel
 1511 Travelxp
-1514 GoUSA TV
 1515 Life Down Under
 1520 Gusto TV
 1525 Love Wine
@@ -210,11 +207,9 @@
 202 ION Plus
 202 The Red Green Channel
 203 Are We There Yet
-203 GoUSA TV
 204 CSI
 204 Corner Gas Channel
 205 AWE Plus
-205 Awe plus
 205 Frasier
 205 Unsolved Mysteries
 206 Forensic Files
@@ -472,7 +467,6 @@
 385 Nature Time
 386 Dog The Bounty Hunter
 386 Naturaleza
-388 Curiosity Explora International
 389 Dateline 24/7
 389 TIME
 390 48 Hours
@@ -490,7 +484,6 @@
 404 Food52
 404 The Judge Judy Channel
 405 TMZ
-407 GoUSA TV
 408 America's Test Kitchen
 408 Best of Dr. Phil
 409 Car Chase
@@ -551,6 +544,7 @@
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
+493 Game On
 493 Noovo Ça c’est drôle
 493 Real Wild
 494 earthtouch
@@ -574,7 +568,6 @@
 500 Rakuten Viki
 501 ROMCOM K-Drama
 501 The Pet Collective
-503 According To Jim
 504 Death Note
 505 GET Comedy
 505 Naruto Shippuden
@@ -593,7 +586,6 @@
 511 Saved by the Bell
 514 Slightly Off IFC
 515 The Conners
-516 The Red Green Channel
 517 Johnny Carson TV
 519 The Love Boat
 520 MST3K
@@ -659,7 +651,6 @@
 634 Cinderella and Four Knights
 635 ROMCOM K-Drama
 642 InWonder HD
-648 Wonder
 650 FailArmy
 651 Las Mejores Bromas
 652 My Little Pet
@@ -813,15 +804,14 @@ Aaliyah Hadid
 Aaliyah Hadid On Ricky's Room
 Acapulco Shore
 Action Hollywood Movies
-Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
-Adriana Maya 2
 Adult Swim Daily Animated
 Adult Swim Infomercials
 Adult Swim Last Stream On The Left
 Adult Swim Loiter Squad
 Adult Swim Off The Air
+Adult Swim Robot Chicken
 Adult Swim Samurai Jack
 Adult Swim The Eric Andre Show
 AdultIPTV.net Anal
@@ -883,7 +873,6 @@ America's Test Kitchen
 America's Test Kitchen (USA)
 American Crimes
 American Crimes (USA)
-American Gladiators
 American Idol (UK)
 American Ninja Warrior
 American Pickers
@@ -935,7 +924,6 @@ At Home with Family Handyman (USA)
 At the Movies
 Auction Hunters
 Auhneesh
-Autopista al Cielo
 Autumn Falls
 Avatar
 Avatar: La Leyenda de Aang
@@ -1025,7 +1013,6 @@ BritBox Mysteries (USA)
 Britbox Mysteries
 Brittany Kaye
 Bromas Gags - Just for Laughs
-Buen Viaje
 Busted at the Border
 C4 en Alerta
 CBC Comedy (CA)
@@ -1072,7 +1059,6 @@ Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
-Cheaters en Español
 Cheddar
 Cheers
 Cheers + Frasier
@@ -1089,13 +1075,13 @@ Circle Country
 Circle Country (CA)
 Cirque du Soleil
 Clarity 4K (USA)
-Clic
 Cold Case Files
 Cold Case Files (USA)
 Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
+Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Come Dine with Me
@@ -1117,7 +1103,6 @@ Continuum
 Cook's Country Channel
 Cool Summer Channel (UK)
 Cops (CA)
-Cops en Español
 Corazón
 Corner Gas
 Corner Gas Channel by CTV (CA)
@@ -1128,7 +1113,6 @@ CraftsyTV
 Crave
 Creator Television
 Crime & Justice
-Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Beat TV
 Crime Scene TV
@@ -1260,7 +1244,6 @@ El Encantador de Perros
 El Reino Infantil
 El Rey Rebel
 Electric Now
-Electric Now en Espanol
 ElectricNOW
 ElectricNOW (USA)
 Ellie Nova
@@ -1307,14 +1290,11 @@ Family Feud (UK)
 Family Ties
 Family Ties (USA)
 Family Unscripted
-FanDuel TV Extra
-FanDuel TV Extra (USA)
 Farscape
 FashionTV
 Fear Factor
 Fear Factor (USA)
 Fear Factor USA
-Fear Zone
 Feel Good Drama
 Festivals and Studio Sessions 🎧🎶
 Fifth Gear
@@ -1359,8 +1339,10 @@ Gem Jewels - BangBros
 Gem Jewels Tape
 Gem Jewels x Dredd
 Generation Drama
+Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
+Genie K-Movie (CA)
 Genie K-Movie (UK)
 Genie K-Movie (USA)
 Genie Movie
@@ -1386,6 +1368,7 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
+Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
@@ -1398,7 +1381,6 @@ Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
-Grjngo - Películas Del Oeste
 Grjngo - Western Movies
 Grjngo - Western Movies (UK)
 Growing Up Hip Hop WeTV
@@ -1418,7 +1400,6 @@ HSN West
 HTX
 HTX 2
 HTX 3
-Hagerty
 Hagerty (CA)
 Hagerty (USA)
 Hannah Jo
@@ -1474,7 +1455,6 @@ Homeful (USA)
 Homes Under Hammer
 Homes Under the Hammer (UK)
 Homicide Hunter
-Homicide Hunter (UK)
 Honey
 Honey & Rue Lynn
 Honey 2
@@ -1506,8 +1486,6 @@ Hunter x Hunter
 I Love Lucy
 I Survived (UK)
 I Survivedâ€¦ (USA)
-INFAST (CA)
-INFAST (USA)
 INFOWARS NETWORK FEED: LIVE 247!
 INTRAVEL (UK)
 INWILD (UK)
@@ -1521,7 +1499,6 @@ ION Plus (USA)
 ITV Deportes
 Ice Pilots
 Ice Pilots NWT
-Ice Pilots NWT (en español)
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
@@ -1549,7 +1526,6 @@ Intervention (UK)
 Inuyasha
 Investiga
 Iron Chef
-Iron Chef en español
 Ishues
 Island Vibes (USA)
 It's Showtime at the Apollo
@@ -1584,13 +1560,11 @@ Jadeteen
 Jamie Oliver
 Jamie Oliver (USA)
 Jayda
-Jayla Page
 Jaymee Green
 Jazz
 Jazz 2
 Jazz 88.3
 JazzTheStallion
-JazzTheStallion 2
 Jenni Angel
 Jersey Shore
 Jessie Rogers
@@ -1658,7 +1632,6 @@ Kidoodle.TV (CA)
 Kidoodle.TV (USA)
 King of Queens
 Kira Perez
-Kira Perez 2
 Kira Plug Talk
 Kissa Sins
 Kitchen Battles
@@ -1670,13 +1643,11 @@ Kream Cheeks
 Kream Cheeks 2
 Kush
 LADbible (UK)
-LEGO Channel (CA)
 LEGO Kids TV
 LOL Network
 LOL! Network (USA)
 LUCHA PLUS
 La Familia del Barrio
-La Fiebre del Jade
 La Selección
 LaMúsica TV
 Laff More
@@ -1703,14 +1674,13 @@ Let's Make a deal
 LexLaFlame
 Lidia's Kitchen
 Life & Legend of Wyatt Earp
+Life with Derek
 Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies Love & Drama (USA)
 Like Nastya
 Lillianette & Raven Thick
 Lissa Aires
-Little Angel's Playroom
-Little Angel's Playroom en Español
 Little House on the Prairie
 Little Stars Universe
 Little Women: LA (CA)
@@ -1754,7 +1724,6 @@ Luna 2
 Luna Baby
 Luna Luxe
 Luna Star
-Luna Star & Kali Roses
 Luna Star Reality Kings
 Lunar Liv
 Luxe Fireplace Vibes (USA)
@@ -1765,7 +1734,6 @@ MBN ì†í’€ì´ì‡¼ ë™ì¹˜ë¯¸
 MBN íœ´ë¨¼ë‹¤í ì‚¬ë…¸ë¼ë©´
 MF
 MFF
-MGM Presents
 MHz Mysteries (USA)
 MHz Now
 MHz Now (CA)
@@ -1782,7 +1750,6 @@ Made It Myself TV
 MagellanTV Wildest
 MagellanTV Wildest (USA)
 Mandy Muse
-Mandy Muse 2
 MasterChef
 Masterchef UK: 'Powered by Banijay' (UK)
 Matched Married Meet (USA)
@@ -1800,7 +1767,6 @@ Medical Detectives
 Melztube
 Metalocalypse
 Mexicuban & Greedy Grove
-Mi Casa
 Mi Coche Clásico
 Midnight Pulp
 Midnight Pulp (CA)
@@ -1920,7 +1886,6 @@ Nash Bridges
 Nash Bridges Channel
 Nashville
 National Lampoon (USA)
-Naturaleza
 Naturaleza Salvaje
 Nature Moments
 NatureTime
@@ -1969,7 +1934,6 @@ Novelisima
 Novelísima
 Now 70's (UK)
 Now 80's
-Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -2003,7 +1967,6 @@ Oxygen True Crime Archives
 PBP
 PBP 2
 PBR RidePass
-PBR: Ride Pass
 PBS (KET-KY)
 PBS (KET2)
 PBS (KMOS)
@@ -2022,7 +1985,6 @@ PBS Kids (KET)
 PBS MPT (WMPB)
 PBS Nature
 PBS Nature (USA)
-PBS Retro
 PBS Travel
 PBS Travel (USA)
 PFL (CA)
@@ -2065,12 +2027,10 @@ PickleballTV
 PickleballTV (USA)
 Pink Kitty
 Pink Kitty 2
-Pink Panther
 Pitufo TV
 Places & Spaces
 Plated (USA)
 Plato del Dia by elGourmet
-Pocket.watch Game-On
 Pocoyo (UK)
 Pointless UK: 'Powered by Banijay' (UK)
 PokÃ©mon (USA)
@@ -2104,7 +2064,6 @@ Property Brothers (CA)
 Property Brothers Channel
 Pure Flix TV
 Pursuit UP (USA)
-Pursuit Up
 PursuitUP
 PursuitUp
 Q93.3
@@ -2120,7 +2079,6 @@ Qwest TV
 RACER Select
 RACER Select (USA)
 RCM
-RCN Más
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RIG TV (USA)
@@ -2148,6 +2106,7 @@ Real Housewives Vault
 Real Madrid
 Real Madrid TV
 Real Wild (UK)
+Reality - Rakuten TV (UK)
 Rebelde (USA)
 Red Bull TV
 Red Bull TV (UK)
@@ -2180,6 +2139,7 @@ Road Renegades (USA)
 Robot Wars by Mech+
 Robot Wars by Mech+ (UK)
 Romance 365
+Romance Movies - Rakuten TV (UK)
 Rookie Blue
 Rookie Blue: Policías Novatos
 Rovr Pets (USA)
@@ -2188,6 +2148,7 @@ Roxie Sinner
 Rue Lynn
 Rugrats
 Runtime
+Runtime Español
 Runtime Sangre Fría
 Rustic Retreats
 Ruth Lee
@@ -2197,7 +2158,6 @@ Ryan and Friends
 Ryan and Friends (USA)
 Ryleigh
 SAMSUNG UHD
-SBS TV ë™ë¬¼ë†ìž¥
 SBS ê¶ê¸ˆí•œ ì´ì•¼ê¸° Y
 SBS ê·¸ê²ƒì´ ì•Œê³ ì‹¶ë‹¤
 SBS ë¯¸ìš´ ìš°ë¦¬ ìƒˆë¼
@@ -2294,7 +2254,6 @@ So... Real
 Soma FM - The Trip
 Sonic TV
 Sonic The Hedgehog
-Sonic The Hedgehog (UK)
 Sonic The Hedgehog (USA)
 Sony One Competencias
 Sony One Competencias (USA)
@@ -2340,7 +2299,6 @@ Strawberry Shortcake
 Strawberry Shortcake (UK)
 Strawberry Shortcake (USA)
 Strawberry Shortcake and Friends
-Streetz
 Strongman Champions
 Strongman Champions League
 Strongman Champions League (UK)
@@ -2358,7 +2316,6 @@ Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
 Supernatural Drama
-Surfer
 Survivor
 Survivor (UK)
 Swamp People (USA)
@@ -2368,8 +2325,6 @@ Swerve Combat
 Swim Rewind
 Synthwave Radio 🌌 - beats to chill/game to
 T2 (USA)
-TBN
-TBN Inspire
 TBS East
 TBS West
 TCM East
@@ -2418,14 +2373,12 @@ Tastemade Travel Channel
 Tatted Mami
 Tatted Mamii
 Taxi
-Team Liquid
 Team Liquid (USA)
 Team USA TV
 Teen Mom
 Tekken 8
 TeleFórmula
 Telediario Now
-Teleonce America
 Terra Mater WILD (UK)
 Tessa Thomas
 Texas
@@ -2467,7 +2420,6 @@ The First 48 (USA)
 The Graham Norton Show
 The Graham Norton Show (UK)
 The Hill (USA)
-The Hill TV
 The Hotel Inspector
 The Hotel Inspector (UK)
 The Jack Hanna Channel
@@ -2536,7 +2488,6 @@ Tipping Point (UK)
 Today All Day
 Today's Homeowner
 Today's K-Pop
-Todo Crimen
 Todo Novelas Más Pasiones
 Tokusato
 Tommy King
@@ -2578,7 +2529,6 @@ True Crime UK
 True Crime UK (UK)
 True History
 True History Channel
-Tucson
 Twerking Elle
 Ty Nadia
 U&Laughs
@@ -2614,14 +2564,12 @@ Unusual Art
 V101
 VH1 Queens of Reality
 VICE (USA)
-VR+
 Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
 Venevisión Internacional
 Verniy TV
 Veronica Perasso
-Very Tampa Bay by WMOR
 Vianey
 Vice Entertainment
 Victoria Peach
@@ -2786,7 +2734,6 @@ yurfavdream
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
 êµ¬í•„ìˆ˜ëŠ” ì—†ë‹¤
-ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
 ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
