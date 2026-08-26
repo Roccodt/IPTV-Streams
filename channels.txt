@@ -76,6 +76,7 @@
 1331 The Pet Collective
 1332 Love Pets EMEA
 1333 Brat TV
+1334 People Are Awesome
 140 WFN
 1409 So...Real
 1417 True Crime UK
@@ -210,6 +211,7 @@
 204 CSI
 204 Corner Gas Channel
 205 AWE Plus
+205 Awe plus
 205 Frasier
 205 Unsolved Mysteries
 206 Forensic Files
@@ -276,7 +278,6 @@
 243 Movie Favorites by Lifetime
 244 Hersphere
 244 The Rifleman
-245 Love Wine
 245 The Good Wife
 246 Heartland
 247 Nip/Tuck
@@ -467,10 +468,10 @@
 385 Nature Time
 386 Dog The Bounty Hunter
 386 Naturaleza
+388 Curiosity Explora International
 389 Dateline 24/7
 389 TIME
 390 48 Hours
-390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -518,8 +519,6 @@
 458 Now90s00s
 459 Now90s00s
 460 essential;
-462 The Jim Rome Show
-465 FanDuel TV Extra
 465 Power Nation
 466 The Bob Ross Channel
 471 DAZN Ringside
@@ -544,7 +543,6 @@
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
-493 Game On
 493 Noovo Ça c’est drôle
 493 Real Wild
 494 earthtouch
@@ -568,6 +566,7 @@
 500 Rakuten Viki
 501 ROMCOM K-Drama
 501 The Pet Collective
+503 According To Jim
 504 Death Note
 505 GET Comedy
 505 Naruto Shippuden
@@ -651,6 +650,7 @@
 634 Cinderella and Four Knights
 635 ROMCOM K-Drama
 642 InWonder HD
+648 Wonder
 650 FailArmy
 651 Las Mejores Bromas
 652 My Little Pet
@@ -804,8 +804,10 @@ Aaliyah Hadid
 Aaliyah Hadid On Ricky's Room
 Acapulco Shore
 Action Hollywood Movies
+Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
+Adriana Maya 2
 Adult Swim Daily Animated
 Adult Swim Infomercials
 Adult Swim Last Stream On The Left
@@ -959,7 +961,6 @@ Barney & Friends
 Barney and Friends (USA)
 Bassmaster
 Baywatch
-Baywatch (USA)
 Beach Bonfire Vibes (USA)
 Beca Barbie
 Beca Barbie 2
@@ -1081,7 +1082,6 @@ Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
-Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Come Dine with Me
@@ -1093,7 +1093,6 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
-Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Concert Channel
@@ -1113,6 +1112,7 @@ CraftsyTV
 Crave
 Creator Television
 Crime & Justice
+Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Beat TV
 Crime Scene TV
@@ -1214,7 +1214,7 @@ DraftKings
 DraftKings Network
 DraftKings Network (USA)
 Drama Life (USA)
-Dream Corp LLC
+Drama Movies - Rakuten TV (UK)
 Driply
 Drone TV
 Dry Bar Comedy (CA)
@@ -1244,6 +1244,7 @@ El Encantador de Perros
 El Reino Infantil
 El Rey Rebel
 Electric Now
+Electric Now en Espanol
 ElectricNOW
 ElectricNOW (USA)
 Ellie Nova
@@ -1257,7 +1258,6 @@ EncourageTV
 Enough Said
 Entrepreneur TV
 Escape to the Country
-Escape to the Country (UK)
 Estrella Games
 Estrella Games (USA)
 Estrella TV
@@ -1400,6 +1400,7 @@ HSN West
 HTX
 HTX 2
 HTX 3
+Hagerty
 Hagerty (CA)
 Hagerty (USA)
 Hannah Jo
@@ -1486,6 +1487,8 @@ Hunter x Hunter
 I Love Lucy
 I Survived (UK)
 I Survivedâ€¦ (USA)
+INFAST (CA)
+INFAST (USA)
 INFOWARS NETWORK FEED: LIVE 247!
 INTRAVEL (UK)
 INWILD (UK)
@@ -1560,11 +1563,13 @@ Jadeteen
 Jamie Oliver
 Jamie Oliver (USA)
 Jayda
+Jayla Page
 Jaymee Green
 Jazz
 Jazz 2
 Jazz 88.3
 JazzTheStallion
+JazzTheStallion 2
 Jenni Angel
 Jersey Shore
 Jessie Rogers
@@ -1598,9 +1603,7 @@ KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
-KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
 KBS íƒœì–‘ì˜ í›„ì˜ˆ
-KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
 KM
@@ -1632,6 +1635,7 @@ Kidoodle.TV (CA)
 Kidoodle.TV (USA)
 King of Queens
 Kira Perez
+Kira Perez 2
 Kira Plug Talk
 Kissa Sins
 Kitchen Battles
@@ -1641,8 +1645,10 @@ Kona Jade
 Krackinasskey
 Kream Cheeks
 Kream Cheeks 2
+Kung Fu Movies
 Kush
 LADbible (UK)
+LEGO Channel (CA)
 LEGO Kids TV
 LOL Network
 LOL! Network (USA)
@@ -1724,6 +1730,7 @@ Luna 2
 Luna Baby
 Luna Luxe
 Luna Star
+Luna Star & Kali Roses
 Luna Star Reality Kings
 Lunar Liv
 Luxe Fireplace Vibes (USA)
@@ -1750,6 +1757,7 @@ Made It Myself TV
 MagellanTV Wildest
 MagellanTV Wildest (USA)
 Mandy Muse
+Mandy Muse 2
 MasterChef
 Masterchef UK: 'Powered by Banijay' (UK)
 Matched Married Meet (USA)
@@ -1998,7 +2006,6 @@ POP
 POP (UK)
 POWERNATION
 POWERNATION (USA)
-POWERNATION en Español
 Pac-12 Insider
 Pac-12 Insider (USA)
 Pam Grier's Soul Flix
@@ -2008,7 +2015,6 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
-Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2064,6 +2070,7 @@ Property Brothers (CA)
 Property Brothers Channel
 Pure Flix TV
 Pursuit UP (USA)
+Pursuit Up
 PursuitUP
 PursuitUp
 Q93.3
@@ -2088,7 +2095,6 @@ RVTV
 Rabbids Invasion (UK)
 Racing America
 Radio-Canada INFO
-Radio-Canada INFO (CA)
 Rai Blue
 Rainbow Rangers
 Rainbow Ruby (USA)
@@ -2158,6 +2164,7 @@ Ryan and Friends
 Ryan and Friends (USA)
 Ryleigh
 SAMSUNG UHD
+SBS TV ë™ë¬¼ë†ìž¥
 SBS ê¶ê¸ˆí•œ ì´ì•¼ê¸° Y
 SBS ê·¸ê²ƒì´ ì•Œê³ ì‹¶ë‹¤
 SBS ë¯¸ìš´ ìš°ë¦¬ ìƒˆë¼
@@ -2254,6 +2261,7 @@ So... Real
 Soma FM - The Trip
 Sonic TV
 Sonic The Hedgehog
+Sonic The Hedgehog (UK)
 Sonic The Hedgehog (USA)
 Sony One Competencias
 Sony One Competencias (USA)
@@ -2529,13 +2537,11 @@ True Crime UK
 True Crime UK (UK)
 True History
 True History Channel
+Tucson
 Twerking Elle
 Ty Nadia
-U&Laughs
 U&Laughs (UK)
-U&Real Heroes
 U&Real Heroes (UK)
-U&The Past
 U&The Past (UK)
 U-Haul
 UEFA Champions League
@@ -2561,6 +2567,7 @@ Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
 Unusual Art
+Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
@@ -2570,6 +2577,7 @@ Vanessa The Coach
 Venevisión Internacional
 Verniy TV
 Veronica Perasso
+Very Tampa Bay by WMOR
 Vianey
 Vice Entertainment
 Victoria Peach
@@ -2689,7 +2697,6 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
-Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
@@ -2734,6 +2741,7 @@ yurfavdream
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
 êµ¬í•„ìˆ˜ëŠ” ì—†ë‹¤
+ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
 ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
@@ -2759,7 +2767,6 @@ yurfavdream
 ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
-ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
