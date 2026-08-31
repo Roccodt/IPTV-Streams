@@ -162,7 +162,6 @@
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
-1632 MMA TV
 1635 Strongman Champions League
 1639 Horse & Country
 1640 Unbeaten
@@ -278,6 +277,7 @@
 243 Movie Favorites by Lifetime
 244 Hersphere
 244 The Rifleman
+245 Love Wine
 245 The Good Wife
 246 Heartland
 247 Nip/Tuck
@@ -472,6 +472,7 @@
 389 Dateline 24/7
 389 TIME
 390 48 Hours
+390 Game On
 392 K-ASMR
 393 World\'s Most Evil Killers
 394 Cold Case Files
@@ -543,6 +544,7 @@
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
+493 Game On
 493 Noovo Ça c’est drôle
 493 Real Wild
 494 earthtouch
@@ -551,7 +553,6 @@
 497 Adventure Earth
 497 The Pet Collective
 497 Tortues Ninja TV
-4UV (USA)
 5 Cops
 5 Cops (UK)
 5 Emergency Rescue
@@ -691,7 +692,6 @@
 732 Real Madrid
 735 Dark Matter TV Mexico
 737 Todo Crimen
-738 People Are Awesome
 738 Runtime Crimen
 741 Trace Stars
 742 TED
@@ -926,6 +926,7 @@ At Home with Family Handyman (USA)
 At the Movies
 Auction Hunters
 Auhneesh
+Autopista al Cielo
 Autumn Falls
 Avatar
 Avatar: La Leyenda de Aang
@@ -961,6 +962,7 @@ Barney & Friends
 Barney and Friends (USA)
 Bassmaster
 Baywatch
+Baywatch (USA)
 Beach Bonfire Vibes (USA)
 Beca Barbie
 Beca Barbie 2
@@ -1014,6 +1016,7 @@ BritBox Mysteries (USA)
 Britbox Mysteries
 Brittany Kaye
 Bromas Gags - Just for Laughs
+Buen Viaje
 Busted at the Border
 C4 en Alerta
 CBC Comedy (CA)
@@ -1060,6 +1063,7 @@ Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
+Cheaters en Español
 Cheddar
 Cheers
 Cheers + Frasier
@@ -1070,18 +1074,18 @@ Chloe Aoky
 Chloe Aoky 2
 Choppertown
 Christmas 365
-Cinépolis Channel
 Circle (USA)
 Circle Country
 Circle Country (CA)
-Cirque du Soleil
 Clarity 4K (USA)
+Clic
 Cold Case Files
 Cold Case Files (USA)
 Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
+Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Come Dine with Me
@@ -1102,6 +1106,7 @@ Continuum
 Cook's Country Channel
 Cool Summer Channel (UK)
 Cops (CA)
+Cops en Español
 Corazón
 Corner Gas
 Corner Gas Channel by CTV (CA)
@@ -1215,6 +1220,7 @@ DraftKings Network
 DraftKings Network (USA)
 Drama Life (USA)
 Drama Movies - Rakuten TV (UK)
+Dream Corp LLC
 Driply
 Drone TV
 Dry Bar Comedy (CA)
@@ -1258,6 +1264,7 @@ EncourageTV
 Enough Said
 Entrepreneur TV
 Escape to the Country
+Escape to the Country (UK)
 Estrella Games
 Estrella Games (USA)
 Estrella TV
@@ -1339,7 +1346,6 @@ Gem Jewels - BangBros
 Gem Jewels Tape
 Gem Jewels x Dredd
 Generation Drama
-Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
 Genie K-Movie (CA)
@@ -1381,6 +1387,7 @@ Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
+Grjngo - Películas Del Oeste
 Grjngo - Western Movies
 Grjngo - Western Movies (UK)
 Growing Up Hip Hop WeTV
@@ -1423,7 +1430,6 @@ Hell's Kitchen | Kitchen Nightmares
 Hells Kitchen
 Hersphere
 Hey Arnold!
-Hi-YAH!
 Hi-Yah!
 Highway Thru Hell
 Highway Thru Hell : Powered by Banijay (UK)
@@ -1502,6 +1508,7 @@ ION Plus (USA)
 ITV Deportes
 Ice Pilots
 Ice Pilots NWT
+Ice Pilots NWT (en español)
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
@@ -1529,6 +1536,7 @@ Intervention (UK)
 Inuyasha
 Investiga
 Iron Chef
+Iron Chef en español
 Ishues
 Island Vibes (USA)
 It's Showtime at the Apollo
@@ -1560,7 +1568,6 @@ Jada Stevens 2
 Jada Stevens 3
 Jade Fever
 Jadeteen
-Jamie Oliver
 Jamie Oliver (USA)
 Jayda
 Jayla Page
@@ -1603,7 +1610,9 @@ KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
+KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
 KBS íƒœì–‘ì˜ í›„ì˜ˆ
+KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
 KM
@@ -1645,7 +1654,6 @@ Kona Jade
 Krackinasskey
 Kream Cheeks
 Kream Cheeks 2
-Kung Fu Movies
 Kush
 LADbible (UK)
 LEGO Channel (CA)
@@ -1654,6 +1662,7 @@ LOL Network
 LOL! Network (USA)
 LUCHA PLUS
 La Familia del Barrio
+La Fiebre del Jade
 La Selección
 LaMúsica TV
 Laff More
@@ -1775,6 +1784,7 @@ Medical Detectives
 Melztube
 Metalocalypse
 Mexicuban & Greedy Grove
+Mi Casa
 Mi Coche Clásico
 Midnight Pulp
 Midnight Pulp (CA)
@@ -1823,7 +1833,6 @@ More TV Sitcoms
 More True Crime
 More U
 Most Haunted
-MotorRacing (UK)
 MotorTrend FAST TV
 MotorTrend FAST TV (USA)
 Motorvision TV
@@ -1894,6 +1903,7 @@ Nash Bridges
 Nash Bridges Channel
 Nashville
 National Lampoon (USA)
+Naturaleza
 Naturaleza Salvaje
 Nature Moments
 NatureTime
@@ -2086,6 +2096,7 @@ Qwest TV
 RACER Select
 RACER Select (USA)
 RCM
+RCN Más
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RIG TV (USA)
@@ -2324,6 +2335,7 @@ Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
 Supernatural Drama
+Surfer
 Survivor
 Survivor (UK)
 Swamp People (USA)
@@ -2337,8 +2349,6 @@ TBS East
 TBS West
 TCM East
 TCM West
-TED
-TED (USA)
 TG Junior (USA)
 TMZ
 TMZ (USA)
@@ -2367,7 +2377,6 @@ TVì¡°ì„  ì‚¬ëž‘ì˜ ì½œì„¼íƒ€
 TVì¡°ì„  ì•„ë¹ í•˜ê³  ë‚˜í•˜ê³
 TX
 TYT Network (USA)
-TYT-Go
 Talk (UK)
 Tastemade
 Tastemade (USA)
@@ -2387,6 +2396,7 @@ Teen Mom
 Tekken 8
 TeleFórmula
 Telediario Now
+Teleonce America
 Terra Mater WILD (UK)
 Tessa Thomas
 Texas
@@ -2496,6 +2506,7 @@ Tipping Point (UK)
 Today All Day
 Today's Homeowner
 Today's K-Pop
+Todo Crimen
 Todo Novelas Más Pasiones
 Tokusato
 Tommy King
@@ -2567,10 +2578,10 @@ Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
 Unusual Art
-Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
+VR+
 Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
@@ -2667,7 +2678,6 @@ World War TV
 World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
-X Games TV
 X102.3
 Xena
 Xena Warrior Princess
@@ -2684,7 +2694,6 @@ Yasmina Khan
 Yasmina Khan & Audrey Reid
 Yasmina Khan 2
 Yinyleon
-Your Pretty Face is Going to Hell
 Yu-Gi-Oh
 Yu-Gi-Oh (USA)
 Yu-Gi-Oh!
@@ -2697,6 +2706,7 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
+Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
@@ -2764,9 +2774,9 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
-ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
+ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
