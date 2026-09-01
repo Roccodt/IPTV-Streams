@@ -1,5 +1,4 @@
 00s Replay
-100 Hip Hop and RNB FM
 100 Majordomo TV with David Chang
 100.3 HD 2 RB and Hip Hop
 1000 LG 1
@@ -115,7 +114,6 @@
 1462 More TV Crime
 1465 Sensing Murder
 1466 Deadly Women
-1467 The New Detectives
 1468 Mystery TV
 1469 Unsolved Mysteries
 1470 Ghost Hunters
@@ -148,7 +146,6 @@
 157 Local Now
 1570 EarthDay 365
 1574 Get.factual
-1575 Wedo big stories
 1577 Royalworld - Nobility & Dynasties
 1580 World War TV
 1581 History Hunters
@@ -459,7 +456,6 @@
 379 Mi Coche Clásico
 379 Mission Impossible
 380 ION Mystery
-380 Running Man
 381 CSI: NY
 382 American Crimes
 383 First 48
@@ -553,6 +549,7 @@
 497 Adventure Earth
 497 The Pet Collective
 497 Tortues Ninja TV
+4UV (USA)
 5 Cops
 5 Cops (UK)
 5 Emergency Rescue
@@ -771,7 +768,6 @@
 901 TikTok Radio
 90s Kids TV 2
 90s Throwback
-92.7 FM Jam Central
 92.9 WDUP
 93.7 The Beat Houston
 94.1 The Beat
@@ -1263,7 +1259,6 @@ Empeños a lo bestia
 EncourageTV
 Enough Said
 Entrepreneur TV
-Escape to the Country
 Escape to the Country (UK)
 Estrella Games
 Estrella Games (USA)
@@ -1346,6 +1341,7 @@ Gem Jewels - BangBros
 Gem Jewels Tape
 Gem Jewels x Dredd
 Generation Drama
+Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
 Genie K-Movie (CA)
@@ -1374,12 +1370,10 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
-Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
-Great American Adventures
 Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
@@ -1436,7 +1430,6 @@ Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
-HipHop95
 Historia (USA)
 Historias de Ultratumba
 History & Warfare (CA)
@@ -1461,7 +1454,6 @@ Homeful (CA)
 Homeful (USA)
 Homes Under Hammer
 Homes Under the Hammer (UK)
-Homicide Hunter
 Honey
 Honey & Rue Lynn
 Honey 2
@@ -1475,7 +1467,6 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
-Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
@@ -1673,6 +1664,7 @@ Las Vegas
 Lashae
 Lashae 2
 Lassie
+Lassie (USA)
 Law & Crime
 Law & Crime (USA)
 Law & Order
@@ -1715,9 +1707,7 @@ LooLoo Kids (UK)
 Los Asesinatos de Midsomer
 Los Padrinos Mágicos
 Los archivos del FBI
-Loud 101.5
 Loud 103.3
-Loud 98.5
 Loupe 4K (USA)
 Love & Hip Hop
 Love & Hip Hop (USA)
@@ -1833,6 +1823,7 @@ More TV Sitcoms
 More True Crime
 More U
 Most Haunted
+MotorRacing (UK)
 MotorTrend FAST TV
 MotorTrend FAST TV (USA)
 Motorvision TV
@@ -1905,7 +1896,6 @@ Nashville
 National Lampoon (USA)
 Naturaleza
 Naturaleza Salvaje
-Nature Moments
 NatureTime
 NatureVision
 Naturescape
@@ -1982,6 +1972,7 @@ OuterSphere by Lionsgate
 Outside TV (CA)
 Outside TV (USA)
 Oxygen True Crime Archives
+PAW Patrol Patrulla de Cachorros
 PBP
 PBP 2
 PBR RidePass
@@ -2025,6 +2016,7 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
+Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2101,7 +2093,6 @@ REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RIG TV (USA)
 ROI TV
-ROMCOM K-Drama
 RVTV
 Rabbids Invasion (UK)
 Racing America
@@ -2226,9 +2217,7 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
-Sci-Fi - Rakuten TV (UK)
 Scorpihoe
-Scorpion
 Scream Factory TV
 Screambox TV
 Selina Slayer
@@ -2261,7 +2250,6 @@ SlimAT
 Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
-Smooth Jazz 88.9
 Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
@@ -2369,6 +2357,7 @@ TV Land Sitcoms (USA)
 TV One CRIME & JUSTICE FAST CHANNEL
 TV One Crime & Justice
 TV One Stars & Stories
+TVB Pearl Drama
 TVOAI Channel
 TVSN
 TVì¡°ì„  ë¯¸ìŠ¤í„°ë¡œë˜
@@ -2427,7 +2416,6 @@ The Dick Van Dyke Show
 The Doctors
 The Dog Whisperer with Caesar Millan
 The Ed Sullivan Show
-The Ellen Channel
 The Emeril Lagasse Channel
 The F.B.I.
 The FBI
@@ -2438,7 +2426,6 @@ The First 48 (USA)
 The Graham Norton Show
 The Graham Norton Show (UK)
 The Hill (USA)
-The Hotel Inspector
 The Hotel Inspector (UK)
 The Jack Hanna Channel
 The Jack Hanna Channel (USA)
@@ -2531,12 +2518,13 @@ Touched by an Angel
 Tough Jobs
 Trace UK (UK)
 Trace Urban (UK)
+Trailer Park Boys: The SwearNet Show
 Trailers From Hell
 Transformers
-Transformers TV
 Trapsweety
 Travel + Adventure
 Travel Escapes
+Tribeca Channel
 Trinity Broadcasting Network
 Trixi Brooks
 Trixie
@@ -2560,6 +2548,7 @@ USA TODAY
 USA Today (USA)
 Ultimate Builds
 UnXplained Zone
+Unbeaten
 UniMás (WFUT)
 Unidentified (USA)
 Unique Lives
@@ -2640,6 +2629,8 @@ Waypoint TV
 Waypoint TV (CA)
 Waypoint TV (USA)
 WaypointTV
+Wedotv Amor Piel Salvaje
+Weeds & Nurse Jackie
 Weeds / Nurse Jackie
 Welcome Home
 Wendy Williams
@@ -2678,6 +2669,7 @@ World War TV
 World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
+Wu Tang Collection
 X102.3
 Xena
 Xena Warrior Princess
@@ -2694,6 +2686,7 @@ Yasmina Khan
 Yasmina Khan & Audrey Reid
 Yasmina Khan 2
 Yinyleon
+Your Pretty Face is Going to Hell
 Yu-Gi-Oh
 Yu-Gi-Oh (USA)
 Yu-Gi-Oh!
@@ -2774,6 +2767,7 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
+ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
 ì„œìš¸ê²½ì œTV
