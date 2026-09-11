@@ -182,7 +182,6 @@
 1862 BABY SHARK TV
 1863 ducktv
 1871 The Wiggles
-1895 TAYO+
 1897 Kongsuni
 1898 TOBOT
 1899 Robocar POLI
@@ -276,7 +275,6 @@
 243 Movie Favorites by Lifetime
 244 Hersphere
 244 The Rifleman
-245 Love Wine
 245 The Good Wife
 246 Heartland
 247 Nip/Tuck
@@ -417,7 +415,6 @@
 338 Ink Master
 339 Nosey
 339 Project Runway
-339 Real Wild
 340 American Ninja Warrior
 340 Robot Wars by Mech+
 341 FailArmy
@@ -635,7 +632,6 @@
 622 El Peso del Amor
 622 History Hit
 625 PBS History
-625 Zee Mundo
 626 Big
 626 PBS Science
 627 Garfield and Friends
@@ -667,6 +663,7 @@
 703 Bizarre Foods with Andrew Zimmern
 703 Runtime Acción
 704 Adrenalina Pura TV
+704 MMA TV
 705 Pac12
 705 Sweet Escapes
 707 America\'s Test Kitchen
@@ -805,7 +802,6 @@ Action Hollywood Movies
 Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
-Adriana Maya 2
 Adult Swim Daily Animated
 Adult Swim Infomercials
 Adult Swim Last Stream On The Left
@@ -862,7 +858,6 @@ Alone By History (USA)
 Alternative
 Alva Jay
 Always Funny
-Always Funny Videos
 Always Funny Videos (USA)
 Amanda Nicole
 Amasian TV
@@ -1011,7 +1006,6 @@ Briellah 3
 Bring It! (USA)
 BritBox Mysteries
 BritBox Mysteries (USA)
-Britbox Mysteries
 Brittany Kaye
 Bromas Gags - Just for Laughs
 Buen Viaje
@@ -1275,9 +1269,9 @@ Extreme Jobs
 Eì±„ë„ í† ìš”ì¼ì€ ë°¥ì´ ì¢‹ì•„
 FAITHOPE
 FBI Files
-FGTeeV
 FILMEX
 FILMEX CLASICO
+FILMEX Clásico
 FRANCE 24
 FRANCE 24 FAST (UK)
 Fabi Soul
@@ -1302,9 +1296,11 @@ Festivals and Studio Sessions 🎧🎶
 Fifth Gear
 Fifth Gear (UK)
 Fight Network
+Fireplace 4K
 Fireplace Vibes (UK)
 Fireplace Vibes (USA)
 First 48
+First Alert 4 St. Louis
 Fixers and Flippers
 Flashback 70s
 Flashpoint
@@ -1342,7 +1338,6 @@ Generation Drama
 Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
-Genie K-Movie (CA)
 Genie K-Movie (UK)
 Genie K-Movie (USA)
 Genie Movie
@@ -1368,10 +1363,12 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
+Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
+Great American Adventures
 Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
@@ -1382,12 +1379,12 @@ Grjngo (USA)
 Grjngo - Películas Del Oeste
 Grjngo - Western Movies
 Grjngo - Western Movies (UK)
+Growing Up Hip Hop WeTV
 Gunsmoke
 Gusto TV
 Gusto TV (CA)
 Gusto TV (USA)
 GustoTV
-H2O TV
 HBCU Go!
 HBO Movies
 HMR
@@ -1417,12 +1414,14 @@ Hechiceras
 Hechizada
 Hell's Kitchen
 Hell's Kitchen (USA)
+Hell's Kitchen | Kitchen Nightmares
 Hells Kitchen
 Hersphere
 Hey Arnold!
 Hi-Yah!
 Highway Thru Hell
 Highway Thru Hell : Powered by Banijay (UK)
+Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
 HipHop95
@@ -1504,7 +1503,9 @@ Ideas En 5 Minutos
 Imagen TV+
 Impact Gospel
 Impossible - Quiz Show
+In Depth with Graham Bensinger
 In Depth with Graham Bensinger (USA)
+In The Heat of the Night
 In Touch+
 In the Garage
 InWonder (CA)
@@ -1595,6 +1596,9 @@ KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
+KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
+KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
+KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
@@ -1765,7 +1769,6 @@ MeatEater (USA)
 Mecum TV
 Medical Detectives
 Melztube
-Metalocalypse
 Mexicuban & Greedy Grove
 Mi Casa
 Mi Coche Clásico
@@ -1877,7 +1880,6 @@ NI Live 2
 NOW 70's
 NOW 90s00s
 NTV
-NY 48 (WWON)
 NYC House Radio
 Naruto
 Naruto (USA)
@@ -1897,7 +1899,6 @@ Nia Bleu
 Nia Nacci
 Nick Jr. Club
 NickToons
-Nickelodeon (Alternate)
 Nickelodeon Clásico
 Nickelodeon Teen
 Nickelodeon Toons
@@ -1936,6 +1937,7 @@ Novelísima
 Now 70's (UK)
 Now 70s
 Now 80's
+Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -2007,6 +2009,7 @@ Paranormal Files
 Paranormal State
 Paris
 Parliament TV
+Paternity Court
 Pawn Stars (USA)
 Paws & Claws
 Payton Preslee & Ellie Nova
@@ -2017,12 +2020,14 @@ People are Awesome
 Peppa Pig
 Perform (USA)
 Perry Mason
+Pet Collective
 Pickers & Pawn
 PickleTV
 PickleballTV
 PickleballTV (USA)
 Pink Kitty
 Pink Kitty 2
+Pitufo TV
 Places & Spaces
 Plated (USA)
 Plato del Dia by elGourmet
@@ -2104,7 +2109,9 @@ Real Madrid TV
 Real Wild (UK)
 Reality - Rakuten TV (UK)
 Rebelde (USA)
+Red Bull TV
 Red Bull TV (UK)
+Reelz Famous and Infamous
 Regina Luv
 Relic Hunter
 Remember the ‘80s
@@ -2353,12 +2360,12 @@ TVì¡°ì„  ìƒì¡´ì™•
 TVì¡°ì„  ì‚¬ëž‘ì˜ ì½œì„¼íƒ€
 TVì¡°ì„  ì•„ë¹ í•˜ê³  ë‚˜í•˜ê³
 TX
+TYT
 TYT Network (USA)
 Talk (UK)
 Tastemade
 Tastemade (USA)
 Tastemade Home
-Tastemade Home (CA)
 Tastemade Home (USA)
 Tastemade Smokehouse
 Tastemade Travel
@@ -2444,7 +2451,6 @@ The Price Is Right
 The Price Is Right: The Barker Era
 The Price is Right
 The Price is Right: The Barker Era
-The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
@@ -2490,6 +2496,7 @@ Toon Goggles
 Toon Goggles (USA)
 Toonami Aftermath East
 Toonami Aftermath Movies
+Toonami Aftermath Radio
 Toonami Aftermath West
 Top Barça
 Top Gear
@@ -2514,7 +2521,6 @@ Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
-TruBlu Crime Channel
 True Crime Now (CA)
 True Crime UK
 True Crime UK (UK)
@@ -2558,7 +2564,6 @@ Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
 Venevisión Internacional
-Verniy TV
 Veronica Perasso
 Very Tampa Bay by WMOR
 Vianey
@@ -2573,7 +2578,6 @@ Violet Myers & Mz Jessie
 Violet Myers 2
 Violet Myers 3
 Vitoria Beatriz
-Vitoria Beatriz 2
 Vive Kanal D Drama
 Vivian Taylor
 WAND Decatur IL
@@ -2593,9 +2597,7 @@ WLTX CBS 19 Columbia SC
 WMAZ CBS 13 Macon GA
 WPXI Pittsburgh
 WQOW Eau Claire WI
-WREX Rockford IL
 WSB Atlanta
-WSIL Paducah KY
 WSOC Charlotte
 WTSP CBS 10 Tampa Bay FL
 WUSA CBS 9 Washington DC
@@ -2697,6 +2699,7 @@ feenin4nae 2
 hoeassria
 honeybeepott
 iCarly TV
+iHQ ëˆì­ë‚´ëŸ¬ ì™”ìŠµë‹ˆë‹¤
 iHeart90s
 iHeartCountry
 iHeartRadio Hip Hop Beats
@@ -2746,8 +2749,9 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
+ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
-ì„œìš¸ê²½ì œTV
+ì”¨ë„¤21+
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
