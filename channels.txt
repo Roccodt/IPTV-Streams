@@ -127,7 +127,6 @@
 1511 Travelxp
 1515 Life Down Under
 1520 Gusto TV
-1525 Love Wine
 1530 Homes Under the Hammer
 1531 Inside Outside
 1532 Flipping Nation
@@ -161,6 +160,7 @@
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
+1632 MMA TV
 1635 Strongman Champions League
 1639 Horse & Country
 1640 Unbeaten
@@ -182,6 +182,7 @@
 1862 BABY SHARK TV
 1863 ducktv
 1871 The Wiggles
+1895 TAYO+
 1897 Kongsuni
 1898 TOBOT
 1899 Robocar POLI
@@ -275,6 +276,7 @@
 243 Movie Favorites by Lifetime
 244 Hersphere
 244 The Rifleman
+245 Love Wine
 245 The Good Wife
 246 Heartland
 247 Nip/Tuck
@@ -415,6 +417,7 @@
 338 Ink Master
 339 Nosey
 339 Project Runway
+339 Real Wild
 340 American Ninja Warrior
 340 Robot Wars by Mech+
 341 FailArmy
@@ -581,7 +584,6 @@
 511 Arthur
 511 NEW KPOP
 511 Saved by the Bell
-514 Slightly Off IFC
 515 The Conners
 517 Johnny Carson TV
 519 The Love Boat
@@ -663,7 +665,6 @@
 703 Bizarre Foods with Andrew Zimmern
 703 Runtime Acción
 704 Adrenalina Pura TV
-704 MMA TV
 705 Pac12
 705 Sweet Escapes
 707 America\'s Test Kitchen
@@ -736,7 +737,6 @@
 832 The Country Network
 836 Acapulco Shore
 837 Love Nature En Espanol
-838 AMC en Español
 839 CSI en Español
 839 Hells Kitchen
 840 Comedy Central en español
@@ -802,6 +802,7 @@ Action Hollywood Movies
 Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
+Adriana Maya 2
 Adult Swim Daily Animated
 Adult Swim Infomercials
 Adult Swim Last Stream On The Left
@@ -838,7 +839,6 @@ AdultIPTV.net Threesome
 Adventure Earth (UK)
 Advore
 AfroLandTV
-Aftershock
 Alanna Pow
 Alfred Hitchcock Presents
 Alien Nation by DUST
@@ -858,6 +858,7 @@ Alone By History (USA)
 Alternative
 Alva Jay
 Always Funny
+Always Funny Videos
 Always Funny Videos (USA)
 Amanda Nicole
 Amasian TV
@@ -928,11 +929,9 @@ Ax Men
 Ax Men (CA)
 Ax Men (UK)
 Ax Men (USA)
-Azzy Star
 B Gigi Tag Team
 BABY SHARK TV
 BACKSTAGE
-BRB Travel + Food
 BUZZR
 BUZZR (USA)
 BYUtv (USA)
@@ -1006,6 +1005,7 @@ Briellah 3
 Bring It! (USA)
 BritBox Mysteries
 BritBox Mysteries (USA)
+Britbox Mysteries
 Brittany Kaye
 Bromas Gags - Just for Laughs
 Buen Viaje
@@ -1047,7 +1047,6 @@ Cassie Lenoir 2
 Catfish
 Catfish (UK)
 Caught on Tape (USA)
-Cazador de Homicidas
 Cece
 Chanel Heart
 Chanel Star
@@ -1162,7 +1161,6 @@ Death Note
 Death Valley Days
 Death Valley Days (USA)
 Debree
-Def Jam (UK)
 Degrassi
 Degrassi (USA)
 Demand Africa
@@ -1269,6 +1267,7 @@ Extreme Jobs
 Eì±„ë„ í† ìš”ì¼ì€ ë°¥ì´ ì¢‹ì•„
 FAITHOPE
 FBI Files
+FGTeeV
 FILMEX
 FILMEX CLASICO
 FILMEX Clásico
@@ -1292,7 +1291,6 @@ Fear Factor
 Fear Factor (USA)
 Fear Factor USA
 Feel Good Drama
-Festivals and Studio Sessions 🎧🎶
 Fifth Gear
 Fifth Gear (UK)
 Fight Network
@@ -1338,6 +1336,7 @@ Generation Drama
 Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
+Genie K-Movie (CA)
 Genie K-Movie (UK)
 Genie K-Movie (USA)
 Genie Movie
@@ -1363,7 +1362,6 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
-Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
@@ -1643,7 +1641,6 @@ Kream Cheeks
 Kream Cheeks 2
 Kush
 LADbible (UK)
-LEGO Channel (CA)
 LEGO Kids TV
 LOL Network
 LOL! Network (USA)
@@ -1671,7 +1668,6 @@ Leave it to Bryan
 Lena The Plug & Jason Luv
 Les DÃ©batteurs de Noovo (CA)
 Let's Make A Deal
-Let's Make a Deal
 Let's Make a deal
 LexLaFlame
 Lidia's Kitchen
@@ -1715,7 +1711,6 @@ Love Nature English
 Love Pets (UK)
 Love Pets (USA)
 Love The Planet
-Love the Planet (UK)
 Lucha Plus
 Luciana
 Lucky Dog (USA)
@@ -1742,7 +1737,6 @@ MHz Now
 MHz Now (CA)
 MI-5
 MLB
-MLB Channel (CA)
 MLB Channel (USA)
 MODUS Super Series Darts
 MST3K
@@ -1769,6 +1763,7 @@ MeatEater (USA)
 Mecum TV
 Medical Detectives
 Melztube
+Metalocalypse
 Mexicuban & Greedy Grove
 Mi Casa
 Mi Coche Clásico
@@ -1818,7 +1813,6 @@ More TV Sitcoms
 More True Crime
 More U
 Most Haunted
-MotorRacing (UK)
 MotorTrend FAST TV
 MotorTrend FAST TV (USA)
 Motorvision TV
@@ -1880,6 +1874,7 @@ NI Live 2
 NOW 70's
 NOW 90s00s
 NTV
+NY 48 (WWON)
 NYC House Radio
 Naruto
 Naruto (USA)
@@ -2312,7 +2307,6 @@ SupaSoaka
 SupaSoaka 2
 Super Channel Hearties
 Super Mario Brothers
-Super Simple Songs
 SuperToons TV (UK)
 Supermarket Sweep
 Supermarket Sweep (CA)
@@ -2451,6 +2445,7 @@ The Price Is Right
 The Price Is Right: The Barker Era
 The Price is Right
 The Price is Right: The Barker Era
+The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
@@ -2505,7 +2500,6 @@ Top Movies - Rakuten TV (UK)
 Torque (USA)
 Tortues Ninja TV
 Tosh.0
-Total Crime
 Totally Turtles
 Touched by an Angel
 Tough Jobs
@@ -2521,6 +2515,7 @@ Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
+TruBlu Crime Channel
 True Crime Now (CA)
 True Crime UK
 True Crime UK (UK)
@@ -2556,6 +2551,7 @@ Unspeakable
 Untold Stories Of The ER
 Untold Stories of the ER
 Unusual Art
+Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
@@ -2564,6 +2560,7 @@ Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
 Venevisión Internacional
+Verniy TV
 Veronica Perasso
 Very Tampa Bay by WMOR
 Vianey
@@ -2578,6 +2575,7 @@ Violet Myers & Mz Jessie
 Violet Myers 2
 Violet Myers 3
 Vitoria Beatriz
+Vitoria Beatriz 2
 Vive Kanal D Drama
 Vivian Taylor
 WAND Decatur IL
@@ -2681,7 +2679,6 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
-Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
