@@ -127,6 +127,7 @@
 1511 Travelxp
 1515 Life Down Under
 1520 Gusto TV
+1525 Love Wine
 1530 Homes Under the Hammer
 1531 Inside Outside
 1532 Flipping Nation
@@ -160,7 +161,6 @@
 1620 MTRSPT1
 1627 FUEL TV
 1631 PFL MMA
-1632 MMA TV
 1635 Strongman Champions League
 1639 Horse & Country
 1640 Unbeaten
@@ -246,7 +246,6 @@
 223 Baywatch
 223 COPS
 224 GET
-224 Total Crime
 225 AIR & SPACE
 227 48 Hours
 227 Universal Action
@@ -909,7 +908,6 @@ Ari Alectra
 Ari Kytsya & Camilla Araujo
 Aria Six
 Ariana Aimes
-Arizona's Family
 Arthur
 Ashanti
 Asian Drama
@@ -929,6 +927,7 @@ Ax Men
 Ax Men (CA)
 Ax Men (UK)
 Ax Men (USA)
+Azzy Star
 B Gigi Tag Team
 BABY SHARK TV
 BACKSTAGE
@@ -951,7 +950,6 @@ BarbieDollSteff
 BarbieDollSteff 2
 Bark TV
 Barney & Friends
-Barney and Friends (USA)
 Bassmaster
 Baywatch
 Baywatch (USA)
@@ -1076,7 +1074,6 @@ Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
-Combate Global MMA (USA)
 Come Dine With Me
 Come Dine With Me (UK)
 Come Dine with Me
@@ -1161,6 +1158,7 @@ Death Note
 Death Valley Days
 Death Valley Days (USA)
 Debree
+Def Jam (UK)
 Degrassi
 Degrassi (USA)
 Demand Africa
@@ -1298,7 +1296,6 @@ Fireplace 4K
 Fireplace Vibes (UK)
 Fireplace Vibes (USA)
 First 48
-First Alert 4 St. Louis
 Fixers and Flippers
 Flashback 70s
 Flashpoint
@@ -1362,11 +1359,11 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
+Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
-Great American Adventures
 Great British Menu
 Great British Menu (UK)
 Great! Movies (UK)
@@ -1385,6 +1382,7 @@ Gusto TV (USA)
 GustoTV
 HBCU Go!
 HBO Movies
+HLN
 HMR
 HSN
 HSN 2
@@ -1501,7 +1499,6 @@ Ideas En 5 Minutos
 Imagen TV+
 Impact Gospel
 Impossible - Quiz Show
-In Depth with Graham Bensinger
 In Depth with Graham Bensinger (USA)
 In The Heat of the Night
 In Touch+
@@ -1553,6 +1550,7 @@ Jada Stevens 2
 Jada Stevens 3
 Jade Fever
 Jadeteen
+Jamie Kennedy Comedy
 Jamie Oliver (USA)
 Jayda
 Jayla Page
@@ -1596,7 +1594,6 @@ KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
 KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
-KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
@@ -1639,8 +1636,10 @@ Kona Jade
 Krackinasskey
 Kream Cheeks
 Kream Cheeks 2
+Kung Fu Movies
 Kush
 LADbible (UK)
+LEGO Channel (CA)
 LEGO Kids TV
 LOL Network
 LOL! Network (USA)
@@ -1668,6 +1667,7 @@ Leave it to Bryan
 Lena The Plug & Jason Luv
 Les DÃ©batteurs de Noovo (CA)
 Let's Make A Deal
+Let's Make a Deal
 Let's Make a deal
 LexLaFlame
 Lidia's Kitchen
@@ -1711,6 +1711,7 @@ Love Nature English
 Love Pets (UK)
 Love Pets (USA)
 Love The Planet
+Love the Planet (UK)
 Lucha Plus
 Luciana
 Lucky Dog (USA)
@@ -1793,7 +1794,6 @@ Mister Rogers' Neighborhood
 Misterios Medicos
 Misterios sin Resolver
 Misterios sin resolver
-Modern Innovations by History
 Modern Marvels
 Modern Marvels (CA)
 Modern Marvels (UK)
@@ -1813,6 +1813,7 @@ More TV Sitcoms
 More True Crime
 More U
 Most Haunted
+MotorRacing (UK)
 MotorTrend FAST TV
 MotorTrend FAST TV (USA)
 Motorvision TV
@@ -1932,7 +1933,6 @@ Novelísima
 Now 70's (UK)
 Now 70s
 Now 80's
-Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -1949,6 +1949,7 @@ OUTtv Proud (USA)
 Obsesión por los Autos
 Ocean Dr
 Ocean Vibes (USA)
+Old West TV
 On The Case
 One Piece
 One Worldwide Radio
@@ -2003,7 +2004,6 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
-Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -2307,6 +2307,7 @@ SupaSoaka
 SupaSoaka 2
 Super Channel Hearties
 Super Mario Brothers
+Super Simple Songs
 SuperToons TV (UK)
 Supermarket Sweep
 Supermarket Sweep (CA)
@@ -2500,6 +2501,7 @@ Top Movies - Rakuten TV (UK)
 Torque (USA)
 Tortues Ninja TV
 Tosh.0
+Total Crime
 Totally Turtles
 Touched by an Angel
 Tough Jobs
@@ -2580,7 +2582,6 @@ Vive Kanal D Drama
 Vivian Taylor
 WAND Decatur IL
 WAOW Wausau WI
-WAPA+
 WAPA+ (USA)
 WDRB Louisville KY
 WE 102.9
@@ -2679,6 +2680,7 @@ Zoey Grey
 Zoey Reyes
 Zoey Uso
 Zona Investigación TV
+Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
 barbienjd
