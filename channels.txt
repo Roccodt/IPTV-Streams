@@ -174,6 +174,7 @@
 1825 Rev and Roll
 1845 Arthur
 1859 Pop UP
+1860 POP
 1861 Tiny POP
 1862 BABY SHARK TV
 1863 ducktv
@@ -219,7 +220,6 @@
 210 The Love Boat
 210 Universal Movies
 212 Free Movies Plus
-212 傲慢と偏見
 213 Corazón
 213 LG Channels Romance Showcase
 215 Inside Outside
@@ -272,8 +272,8 @@
 243 Movie Favorites by Lifetime
 244 Hersphere
 244 The Rifleman
+245 Love Wine
 245 The Good Wife
-246 Heartland
 247 Nip/Tuck
 248 Stories by AMC
 249 @K-MUSIC
@@ -473,7 +473,6 @@
 399 Court TV
 400 Nosey
 401 Confess by Nosey
-404 Food52
 404 The Judge Judy Channel
 405 TMZ
 408 America's Test Kitchen
@@ -556,7 +555,6 @@
 500 Naruto
 500 Rakuten Viki
 501 ROMCOM K-Drama
-501 The Pet Collective
 503 According To Jim
 504 Death Note
 505 GET Comedy
@@ -655,6 +653,7 @@
 703 Bizarre Foods with Andrew Zimmern
 703 Runtime Acción
 704 Adrenalina Pura TV
+704 MMA TV
 705 Pac12
 705 Sweet Escapes
 707 America\'s Test Kitchen
@@ -707,7 +706,6 @@
 809 Wipeout Xtra
 80s Rewind
 810 Lucha Plus
-810 TikTok Radio
 811 Crimen
 812 TuDiscovery
 813 Mythbusters
@@ -715,10 +713,10 @@
 815 Antiques Road Trip
 815 Aventura
 816 Hardcore Pawn
-816 Nothin' but the 90s
 817 Four in a Bed
 820 Bring It
 821 Little Women: LA
+822 Don\'t Tell The Bride
 823 Caso Cerrado
 823 Undercover Boss
 824 EstrellaTV
@@ -743,6 +741,7 @@
 859 Ice Road Truckers
 861 Sony KAL
 865 Wicked Tuna
+866 Don\'t Tell The Bride
 867 Four in a Bed
 868 Undercover Boss
 877 Life Down Under
@@ -751,7 +750,6 @@
 891 The Country Network
 892 COPS
 90's Kids
-901 TikTok Radio
 90s Kids TV 2
 90s Throwback
 92.7 FM Jam Central
@@ -867,6 +865,7 @@ Ancient Aliens
 Ancient Aliens (USA)
 Andromeda
 Angel
+Angelique (USA)
 Anger Management
 Anger Management Channel
 Animation+
@@ -925,7 +924,6 @@ BYUtv (USA)
 Baby Einstein (CA)
 Baby Einstein (USA)
 Baby Shark TV
-Babyfirst
 Bachelor Nation
 Backstage
 Backstage (USA)
@@ -960,6 +958,7 @@ Big 12 Studios (CA)
 Big 12 Studios (USA)
 Big Brother
 Biography: The Icons (USA)
+Bitten
 Bizaar
 Bizarre Foods with Andrew Zimmern
 Black Family Sitcoms
@@ -1035,6 +1034,7 @@ Caught on Tape (USA)
 Cece
 Chanel Heart
 Chanel Star
+Channel 5
 Chasing Criminals
 Cheaters
 Cheaters (USA)
@@ -1060,7 +1060,9 @@ Comatozze
 CombaTV
 Combat War Channel
 Combate Global MMA (CA)
+Combate Global MMA (USA)
 Come Dine With Me
+Come Dine With Me (UK)
 Come Dine with Me
 Comedy Central
 Comedy Central Animation
@@ -1068,7 +1070,6 @@ Comedy Central South Park
 Comedy Central en español
 Comedy Dynamics
 Comedy Dynamics (USA)
-Comedy Movies - Rakuten TV (UK)
 Comet
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
@@ -1090,7 +1091,6 @@ Creator Television
 Crime & Justice
 Crime & Justice (UK)
 Crime 24/7 (USA)
-Crime Beat TV
 Crime Scene TV
 Crime Scenes
 Crime ThrillHer (USA)
@@ -1133,7 +1133,6 @@ Deal Masters (UK)
 Deal Or No Deal
 Deal Zone (USA)
 Deal or No Deal
-Deal or No Deal (CA)
 Deal or No Deal (USA)
 Deal or No Deal US (UK)
 Deal or No Deal USA
@@ -1185,7 +1184,6 @@ Dove Channel (USA)
 Dr. G: Medical Examiner
 Dr. G: Medical Examiner (USA)
 Dr. Phil
-Dr. Phil's Merit TV
 DraftKings
 DraftKings Network
 DraftKings Network (USA)
@@ -1260,8 +1258,10 @@ FailArmy
 FailArmy (CA)
 FailArmy (UK)
 FailArmy (USA)
+Family - Rakuten TV (UK)
 Family Affair Channel
 Family Feud
+Family Feud (UK)
 Family Ties
 Family Ties (USA)
 Family Unscripted
@@ -1311,7 +1311,6 @@ Gem Jewels - BangBros
 Gem Jewels Tape
 Gem Jewels x Dredd
 Generation Drama
-Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
 Genie K-Movie (CA)
@@ -1340,13 +1339,13 @@ GoUSA TV (UK)
 Golazo Network
 Gordon Ramsay
 Gordon Ramsay's Hell's Kitchen
-Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
 Gravitas Movies (USA)
 Great British Menu
 Great British Menu (UK)
+Great! Movies (UK)
 Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
@@ -1625,6 +1624,7 @@ La Selección
 LaMúsica TV
 Laff More
 Laff More (USA)
+Las 3 MarÃ­as (USA)
 Las Tortugas Ninja
 Las Vegas
 Lashae
@@ -1681,6 +1681,7 @@ Love & Hip Hop (USA)
 Love & Marriage
 Love Nature
 Love Nature 4K (USA)
+Love Nature English
 Love Pets (UK)
 Love Pets (USA)
 Love The Planet
@@ -1699,6 +1700,7 @@ Luna Star & Kali Roses
 Luna Star Reality Kings
 Lunar Liv
 Luxe Fireplace Vibes (USA)
+M2
 MBN
 MBN ë‚˜ëŠ” ìžì—°ì¸ì´ë‹¤
 MBN ì†í’€ì´ì‡¼ ë™ì¹˜ë¯¸
@@ -1716,7 +1718,6 @@ MST3K
 MacGyver
 Maddison Black
 Made In Hollywood
-Made It Myself TV
 MagellanTV Wildest
 MagellanTV Wildest (USA)
 Mandy Muse
@@ -1818,7 +1819,6 @@ My Little Pony
 My Time Movie Network
 MyTime Movie Network (UK)
 MyTime Movie Network (USA)
-Mysteria
 Mysteries Xplored (USA)
 Mysterious Worlds
 Mystery TV
@@ -1906,6 +1906,7 @@ Novelísima
 Now 70's (UK)
 Now 70s
 Now 80's
+Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Now Rock
@@ -1924,7 +1925,6 @@ Ocean Dr
 Ocean Vibes (USA)
 On The Case
 One Piece
-One Worldwide Radio
 Operation Repo
 Operation Repo (USA)
 Out TV Proud
@@ -2031,6 +2031,7 @@ Property Brothers (CA)
 Property Brothers Channel
 Pure Flix TV
 Pursuit UP (USA)
+Pursuit Up
 PursuitUP
 PursuitUp
 Q93.3
@@ -2052,7 +2053,6 @@ REELZ Famous & Infamous (USA)
 RIG TV (USA)
 ROI TV
 ROMCOM K-Drama
-RVTV
 Rabbids Invasion (UK)
 Racing America
 Radio-Canada INFO
@@ -2073,6 +2073,7 @@ Real Housewives Vault
 Real Madrid
 Real Madrid TV
 Real Wild (UK)
+Reality - Rakuten TV (UK)
 Rebelde (USA)
 Red Bull TV
 Red Bull TV (UK)
@@ -2175,6 +2176,7 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
+Sci-Fi - Rakuten TV (UK)
 Scorpihoe
 Scream Factory TV
 Screambox TV
@@ -2196,6 +2198,7 @@ Shout! TV
 Shout! TV (USA)
 Sienna Grace
 Silent Witness and New Tricks
+Silent Witness|New Tricks
 Sin Tetas No Hay Paraíso
 Sinatra & Luna
 Sinatra Monroe
@@ -2213,6 +2216,8 @@ Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
 Smurf TV (UK)
+So Real
+So... Real
 Soma FM - The Trip
 Sonic TV
 Sonic The Hedgehog
@@ -2258,6 +2263,7 @@ Storage Wars: LA (USA)
 Stories by AMC
 Storm Vibes (USA)
 Story Television
+Strawberry Shortcake
 Strawberry Shortcake (UK)
 Strawberry Shortcake (USA)
 Strawberry Shortcake and Friends
@@ -2313,6 +2319,7 @@ TV Land Sitcoms (USA)
 TV One CRIME & JUSTICE FAST CHANNEL
 TV One Crime & Justice
 TV One Stars & Stories
+TVB Pearl Drama
 TVOAI Channel
 TVSN
 TVì¡°ì„  ë¯¸ìŠ¤í„°ë¡œë˜
@@ -2374,6 +2381,7 @@ The Ed Sullivan Show
 The Emeril Lagasse Channel
 The F.B.I.
 The FBI
+The FBI Files
 The First
 The First (USA)
 The First 48 (USA)
@@ -2403,13 +2411,13 @@ The New Detectives
 The New Detectives (USA)
 The Osbournes
 The Pet Collective
-The Pet Collective (CA)
 The Pet Collective (UK)
 The Pet Collective (USA)
 The Price Is Right
 The Price Is Right: The Barker Era
 The Price is Right
 The Price is Right: The Barker Era
+The Red Green Channel
 The Red Green Channel (CA)
 The Red Green Show
 The Rifleman
@@ -2417,7 +2425,6 @@ The Spa
 The Twilight Zone
 The UnXplained with William Shatner (USA)
 The Venture Bros.
-The Void
 The Walking Dead Universe
 The Walking Dead Universe (USA)
 The Walking Dead by AMC
@@ -2471,17 +2478,18 @@ Touched by an Angel
 Tough Jobs
 Trace UK (UK)
 Trace Urban (UK)
+Trailer Park Boys: The SwearNet Show
 Trailers From Hell
 Transformers
 Trapsweety
 Travel + Adventure
 Travel Escapes
+Tribeca Channel
 Trinity Broadcasting Network
 Trixi Brooks
 Trixie
 Trixie Venus
 TruBlu (USA)
-TruBlu Crime Channel
 True Crime Now (CA)
 True Crime UK
 True Crime UK (UK)
@@ -2499,6 +2507,7 @@ USA TODAY
 USA Today (USA)
 Ultimate Builds
 UnXplained Zone
+Unbeaten
 UniMás (WFUT)
 Unidentified (USA)
 Unique Lives
@@ -2575,6 +2584,8 @@ Waypoint TV
 Waypoint TV (CA)
 Waypoint TV (USA)
 WaypointTV
+Wedotv Amor Piel Salvaje
+Weeds & Nurse Jackie
 Weeds / Nurse Jackie
 Welcome Home
 Wendy Williams
@@ -2613,6 +2624,7 @@ World War TV
 World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
+Wu Tang Collection
 X102.3
 Xena
 Xena Warrior Princess
@@ -2641,7 +2653,6 @@ Zen Mami
 Zoey Grey
 Zoey Reyes
 Zoey Uso
-Zona Investigación TV
 Zona TUDN (USA)
 ZooMoo (USA)
 babycotton99
@@ -2686,7 +2697,6 @@ yurfavdream
 ÚN TV
 ê°€ìš°ìŠ¤ì „ìž
 ê³ ë…í•œ ë¯¸ì‹ê°€
-êµ¬í•„ìˆ˜ëŠ” ì—†ë‹¤
 ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
@@ -2700,23 +2710,18 @@ yurfavdream
 ë‚˜ëŠ” ì†”ë¡œ
 ë‚˜ì˜ í•´ë¦¬ì—ê²Œ
 ì „ìš°ì¹˜
-ì±„ë„A ë‚˜ë§Œ ë¯¿ê³  ë”°ë¼ì™€ ë„ì‹œì–´ë¶€
 ì±„ë„A ì´ì œ ë§Œë‚˜ëŸ¬ ê°‘ë‹ˆë‹¤
 ì´ˆë¡ë±€ë¯¸ë””ì–´ K-STAR ê³¨í”„
-ì½”ë‚œ ì˜¤ë¸Œë¼ì´ì–¸ ì‡¼
 ì½”ì½”ë¹„TV
 ìœ ì–´ ì•„ë„ˆ
-ìŠ¤í¬ë¦°ê³¨í”„ì¡´
-ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
-ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
+ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
 í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
-íˆ¬ë‹ˆë²„ìŠ¤ ëª…íƒì • ì½”ë‚œ (ìžë§‰)
 íˆ¬ë‹ˆë²„ìŠ¤ ì§±êµ¬ëŠ” ëª»ë§ë ¤
 í˜„ëŒ€í™ˆì‡¼í•‘
 í˜„ëŒ€í™ˆì‡¼í•‘+Shop
