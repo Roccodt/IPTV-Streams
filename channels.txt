@@ -58,7 +58,6 @@
 1281 Sabrina The Teenage Witch
 1295 ROMCOM K-Drama
 1298 Fifth Gear
-1299 Motorvision
 1302 INFAST
 1306 The Chat Show
 1308 Hot Ones
@@ -735,7 +734,6 @@
 868 Undercover Boss
 877 Life Down Under
 878 Bondi Vet
-891 JAIL
 891 The Country Network
 92.7 FM Jam Central
 92.9 WDUP
@@ -744,6 +742,7 @@
 95.7 Jamz
 96.1 The Beat
 97.9 The Beat
+99 Jams
 999 LG Channels Showcase
 <ì‹ ë³‘> ì •ì£¼í–‰
 ACC Digital Network
@@ -767,6 +766,7 @@ Action Movies - Rakuten TV (UK)
 Adriana Maya
 Adriana Maya 2
 Adult Swim Daily Animated
+Adult Swim Infomercials
 Adult Swim Last Stream On The Left
 Adult Swim Loiter Squad
 Adult Swim Off The Air
@@ -799,6 +799,7 @@ AdultIPTV.net Russian
 AdultIPTV.net Teen
 AdultIPTV.net Threesome
 Adventure Earth (UK)
+Advore
 AfroLandTV
 Alanna Pow
 Alfred Hitchcock Presents
@@ -816,9 +817,11 @@ All Weddings We TV (USA)
 All-Out Reality (USA)
 Alone By History (USA)
 Alternative
+Alva Jay
 Always Funny
 Always Funny Videos
 Always Funny Videos (USA)
+Amanda Nicole
 Amasian TV
 America's Got Talent
 America's Got Talent (UK)
@@ -857,8 +860,12 @@ Arabelle Raphael & Azzy Star
 Are We There Yet
 Are We There Yet?
 Are We There Yet? (UK)
+Ari Alectra
+Ari Kytsya & Camilla Araujo
+Aria Six
 Ariana Aimes
 Arizona's Family
+Ashanti
 Asian Drama
 AsianCrush
 Assyrian
@@ -990,6 +997,7 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
+Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Confess by Nosey
@@ -1179,7 +1187,6 @@ Free Movies Plus
 FrightFlix
 Funsized Megan & Zoey Uso
 GUSTOTV
-Galanes (USA)
 Game & Fish TV
 Game & Fish TV (USA)
 Game Show Central
@@ -1199,7 +1206,6 @@ Genie K-Drama (USA)
 Genie K-Movie (CA)
 Genie K-Movie (UK)
 Genie K-Movie (USA)
-Genie Movie
 Genie ì•¡ì…˜íŠ¹ì„
 Get.Factual
 Get.Factual (UK)
@@ -1217,6 +1223,7 @@ Go Wild
 GoTraveler
 GoUSA TV (UK)
 Gordon Ramsay
+Got Radio - Soul Kitchen OGs Hip Hop R&B
 Goth Girl
 Gravitas Movies
 Gravitas Movies (CA)
@@ -1269,7 +1276,6 @@ Highway Thru Hell : Powered by Banijay (UK)
 Highway To Heaven
 Highway to Heaven
 Hip-Hop/R&B
-HipHop95
 Historia (USA)
 History & Warfare (CA)
 History & Warfare Now
@@ -1385,6 +1391,7 @@ Jada Stevens 2
 Jada Stevens 3
 Jade Fever
 Jadeteen
+Jamie Kennedy Comedy
 Jamie Oliver (USA)
 Jayda
 Jayla Page
@@ -1418,7 +1425,6 @@ K-ASMR
 K-POP by CJ ENM (CA)
 K-POP by CJ ENM (UK)
 K-POP by CJ ENM (USA)
-K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
@@ -1484,6 +1490,7 @@ Law & Crime
 Law & Crime (USA)
 Law & Order
 Law&Crime
+Law&Crime (CA)
 Lawless by Lionsgate
 Leahndra
 Leave It to Beaver
@@ -1492,6 +1499,7 @@ Les DÃ©batteurs de Noovo (CA)
 Let's Make a Deal
 LexLaFlame
 Lidia's Kitchen
+Life with Derek
 Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies Love & Drama (USA)
@@ -1534,6 +1542,8 @@ Luh Thick
 Luna
 Luna 2
 Luna Baby
+Luna Luxe
+Luna Star
 Luna Star & Kali Roses
 Luna Star Reality Kings
 Lunar Liv
@@ -1544,6 +1554,7 @@ MBN ë‚˜ëŠ” ìžì—°ì¸ì´ë‹¤
 MBN ì†í’€ì´ì‡¼ ë™ì¹˜ë¯¸
 MBN íœ´ë¨¼ë‹¤í ì‚¬ë…¸ë¼ë©´
 MF
+MFF
 MHz Mysteries (USA)
 MHz Now
 MHz Now (CA)
@@ -1634,7 +1645,6 @@ My Little Pony
 My Time Movie Network
 MyTime Movie Network (UK)
 MyTime Movie Network (USA)
-Mysteria
 Mysteries Xplored (USA)
 Mysterious Worlds
 Mystery TV (UK)
@@ -1707,7 +1717,6 @@ Novelisima
 Novelísima
 Now 70's (UK)
 Now 70s
-Now 80s
 Now 80s (UK)
 Now 90's & 00's (UK)
 Nympho Candy
@@ -1859,7 +1868,6 @@ Real Madrid
 Real Madrid TV
 Real Wild (UK)
 Reality - Rakuten TV (UK)
-Rebelde (USA)
 Red Bull TV
 Red Bull TV (UK)
 Reelz Famous and Infamous
@@ -1976,7 +1984,6 @@ SlimAT
 Slugterra (USA)
 Smooth Jazz
 Smooth Jazz 88.9
-Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
@@ -2030,6 +2037,7 @@ Supermarket Sweep
 Supermarket Sweep (CA)
 Supermarket Sweep (USA)
 Supernatural Drama
+Surf Now TV
 Surfer
 Survivor
 Survivor (UK)
@@ -2148,6 +2156,7 @@ The Pet Collective
 The Pet Collective (UK)
 The Pet Collective (USA)
 The Price Is Right: The Barker Era
+The Price is Right
 The Price is Right: The Barker Era
 The Red Green Channel
 The Red Green Channel (CA)
@@ -2264,7 +2273,6 @@ Vive Kanal D Drama
 Vivian Taylor
 WAOW Wausau WI
 WAPA+ (USA)
-WDRB Louisville KY
 WE 102.9
 WFTV Orlando
 WGCI-FM 107.5
@@ -2394,6 +2402,7 @@ yurfavdream
 ê¸€ë¡œë²Œ ë‰´ìŠ¤ by LeadStory
 ê¹€ì°½ì˜¥ì‡¼ ëª°ì•„ë³´ê¸°
 ë¡œë³´ì¹´í´ë¦¬ TV
+ë§ˆë‹¹ì´ ìžˆëŠ” ì§‘
 ë§›ìžˆëŠ” ë…€ì„ë“¤
 ë°”ì˜¤íŒ¨ë°€ë¦¬
 ë¹ ë‹ˆë³´í‹€
@@ -2413,12 +2422,10 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
-ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
 ì„œìš¸ê²½ì œTV
 ì•¼í•œ ì‚¬ì§„ê´€
-í¬ì¼“ëª¬
 íž™ìœ¼ëœ¸
 íˆ¬ë‹ˆë²„ìŠ¤ ëª…íƒì • ì½”ë‚œ (ìžë§‰)
 íˆ¬ë‹ˆë²„ìŠ¤ ì§±êµ¬ëŠ” ëª»ë§ë ¤
