@@ -11,7 +11,6 @@
 102 The Pet Collective
 104 Dance Moms
 105 50 Cent Action
-105 Super Channel Uncovered
 106 America\'s Got Talent
 106 KMEL
 107 Bravo Vault
@@ -37,27 +36,20 @@
 1136 Drama Movies - Rakuten TV
 1150 Grjngo - Western Movies
 116 Telediario Now
-1165 NEW KMOVIES
 117 C4 en Alerta
 120 TeleFórmula
 1205 Sony One | Thriller TV
 1206 Sony One | Comedy TV
 1207 Sony One | FAVES
 1210 Mr.Bean Live
-1220 Northern Exposure
-1230 Xena Warrior Princess
-1231 Hercules
 1233 The Incredible Hulk
 1235 The Bionic Woman
-1238 Ironside
 123GO!
 1240 More TV Sci-fi
 1245 Dynasty
 1260 Anger Management
 1261 Are We There Yet?
 1281 Sabrina The Teenage Witch
-1295 ROMCOM K-Drama
-1298 Fifth Gear
 1302 INFAST
 1306 The Chat Show
 1308 Hot Ones
@@ -81,10 +73,8 @@
 1425 Sony One | Dragons\' Den
 143 Canal 6 CDMX
 1431 Great British Menu
-1433 The Real Housewives
 1434 LITTLE WOMEN: LA
 1436 The Biggest Loser
-1438 Million Dollar Listing
 1439 Hoarders
 144 CANAL 6 Monterrey
 1440 Intervention
@@ -115,7 +105,6 @@
 1471 Haunt TV
 1472 Most Haunted
 1473 A Haunting
-150 K-ASMR
 151 CBC Toronto
 1510 Autentic Travel
 1511 Travelxp
@@ -132,7 +121,6 @@
 1561 Real Wild
 1562 Terra Mater WILD
 1563 Evolution Earth
-1564 Go Wild
 1565 Earth Touch TV
 1566 wildearth
 1567 Adventure Earth
@@ -142,7 +130,6 @@
 1570 EarthDay 365
 1574 Get.factual
 1575 Wedo big stories
-1577 Royalworld - Nobility & Dynasties
 1580 World War TV
 1581 History Hunters
 1583 Autentic History
@@ -161,29 +148,17 @@
 1642 Trace Stars
 165 60 Minutes
 167 TODAY All Day
-1801 Sonic The Hedgehog
-1802 Super Mario Brothers
-1803 Slugterra
 1809 Mr.Bean
 1814 Yu-Gi-Oh
-1820 Strawberry Shortcake
 1821 Rainbow Ruby
-1825 Rev and Roll
 1845 Arthur
 1859 Pop UP
 1860 POP
 1861 Tiny POP
 1862 BABY SHARK TV
 1863 ducktv
-1895 TAYO+
-1897 Kongsuni
-1898 TOBOT
-1899 Robocar POLI
 1920 Qwest TV
 1925 TRACE URBAN
-1930 @K-MUSIC
-1931 SBS Inkigayo
-1932 YG TV
 1940 Now 70s
 1941 Now 80s
 195 CTV Laughs
@@ -193,7 +168,6 @@
 199 Anger Management
 1999 LG 1 +1
 200 FailArmy
-200 YTN
 201 ION
 201 OUTDOOR TV
 201 South Park
@@ -205,8 +179,6 @@
 205 AWE Plus
 205 Awe plus
 205 Frasier
-205 Unsolved Mysteries
-206 Forensic Files
 207 Autentic Travel
 208 Three's Company
 208 Travelxp
@@ -215,7 +187,6 @@
 21 Jump Street
 21 Jump Street (USA)
 210 The Love Boat
-210 Universal Movies
 212 Free Movies Plus
 213 Corazón
 213 LG Channels Romance Showcase
@@ -228,13 +199,11 @@
 217 WFN
 218 Vive Kanal D Drama
 219 Dog The Bounty Hunter
-220 Forensic Files
 220 InTrouble HD
 220 Paramount Movie Channel
 221 InFast-Lifestyle HD
 221 Infast-Lifestyle-HD
 221 Shout! Movies
-221 Unsolved Mysteries
 222 The Beverly Hillbillies
 223 Baywatch
 224 GET
@@ -249,7 +218,6 @@
 232 Gusto TV
 232 MasterChef
 233 Hells Kitchen
-234 It\'s Showtime at the Apollo
 235 Are We There Yet
 236 Love Thy Neighbor
 237 El Encantador de Perros
@@ -270,22 +238,16 @@
 245 The Good Wife
 247 Nip/Tuck
 248 Stories by AMC
-249 @K-MUSIC
 25 Words or Less
 250 Amasian TV
-251 NEW KPOP
 252 Screambox TV
-255 NEW KFOOD
-255 Super Channel Hearties
 256 Scares by Shudder
 257 Outersphere
-258 Alfred Hitchcock Presents
 258 Moviesphere
 259 Universal Monsters
 260 The Asylum
 262 Star Trek
 262 Tribeca
-263 The Rifleman
 265 Lone Star
 268 Western Bound Wrangled by INSP
 269 Grit Xtra
@@ -297,25 +259,22 @@
 274 Mysterious Worlds
 274 The Andy Griffith Show
 275 MythBusters
-276 It's Showtime at the Apollo
 276 MagellanTV Now
 277 Curiosity Now
 278 Modern Innovations
 279 Declassified
-279 Untold Stories of the ER
 280 Dr. G: Medical Examiner
 280 The Incredible Dr Pol
-281 Cheaters
 281 PBS Genealogy
 282 Confess by Nosey
 282 Historian
 283 Dance Moms
 283 Nosey
-284 Hell's Kitchen
 284 Say Yes to the Dress
 285 MasterChef
 285 Matched Married Meet
 286 Deal Zone
+288 Bar Rescue
 288 CTV Gridlock
 289 Love & Hip Hop
 289 MagellanTV Now
@@ -327,7 +286,6 @@
 293 Beyond History
 293 Real Housewives Vault
 294 Curiosity Now
-295 Million Dollar Listing Vault
 295 Modern Marvels
 296 E! Keeping Up
 297 Spooks (MI-5)
@@ -336,7 +294,6 @@
 298 Matlock
 299 Dog Whisperer with Cesar Millan
 299 Walker Texas Ranger
-300 BABY SHARK TV
 300 Diagnosis Murder
 300 Xtreme Outdoor Presented by HISTORY
 301 Baywatch
@@ -369,7 +326,6 @@
 313 Wipeout Xtra
 314 Electric Now
 314 Fear Factor
-315 NEW KMOVIES
 315 Supermarket Sweep
 316 Beverly Hills 90210
 317 Haunt TV
@@ -388,7 +344,6 @@
 327 5 Minutes Craft
 327 The Price Is Right
 328 Game Show Central
-329 Family Feud
 330 Deal or No Deal
 331 Project Runway
 331 Wipeout Xtra
@@ -418,26 +373,15 @@
 358 Crunchyroll
 359 ANIME x HIDIVE
 361 Anime 24/7
-361 SBS K-drama
-362 ROMCOM K-Drama
-363 Graceful Family
-364 Devilish Joy
-365 My Secret Romance
 368 Tastemade en Español
-370 Boys Over Flowers
-371 My Sassy Girl
 372 Las Vegas
-372 The Heirs
 373 5-Minute Crafts
 373 Lawless
-374 NEW KFOOD
 374 Nash Bridges
-375 Cinderella and Four Knights
-375 Universal Crime
-376 Buen Viaje
 377 Crime ThrillHer
 378 FashionTV
 379 Mi Coche Clásico
+379 Mission Impossible
 380 ION Mystery
 381 CSI: NY
 382 American Crimes
@@ -446,13 +390,9 @@
 385 I (Almost) Got Away with It
 385 Nature Time
 386 Dog The Bounty Hunter
-386 Naturaleza
 388 Curiosity Explora International
 389 Dateline 24/7
-389 TIME
 390 48 Hours
-392 K-ASMR
-393 World\'s Most Evil Killers
 394 Cold Case Files
 395 Live PD Presents
 397 COPS
@@ -470,7 +410,6 @@
 412 Kitchen Battles
 414 ITV Deportes
 420 FUEL TV
-430 BABY SHARK TV
 431 Bob Esponja Pantalones Cuadrados
 433 Nickelodeon Clásico
 435 Los Padrinos Mágicos
@@ -478,11 +417,8 @@
 437 Nick Jr. Club
 438 Hey Arnold!
 439 Barney
-440 Robocar POLI
-441 Cocobi
 443 123 GO!
 443 NHL
-450 NatureVision
 450 T2
 450 TraceUrban
 451 Trace Latina
@@ -491,9 +427,6 @@
 454 WildEarth
 455 Evolution Earth
 455 Overtime
-458 Now90s00s
-459 Now90s00s
-460 essential;
 465 Power Nation
 466 The Bob Ross Channel
 471 DAZN Ringside
@@ -514,7 +447,6 @@
 488 UEFA Champions League
 489 CBC Radio Canada
 489 Pickleball TV
-490 My Little Pet
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
@@ -544,15 +476,12 @@
 504 Death Note
 505 GET Comedy
 505 Naruto Shippuden
-506 Cocobi
 506 Hunter x Hunter
 507 Captain Tsubasa
 507 Family Ties
-507 Robocar POLI
 508 Kongsuni
 508 Three\'s Company
 509 Cheers + Frasier
-509 TOBOT
 510 Teenvee
 511 Arthur
 511 NEW KPOP
@@ -566,28 +495,20 @@
 524 Comedy Plus
 525 Mr.Bean
 536 NEW KFOOD
-561 YG TV
 562 NEW KPOP
 566 Qwest TV
-574 @K-MUSIC
-575 Show Champion
-576 TikTok Radio en Español
 590 SpongeBob SquarePants
 591 NickToons
 593 Sonic The Hedgehog
-595 Fireman Sam
-596 Strawberry Shortcake
 597 BABY SHARK TV
 599 Super Simple Songs
 60 Minutes
 600 Baby Einstein
-600 essential;
 602 Camino al cielo
 602 TOTALLY TURTLES
 603 Kids TV
 603 Peppa Pig
 604 Super Simple Songs
-606 Baby Einstein
 606 Los archivos del FBI
 607 BABY SHARK TV
 608 Cazador de Homicidas
@@ -596,34 +517,20 @@
 609 Sonic The Hedgehog
 610 Historias de Ultratumba
 611 Autentic History
-611 Rainbow Ruby
 611 The New Detectives
 612 Misterios sin Resolver
-612 Strawberry Shortcake
 613 Misterios Medicos
 614 PBS Retro
-622 El Peso del Amor
 622 History Hit
 625 PBS History
-626 Big
 626 PBS Science
 627 Garfield and Friends
 627 Modern Marvels
 627 The Heirs
-628 Amor Secreto
-629 Hwarang: La Juventud del Guerrero Poeta
 630 BRAT TV
-630 La luz en tus ojos
-631 My Secret Romance
-632 While You Were Sleeping
-633 Boys Over Flowers
-634 Cinderella and Four Knights
-635 ROMCOM K-Drama
 642 InWonder HD
 648 Wonder
 650 FailArmy
-651 Las Mejores Bromas
-652 My Little Pet
 653 We Play
 670 Real Crime
 671 Crime 360
@@ -658,11 +565,8 @@
 726 Strongman Champions League
 728 Estrellas de Acción
 732 Real Madrid
-735 Dark Matter TV Mexico
-737 Todo Crimen
 738 Runtime Crimen
 741 Trace Stars
-743 NEW KMOVIES
 743 Red Bull TV
 744 Filmelier TV Vida Real
 745 Runtime Comedia
@@ -671,7 +575,6 @@
 752 WildEarth
 753 Love Nature
 754 PBSNature
-756 NatureVision
 758 Homeful
 759 At Home with Family Handyman
 760 Tiny House Nation
@@ -765,12 +668,9 @@ Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
 Adriana Maya 2
-Adult Swim Daily Animated
-Adult Swim Infomercials
 Adult Swim Last Stream On The Left
 Adult Swim Loiter Squad
 Adult Swim Off The Air
-Adult Swim Robot Chicken
 Adult Swim Samurai Jack
 Adult Swim The Eric Andre Show
 AdultIPTV.net Anal
@@ -790,6 +690,7 @@ AdultIPTV.net Hardcore
 AdultIPTV.net Interracial
 AdultIPTV.net Latina
 AdultIPTV.net Lesbian
+AdultIPTV.net Live Cams
 AdultIPTV.net MILF
 AdultIPTV.net POV
 AdultIPTV.net Pornstar
@@ -840,7 +741,6 @@ Ancient Aliens
 Ancient Aliens (USA)
 Andromeda
 Angel
-Angelique (USA)
 Anger Management
 Anger Management Channel
 Animation+
@@ -881,7 +781,6 @@ At Home with Family Handyman (USA)
 At the Movies
 Auction Hunters
 Auhneesh
-Autopista al Cielo
 Autumn Falls
 Avatar
 Avatar: La Leyenda de Aang
@@ -968,7 +867,6 @@ BritBox Mysteries (USA)
 Britbox Mysteries
 Brittany Kaye
 Bromas Gags - Just for Laughs
-Buen Viaje
 Busted at the Border
 C4 en Alerta
 CBC Comedy (CA)
@@ -1013,6 +911,7 @@ Chanel Star
 Chasing Criminals
 Cheaters
 Cheaters (USA)
+Cheaters en Español
 Cheddar
 Cheers
 Cheers + Frasier
@@ -1044,6 +943,7 @@ Comedy Dynamics
 Comedy Dynamics (USA)
 Comedy Movies - Rakuten TV (UK)
 Comet
+Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
 Concert Channel
@@ -1269,7 +1169,6 @@ FrightFlix
 Funny AF
 Funsized Megan & Zoey Uso
 GUSTOTV
-Galanes (USA)
 Game & Fish TV
 Game & Fish TV (USA)
 Game Show Central
@@ -1284,6 +1183,7 @@ Gem Jewels - BangBros
 Gem Jewels Tape
 Gem Jewels x Dredd
 Generation Drama
+Genie K-Drama (CA)
 Genie K-Drama (UK)
 Genie K-Drama (USA)
 Genie K-Movie (CA)
@@ -1323,6 +1223,7 @@ Great! romance (UK)
 Grit Xtra
 Grit Xtra (USA)
 Grjngo (USA)
+Grjngo - Películas Del Oeste
 Grjngo - Western Movies
 Grjngo - Western Movies (UK)
 Growing Up Hip Hop WeTV
@@ -1406,12 +1307,12 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
+Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
 Hot Country
 Hot Ones
-Hot Ones (UK)
 Hot Ones (USA)
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
@@ -1438,6 +1339,7 @@ ION Plus (USA)
 ITV Deportes
 Ice Pilots
 Ice Pilots NWT
+Ice Pilots NWT (en español)
 Ice Road Truckers (UK)
 Ice Road Truckers (USA)
 Icon Film Channel (UK)
@@ -1453,7 +1355,6 @@ InWonder (CA)
 InWonder (USA)
 Income Property
 Indie SF Radio
-Indie X FM
 Ink Master
 Inside Crime
 Inside Crime (UK)
@@ -1464,6 +1365,7 @@ Intervention (UK)
 Inuyasha
 Investiga
 Iron Chef
+Iron Chef en español
 Ishues
 Island Vibes (USA)
 It's Showtime at the Apollo
@@ -1501,6 +1403,7 @@ Jayla Page
 Jaymee Green
 Jazz
 Jazz 2
+Jazz 88.3
 JazzTheStallion
 JazzTheStallion 2
 Jenni Angel
@@ -1529,14 +1432,9 @@ Just for Laughs TV
 K-ASMR
 K-POP by CJ ENM (CA)
 K-POP by CJ ENM (UK)
-K-POP by CJ ENM (USA)
-K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
-KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
-KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
-KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
 KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
@@ -1587,6 +1485,7 @@ LOL Network
 LOL! Network (USA)
 LUCHA PLUS
 La Familia del Barrio
+La Fiebre del Jade
 La Selección
 LaMúsica TV
 Laff More
@@ -1700,12 +1599,11 @@ Maya Bijou
 Mayday: Air Disaster (UK)
 McLeod's Daughters
 McLeods Daughters
-MeatEater (USA)
 Mecum TV
 Medical Detectives
 Melztube
-Metalocalypse
 Mexicuban & Greedy Grove
+Mi Casa
 Mi Coche Clásico
 Midnight Pulp
 Midnight Pulp (CA)
@@ -1822,6 +1720,7 @@ Nash Bridges
 Nash Bridges Channel
 Nashville
 National Lampoon (USA)
+Naturaleza
 Naturaleza Salvaje
 Nature Moments
 NatureTime
@@ -1881,12 +1780,10 @@ OGN ìŠ¤íƒ€ë¦¬ê·¸
 OK Gamer
 ONE Championship TV
 OUTtv Proud
-OUTtv Proud (CA)
 OUTtv Proud (USA)
 Obsesión por los Autos
 Ocean Dr
 Ocean Vibes (USA)
-Old West TV
 On The Case
 One Piece
 Operation Repo
@@ -1938,7 +1835,6 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
-Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -1959,7 +1855,6 @@ Pink Kitty
 Pink Kitty 2
 Pitufo TV
 Places & Spaces
-Plated (USA)
 Plato del Dia by elGourmet
 Pocoyo (UK)
 Pointless UK: 'Powered by Banijay' (UK)
@@ -2010,10 +1905,12 @@ Qwest TV
 RACER Select
 RACER Select (USA)
 RCM
+RCN Más
 REELZ Famous & Infamous
 REELZ Famous & Infamous (USA)
 RIG TV (USA)
 ROI TV
+ROMCOM K-Drama
 RVTV
 Rabbids Invasion (UK)
 Racing America
@@ -2036,8 +1933,8 @@ Real Madrid
 Real Madrid TV
 Real Wild (UK)
 Reality - Rakuten TV (UK)
+Rebelde (USA)
 Red Bull TV
-Red Bull TV (UK)
 Reelz Famous and Infamous
 Regina Luv
 Relic Hunter
@@ -2076,7 +1973,6 @@ Roxie Sinner
 Rue Lynn
 Rugrats
 Runtime
-Runtime Español
 Runtime Sangre Fría
 Rustic Retreats
 Ruth Lee
@@ -2150,7 +2046,6 @@ Serenity
 Shades of Black
 Shades of Black (USA)
 Shawna Lynn
-She Wrote
 Shemaroo Bollywood
 Sheriffs: El Dorado County
 ShopLC
@@ -2159,6 +2054,7 @@ Shout! TV
 Shout! TV (USA)
 Sienna Grace
 Silent Witness and New Tricks
+Silent Witness|New Tricks
 Sin Tetas No Hay Paraíso
 Sinatra & Luna
 Sinatra Monroe
@@ -2171,11 +2067,13 @@ Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
 Smooth Jazz 88.9
+Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
 Smurf TV (UK)
 So Real
+So... Real
 Soma FM - The Trip
 Sonic TV
 Sonic The Hedgehog
@@ -2300,7 +2198,9 @@ Team Liquid (USA)
 Team USA TV
 Teen Mom
 Tekken 8
+TeleFórmula
 Telediario Now
+Teleonce America
 Terra Mater WILD (UK)
 Tessa Thomas
 Texas
@@ -2376,9 +2276,9 @@ The Rifleman
 The Spa
 The Twilight Zone
 The UnXplained with William Shatner (USA)
-The Venture Bros.
 The Walking Dead Universe
 The Walking Dead Universe (USA)
+The Walking Dead by AMC
 The Walking Dead en español
 The Wicked Tuna Channel
 The Wicked Tuna Channel (UK)
@@ -2392,6 +2292,7 @@ Three's Company
 Thrillers 365
 Tiffany & HMR
 TikTok Radio
+TikTok Radio en Español
 Tim and Eric Awesome Show
 Tiny House Nation
 Tiny House Nation (CA)
@@ -2403,7 +2304,9 @@ Tipping Point (UK)
 Today All Day
 Today's Homeowner
 Today's K-Pop
+Todo Crimen
 Todo Novelas Más Pasiones
+Tokusato
 Tommy King
 Toni Camille
 Tony Robbins Network
@@ -2476,6 +2379,7 @@ Urban Action Channel
 V101
 VH1 Queens of Reality
 VICE (USA)
+VR+
 Vanessa & Kiki
 Vanessa Bohorquez
 Vanessa The Coach
@@ -2571,7 +2475,6 @@ X102.3
 Xena
 Xena Warrior Princess
 Xploration Station
-Xplore
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY
 Xtreme Outdoor Presented by HISTORY (USA)
@@ -2662,7 +2565,6 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
-ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
 ì„œìš¸ê²½ì œTV
