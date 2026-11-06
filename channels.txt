@@ -11,7 +11,6 @@
 102 The Pet Collective
 104 Dance Moms
 105 50 Cent Action
-106 America\'s Got Talent
 106 KMEL
 107 Bravo Vault
 108 Amasian TV
@@ -42,14 +41,13 @@
 1206 Sony One | Comedy TV
 1207 Sony One | FAVES
 1210 Mr.Bean Live
-1238 Ironside
+1220 Northern Exposure
 123GO!
 1240 More TV Sci-fi
 1245 Dynasty
 1260 Anger Management
 1261 Are We There Yet?
 1281 Sabrina The Teenage Witch
-1295 ROMCOM K-Drama
 1302 INFAST
 1306 The Chat Show
 131 TYT
@@ -65,8 +63,6 @@
 140 WFN
 1409 So...Real
 1417 True Crime UK
-1421 Crime Scene TV
-1422 Inside Crime
 1423 Antiques Road Trip
 1424 Deal Masters
 1425 Sony One | Dragons\' Den
@@ -80,8 +76,8 @@
 1442 Dog The Bounty Hunter
 1443 The Wicked Tuna
 1444 Ice Road Truckers
+1445 Duck Dynasty
 1446 Ax Men
-1447 Timber Kings
 1448 I Survived
 1452 Catfish
 1453 Geordie Shore
@@ -118,6 +114,7 @@
 1541 AWE Plus
 1561 Real Wild
 1563 Evolution Earth
+1564 Go Wild
 1565 Earth Touch TV
 1566 wildearth
 1567 Adventure Earth
@@ -147,7 +144,7 @@
 1802 Super Mario Brothers
 1809 Mr.Bean
 1814 Yu-Gi-Oh
-1821 Rainbow Ruby
+1820 Strawberry Shortcake
 1845 Arthur
 1859 Pop UP
 1860 POP
@@ -156,7 +153,6 @@
 1863 ducktv
 1920 Qwest TV
 1925 TRACE URBAN
-1940 Now 70s
 1941 Now 80s
 195 CTV Laughs
 196 GET Comedy
@@ -176,7 +172,7 @@
 205 AWE Plus
 205 Awe plus
 205 Frasier
-206 Forensic Files
+205 Unsolved Mysteries
 207 Autentic Travel
 208 Three's Company
 208 Travelxp
@@ -233,7 +229,6 @@
 242 Lone Star
 243 Movie Favorites by Lifetime
 244 Hersphere
-244 The Rifleman
 245 Love Wine
 245 The Good Wife
 247 Nip/Tuck
@@ -260,6 +255,7 @@
 274 Mysterious Worlds
 274 The Andy Griffith Show
 275 MythBusters
+276 It's Showtime at the Apollo
 276 MagellanTV Now
 277 Curiosity Now
 278 Modern Innovations
@@ -271,6 +267,7 @@
 282 Historian
 283 Dance Moms
 283 Nosey
+284 Hell's Kitchen
 284 Say Yes to the Dress
 285 MasterChef
 285 Matched Married Meet
@@ -345,6 +342,7 @@
 327 5 Minutes Craft
 327 The Price Is Right
 328 Game Show Central
+329 Family Feud
 330 Deal or No Deal
 331 Project Runway
 331 Wipeout Xtra
@@ -372,14 +370,12 @@
 358 Crunchyroll
 359 ANIME x HIDIVE
 361 Anime 24/7
-362 ROMCOM K-Drama
-364 Devilish Joy
 368 Tastemade en Español
+370 Boys Over Flowers
 372 Las Vegas
 373 5-Minute Crafts
 373 Lawless
 374 Nash Bridges
-375 Cinderella and Four Knights
 375 Universal Crime
 377 Crime ThrillHer
 378 FashionTV
@@ -387,17 +383,15 @@
 379 Mission Impossible
 380 ION Mystery
 381 CSI: NY
-382 American Crimes
 383 First 48
 384 Oxygen True Crime Archives
 385 I (Almost) Got Away with It
 385 Nature Time
 386 Dog The Bounty Hunter
-386 Naturaleza
 388 Curiosity Explora International
 389 Dateline 24/7
+389 TIME
 390 48 Hours
-393 World\'s Most Evil Killers
 394 Cold Case Files
 395 Live PD Presents
 397 COPS
@@ -453,7 +447,6 @@
 488 UEFA Champions League
 489 CBC Radio Canada
 489 Pickleball TV
-490 My Little Pet
 491 Inwild
 491 Strongman Champions League
 491 The Pet Collective
@@ -483,12 +476,12 @@
 504 Death Note
 505 GET Comedy
 505 Naruto Shippuden
+506 Cocobi
 506 Hunter x Hunter
 507 Captain Tsubasa
 507 Family Ties
 508 Three\'s Company
 509 Cheers + Frasier
-509 TOBOT
 510 Teenvee
 511 Arthur
 511 NEW KPOP
@@ -503,14 +496,14 @@
 536 NEW KFOOD
 562 NEW KPOP
 566 Qwest TV
-574 @K-MUSIC
 576 TikTok Radio en Español
 590 SpongeBob SquarePants
 591 NickToons
-595 Fireman Sam
+593 Sonic The Hedgehog
 597 BABY SHARK TV
 599 Super Simple Songs
 60 Minutes
+600 Baby Einstein
 602 TOTALLY TURTLES
 603 Kids TV
 603 Peppa Pig
@@ -526,16 +519,17 @@
 612 Misterios sin Resolver
 613 Misterios Medicos
 614 PBS Retro
+622 El Peso del Amor
 622 History Hit
 625 PBS History
 626 PBS Science
 627 Garfield and Friends
 627 Modern Marvels
 630 BRAT TV
+634 Cinderella and Four Knights
 642 InWonder HD
 648 Wonder
 650 FailArmy
-651 Las Mejores Bromas
 670 Real Crime
 671 Crime 360
 699 DAZN TV
@@ -569,7 +563,7 @@
 726 Strongman Champions League
 728 Estrellas de Acción
 732 Real Madrid
-737 Todo Crimen
+735 Dark Matter TV Mexico
 738 Runtime Crimen
 741 Trace Stars
 743 Red Bull TV
@@ -580,7 +574,6 @@
 752 WildEarth
 753 Love Nature
 754 PBSNature
-756 NatureVision
 758 Homeful
 759 At Home with Family Handyman
 760 Tiny House Nation
@@ -621,7 +614,6 @@
 851 Rakuten Viki
 852 Duck Dynasty
 853 ROMCOM K-Drama
-855 My Little Pet
 857 NEW KFOOD
 858 Ax Men
 859 Ice Road Truckers
@@ -653,7 +645,6 @@ ACCDN
 ACL Cornhole TV
 ADN40
 AJ216
-ALF
 ALLBLK Gems
 ALLBLK Gems (USA)
 AMC Thrillers
@@ -673,6 +664,7 @@ Action Movies - Rakuten TV (UK)
 Adrenalina Pura TV
 Adriana Maya
 Adriana Maya 2
+Adult Swim Infomercials
 Adult Swim Last Stream On The Left
 Adult Swim Loiter Squad
 Adult Swim Robot Chicken
@@ -718,11 +710,13 @@ All Reality We TV
 All Reality We TV (USA)
 All Underground Hip Hop Radio
 All Weddings We TV
+All Weddings We TV (USA)
 All-Out Reality (USA)
 Alone By History (USA)
 Alternative
 Alva Jay
 Always Funny
+Always Funny Videos
 Always Funny Videos (USA)
 Amanda Nicole
 Amasian TV
@@ -763,6 +757,7 @@ Aqua
 Aqua Teen Hunger Force
 Arabella Mia
 Arabelle Raphael & Azzy Star
+Archivos Extraterrestres
 Archivos Forenses
 Are We There Yet
 Are We There Yet?
@@ -771,7 +766,6 @@ Ari Alectra
 Ari Kytsya & Camilla Araujo
 Aria Six
 Ariana Aimes
-Arizona's Family
 Arthur
 Ashanti
 Asian Drama
@@ -832,7 +826,6 @@ Big 12 Studios (CA)
 Big 12 Studios (USA)
 Big Brother
 Biography: The Icons (USA)
-Bitten
 Bizaar
 Bizarre Foods with Andrew Zimmern
 Black Family Sitcoms
@@ -874,7 +867,6 @@ CBS (KKTV)
 CBS (WHIO)
 CBS en español
 CG MMA En EspaÃ±ol (CA)
-CG MMA En EspaÃ±ol (USA)
 CJ ENM MOVIE
 CMT Equal Play
 COMET
@@ -948,6 +940,7 @@ Comet
 Como Dice el Dicho (USA)
 Conan O'Brien TV (UK)
 Conan O'Brien TV (USA)
+Concert Channel
 Confess by Nosey
 Construcciones Asombrosas
 Continuum
@@ -961,7 +954,6 @@ Cozy Vibes (USA)
 CraftsyTV
 Crave
 Creator Television
-Crime & Justice
 Crime & Justice (UK)
 Crime 24/7 (USA)
 Crime Scene TV
@@ -969,7 +961,6 @@ Crime Scenes
 Crime ThrillHer (USA)
 Crime Up Close
 Crimen
-Crimes Cults Killers (USA)
 Crimes That Shook Britain
 Criminal Minds
 Crunchyroll
@@ -994,8 +985,8 @@ DangerTV (CA)
 DangerTV (USA)
 Danja Angel
 Danja Angel 2
+Daria
 Dark Matter TV
-Dark Shadows
 Dateline
 Dateline 24/7
 Dateline 24/7 (USA)
@@ -1019,6 +1010,7 @@ Degrassi
 Degrassi (USA)
 Demand Africa
 Demand Drama (UK)
+Desafío Super Humanos
 Designated Survivor
 Destini
 Destini Creams
@@ -1044,6 +1036,7 @@ Dog Whisperer (CA)
 Dog Whisperer (USA)
 Dog Whisperer With Cesar Millan
 Dog Whisperer with Cesar Millan
+Dog el cazarrecompensas
 Dog the Bounty Hunter
 Dog the Bounty Hunter (CA)
 Dog the Bounty Hunter (USA)
@@ -1066,7 +1059,7 @@ Dry Bar Comedy (CA)
 Dry Bar Comedy (USA)
 Duck Dynasty
 Duck Dynasty (UK)
-Duck Dynasty (USA)
+Dulce by elGourmet
 Dungeons & Dragons Adventures
 Dynasty
 E Blue
@@ -1084,6 +1077,7 @@ Ebony
 Ebony TV Drama
 Ebony TV by Lionsgate
 Ebony TV by Lionsgate (USA)
+El Encantador de Perros
 El Reino Infantil
 El Rey Rebel
 Electric Now
@@ -1096,6 +1090,7 @@ Em098 & HoneyB
 Emeril Lagasse Channel (USA)
 Emily Norman
 Emma Magnolia
+Empeños a lo bestia
 EncourageTV
 Enough Said
 Entrepreneur TV
@@ -1105,6 +1100,7 @@ Estrella Games (USA)
 Estrella TV
 Estrella TV (USA)
 EstrellaTV
+Estrellas de Acción
 Euro Hits
 Evidence of Evil
 Evolution Earth (CA)
@@ -1187,7 +1183,6 @@ Genie Movie
 Genie ì•¡ì…˜íŠ¹ì„
 Geordie Shore
 Get.Factual
-Get.Factual (UK)
 Ghost Hunters
 Ghost Hunters Channel
 Ghosts Are Real
@@ -1235,7 +1230,6 @@ HSN West
 HTX
 HTX 2
 HTX 3
-Hagerty
 Hagerty (CA)
 Hagerty (USA)
 Hannah Jo
@@ -1301,12 +1295,12 @@ Horror by ALTER
 Horror by ALTER (USA)
 Hot 102.9
 Hot 107.9
+Hot 412
 Hot 96.9
 Hot 97.5
 Hot Bench
 Hot Country
 Hot Ones
-Hot Ones (UK)
 Hot Ones (USA)
 Hot Wheels Action (USA)
 House Monkeys by Scoutlounge
@@ -1391,7 +1385,6 @@ Jada Stevens 2
 Jada Stevens 3
 Jade Fever
 Jadeteen
-Jamie Kennedy Comedy
 Jamie Oliver (USA)
 Jayda
 Jayla Page
@@ -1405,7 +1398,6 @@ Jenni Angel
 Jersey Shore
 Jessie Rogers
 Jhonie
-JoJo’s Bizarre Adventure
 Jocelyn
 Jocelyn 2
 Joel Osteen Network
@@ -1427,14 +1419,13 @@ Just for Laughs TV
 K-ASMR
 K-POP by CJ ENM (CA)
 K-POP by CJ ENM (UK)
-K-POP by CJ ENM (USA)
-K-Stories by CJ ENM (USA)
 KAVU Crossroads Today Victoria TX
 KBS 1ë°•2ì¼ ì‹œì¦Œ1
 KBS Joy ë¬´ì—‡ì´ë“  ë¬¼ì–´ë³´ì‚´
 KBS Joy ì—°ì• ì˜ ì°¸ê²¬
 KBS êµ¬ë¥´ë¯¸ ê·¸ë¦° ë‹¬ë¹›
 KBS ì‹ ì‚¬ì™€ ì•„ê°€ì”¨
+KBS íƒœì–‘ì˜ í›„ì˜ˆ
 KBS í™ê¹€ë™ì „
 KCEN Waco TX
 KIRO Seattle
@@ -1490,6 +1481,7 @@ Laff More
 Laff More (USA)
 Las 3 MarÃ­as (USA)
 Las Tortugas Ninja
+Las Vegas
 Lashae
 Lashae 2
 Lassie
@@ -1500,7 +1492,6 @@ Law&Crime
 Law&Crime (CA)
 Lawless by Lionsgate
 Leahndra
-Leave It to Beaver
 Leave it to Bryan
 Lena The Plug & Jason Luv
 Les DÃ©batteurs de Noovo (CA)
@@ -1514,6 +1505,7 @@ Life with Derek
 Lifetime Love & Drama
 Lifetime Movies (UK)
 Lifetime Movies Love & Drama (USA)
+Like Nastya
 Lillianette & Raven Thick
 Lissa Aires
 Little House on the Prairie
@@ -1600,6 +1592,7 @@ MeatEater (USA)
 Mecum TV
 Medical Detectives
 Melztube
+Metalocalypse
 Mexicuban & Greedy Grove
 Mi Casa
 Mi Coche Clásico
@@ -1752,7 +1745,6 @@ Nollywood
 Non-Stop
 Non-Stop '90s
 Nonstop Drama
-Nonstop Rain for Calming Vibes
 Noovo Ã‡a câ€™est drÃ´le (CA)
 Nosey
 Nosey (CA)
@@ -1763,7 +1755,6 @@ Novacane
 Novelas Turcas (USA)
 Novelisima
 Now 70's (UK)
-Now 70s
 Now 80's
 Now 80s (UK)
 Now 90's & 00's (UK)
@@ -1776,6 +1767,7 @@ OGN ìŠ¤íƒ€ë¦¬ê·¸
 OK Gamer
 ONE Championship TV
 OUTtv Proud
+OUTtv Proud (USA)
 Obsesión por los Autos
 Ocean Dr
 Ocean Vibes (USA)
@@ -1829,7 +1821,6 @@ Paramount+ Picks
 Paranormal Files
 Paranormal State
 Paris
-Parliament TV
 Paternity Court
 Pawn Stars (USA)
 Paws & Claws
@@ -1884,7 +1875,6 @@ Property Brothers (CA)
 Property Brothers Channel
 Pure Flix TV
 Pursuit UP (USA)
-Pursuit Up
 PursuitUP
 PursuitUp
 Q93.3
@@ -1942,10 +1932,9 @@ RetroCrush (CA)
 RetroCrush (USA)
 RetroStrange TV
 Rev and Roll (USA)
-Revolt Mixtape
 Revry
+Revry (USA)
 Reyna
-Rick and Morty
 RiffTrax
 RiffTrax (USA)
 Rig TV
@@ -1988,7 +1977,6 @@ SLOPES
 SPARK TV
 SPEEDVISION
 SSLala
-STELLAR
 SURF NOW TV (USA)
 Sabrina The Teenage Witch
 Sage Dovina
@@ -2013,7 +2001,6 @@ Savi
 Say Yes to the Dress
 Scare Tactics
 Scares by Shudder
-Sci-Fi - Rakuten TV (UK)
 Scorpihoe
 Scream Factory TV
 Screambox TV
@@ -2024,7 +2011,6 @@ Sensical Makers (USA)
 Sensing Murder
 Serenity
 Shades of Black
-Shades of Black (USA)
 Shawna Lynn
 She Wrote
 Shemaroo Bollywood
@@ -2048,6 +2034,7 @@ Slugterra (USA)
 Smithsonian Channel Selects
 Smooth Jazz
 Smooth Jazz 88.9
+Smooth Jazz Box
 Smooth Jazz California
 Smooth Jazz Florida - Champagne Smooth Jazz
 Smooth Jazz Network
@@ -2080,7 +2067,6 @@ Sparkle Movies (UK)
 Spike Outdoors
 SpongeBob SquarePants
 Squidbillies
-Stadium
 Stadium (USA)
 Star Trek
 Star Trek Deep Space Nine
@@ -2139,6 +2125,7 @@ TMZ (USA)
 TNT
 TNT West
 TODAY All Day
+TODAY All Day (USA)
 TOTALLY TURTLES
 TRACE Brazuca
 TRACE Latina
@@ -2152,7 +2139,6 @@ TV Land Sitcoms (USA)
 TV One CRIME & JUSTICE FAST CHANNEL
 TV One Crime & Justice
 TV One Stars & Stories
-TVB Pearl Drama
 TVOAI Channel
 TVSN
 TVì¡°ì„  ë¯¸ìŠ¤í„°ë¡œë˜
@@ -2166,8 +2152,6 @@ Talk (UK)
 Tastemade
 Tastemade (USA)
 Tastemade Home
-Tastemade Home (USA)
-Tastemade Smokehouse
 Tastemade Travel
 Tastemade Travel (USA)
 Tastemade Travel Channel
@@ -2229,6 +2213,7 @@ The Jim Rome Show (USA)
 The Johnny Carson Show
 The Judge Judy Channel
 The Kids in the Hall
+The LEGO Channel (UK)
 The LEGO Channel (USA)
 The Lone Ranger
 The Love Boat
@@ -2254,7 +2239,6 @@ The Rifleman
 The Spa
 The Twilight Zone
 The UnXplained with William Shatner (USA)
-The Venture Bros.
 The Walking Dead Universe
 The Walking Dead Universe (USA)
 The Walking Dead by AMC
@@ -2272,7 +2256,6 @@ Thrillers 365
 Tiffany & HMR
 TikTok Radio
 TikTok Radio en Español
-Tim and Eric Awesome Show
 Tiny House Nation
 Tiny House Nation (CA)
 Tiny House Nation (UK)
@@ -2313,7 +2296,6 @@ Transformers
 Trapsweety
 Travel + Adventure
 Travel Escapes
-Tribeca Channel
 Trinity Broadcasting Network
 Trixi Brooks
 Trixie
@@ -2337,13 +2319,13 @@ USA TODAY
 USA Today (USA)
 Ultimate Builds
 UnXplained Zone
-Unbeaten
 UniMás (WFUT)
 Unidentified (USA)
 Unique Lives
 Universal Action
 Universal Crime
 Universal Monsters
+Universal Movies
 Universal Westerns
 Universe: Mysteries Solved (USA)
 Univision (WLTV)
@@ -2365,7 +2347,6 @@ Vanessa The Coach
 Venevisión Internacional
 Verniy TV
 Veronica Perasso
-Very Tampa Bay by WMOR
 Vianey
 Vice Entertainment
 Victoria Peach
@@ -2388,7 +2369,6 @@ WFTV Orlando
 WGCI-FM 107.5
 WHIO Dayton
 WISC Madison WI
-WITZ Comedy TV
 WJLB
 WKOW Madison WI
 WLTX CBS 19 Columbia SC
@@ -2412,8 +2392,6 @@ Waypoint TV
 Waypoint TV (CA)
 Waypoint TV (USA)
 WaypointTV
-Wedotv Amor Piel Salvaje
-Weeds & Nurse Jackie
 Weeds / Nurse Jackie
 Welcome Home
 Wendy Williams
@@ -2452,13 +2430,13 @@ World War TV
 World War TV (UK)
 World's Wildest Police Videos
 Worldâ€™s Most Evil Killers (USA)
-Wu Tang Collection
 X102.3
 Xena
 Xena Warrior Princess
 Xploration Station
 Xplore (USA)
 Xtreme Outdoor Presented by HISTORY
+Xtreme Outdoor Presented by HISTORY (USA)
 Y2K
 YAAAS! (UK)
 YTN
@@ -2544,6 +2522,7 @@ yurfavdream
 ìš©ê°í•œ í˜•ì‚¬ë“¤
 ìš°ë¦¬ì˜ì‹íƒ
 ì–¼ì–´ì£½ì„ ì—°ì• ë”°ìœ„
+ì—°í•©ë‰´ìŠ¤TV
 ì‚´ë¡±ë“œë¦½
 ì”¨ë„¤21+
 ì„œìš¸ê²½ì œTV
